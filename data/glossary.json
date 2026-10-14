@@ -1,0 +1,52 @@
+{
+  "series": "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo (KochiKame)",
+  "characters": {
+    "Kankichi Ryotsu": {
+      "japanese": "両津勘吉",
+      "nicknames": ["Ryo-san (両さん)", "Ryotsu", "Senpai"],
+      "tone": "Loud, energetic, coarse Shitamachi (downtown Tokyo) dialect, greedy, mischievous, informal, slangy",
+      "catchphrases": ["ぎゃはは (Gyahaha)", "～じゃねえか (isn't it)", "わし (Washi - I/me)"]
+    },
+    "Daijiro Ohara": {
+      "japanese": "大原大二郎",
+      "titles": ["Chief (部長 - Bucho)"],
+      "tone": "Stern, disciplined, traditional, authoritative father-figure, easily provoked by Ryotsu's money schemes",
+      "catchphrases": ["両津ー! (Ryotsuuu!)", "バカ者! (Fool!)"]
+    },
+    "Keiichi Nakagawa": {
+      "japanese": "中川圭一",
+      "titles": ["Nakagawa"],
+      "tone": "Polite, polite Keigo, cosmopolitan, ultra-wealthy chaebol heir, deferential to Ryotsu",
+      "catchphrases": ["先輩 (Senpai)", "～ですよ"]
+    },
+    "Reiko Catherine Akimoto": {
+      "japanese": "秋本・カトリーヌ・麗子",
+      "titles": ["Reiko", "Reiko-san"],
+      "tone": "Elegant, wealthy socialite, sharp-witted, affectionate but frequently exasperated by Ryotsu",
+      "catchphrases": ["両ちゃん (Ryo-chan)"]
+    },
+    "Hayato Honda": {
+      "japanese": "本田速人",
+      "titles": ["Honda"],
+      "tone": "Timid and meek normally, but turns into an aggressive berserker biker when straddling any motorcycle or vehicle"
+    },
+    "Yosuke Terai": {
+      "japanese": "寺井洋介",
+      "titles": ["Terai"],
+      "tone": "Ordinary, mild-mannered, family-man police officer"
+    }
+  },
+  "domain_terms": {
+    "交番 (Koban)": "Police Box (specifically Kameari Park Police Box)",
+    "始末書 (Shimatsusho)": "Disciplinary Apology Report / Written Reprimand (NOT 'island records')",
+    "葛飾署 (Katsushika-sho)": "Katsushika Police Station",
+    "下町 (Shitamachi)": "Downtown Tokyo (traditional merchant & artisan districts)",
+    "肝試し (Kimodameshi)": "Test of Courage (NOT 'test of the liver')",
+    "お化け屋敷 (Obake-yashiki)": "Haunted House attraction (NOT 'ghost competition')",
+    "一つ目小僧 (Hitotsume-kozo)": "One-eyed boy monster",
+    "のっぺらぼう (Noppera-bo)": "Faceless ghost",
+    "ろくろ首 (Rokurokubi)": "Long-necked ghoul",
+    "からかさ小僧 (Karakasa-kozo)": "One-legged umbrella spirit",
+    "提灯お化け (Chochin-obake)": "Paper lantern ghost"
+  }
+}

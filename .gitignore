@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Audio / Video media files
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wav
+*.mp3
+*.aac
+*.flac
+
+# Operating System files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/

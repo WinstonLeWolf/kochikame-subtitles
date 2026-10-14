@@ -1,0 +1,1543 @@
+1
+00:01:28,284 --> 00:01:34,123
+NINJA VS. INDIANA RYOTSU
+
+2
+00:01:35,758 --> 00:01:36,659
+Good morning.
+
+3
+00:01:36,892 --> 00:01:37,926
+Good morning, sir.
+
+4
+00:01:38,127 --> 00:01:39,628
+Hi, good morning.
+
+5
+00:01:39,828 --> 00:01:40,696
+Hmm?
+
+6
+00:01:41,063 --> 00:01:43,165
+Ryotsu, what's with that outfit?
+
+7
+00:01:44,466 --> 00:01:47,903
+Oh, well... I'm just going out on patrol.
+
+8
+00:01:48,637 --> 00:01:51,373
+When did you join the mountain patrol, huh?
+
+9
+00:01:51,907 --> 00:01:53,809
+Well, it's dangerous out there these days.
+
+10
+00:01:54,009 --> 00:01:57,146
+We need equipment like this to patrol properly.
+
+11
+00:01:57,346 --> 00:01:58,380
+Stop making excuses!
+
+12
+00:01:59,014 --> 00:02:01,917
+He won't explain, no matter how much we ask.
+
+13
+00:02:03,719 --> 00:02:05,254
+Ryo-san, are you ready?
+
+14
+00:02:05,921 --> 00:02:07,356
+It's about time to—
+
+15
+00:02:07,556 --> 00:02:09,291
+Oh, directions to the station?
+
+16
+00:02:09,491 --> 00:02:11,460
+Go straight this way and...
+
+17
+00:02:11,660 --> 00:02:14,530
+Sorry, go ahead without me. I'll catch up soon.
+
+18
+00:02:14,730 --> 00:02:16,932
+Ryotsu, what's going on?
+
+19
+00:02:17,166 --> 00:02:18,167
+Huh?
+
+20
+00:02:18,367 --> 00:02:21,036
+Wasn't that Shuzaburo Himeji?
+
+21
+00:02:21,270 --> 00:02:24,540
+Shuzaburo Himeji, the famous archaeologist?
+
+22
+00:02:24,973 --> 00:02:28,177
+I heard last year he dug up Mount Akagi with a bulldozer
+
+23
+00:02:28,377 --> 00:02:30,679
+to try to unearth Tokugawa's buried treasure.
+
+24
+00:02:31,113 --> 00:02:32,815
+He didn't find anything, though.
+
+25
+00:02:33,015 --> 00:02:35,984
+Well, I guess I'll head out on patrol.
+
+26
+00:02:36,885 --> 00:02:41,223
+Ryo-chan, don't tell me you're going after buried treasure with that guy?
+
+27
+00:02:42,057 --> 00:02:43,559
+Buried treasure?
+
+28
+00:02:43,759 --> 00:02:47,162
+Are you planning something stupid again?
+
+29
+00:02:47,363 --> 00:02:49,398
+It's rude to call it stupid.
+
+30
+00:02:49,598 --> 00:02:53,202
+You should call it what it is. A man's dream!
+
+31
+00:02:53,402 --> 00:02:55,404
+A man's dream, huh?
+
+32
+00:02:56,004 --> 00:02:59,742
+The best thing for a man is to work steadily and live steadily.
+
+33
+00:02:59,975 --> 00:03:04,913
+It's not manly to go looking for buried treasure to try to get rich quick.
+
+34
+00:03:05,381 --> 00:03:09,251
+Ryotsu, it's not that easy to find buried treasure.
+
+35
+00:03:10,419 --> 00:03:11,687
+Well, just wait and see.
+
+36
+00:03:11,887 --> 00:03:14,423
+Right, I'll leave you guys to take care of things here.
+
+37
+00:03:14,790 --> 00:03:16,258
+Hey, wait, Ryotsu!
+
+38
+00:03:17,860 --> 00:03:22,765
+Jeez, that guy will do anything that leads to money.
+
+39
+00:03:24,600 --> 00:03:26,001
+But does it really exist?
+
+40
+00:03:26,735 --> 00:03:29,872
+Is there really a castle that no one has found yet?
+
+41
+00:03:30,072 --> 00:03:32,007
+We have to believe the ancient book.
+
+42
+00:03:33,342 --> 00:03:34,176
+Hello!
+
+43
+00:03:34,476 --> 00:03:35,944
+Oh, hello!
+
+44
+00:03:36,178 --> 00:03:37,646
+Yeah, thank you.
+
+45
+00:03:38,080 --> 00:03:40,382
+Look, there are so many hikers.
+
+46
+00:03:41,016 --> 00:03:42,951
+That's why it's called a phantom castle.
+
+47
+00:03:43,185 --> 00:03:45,754
+"There stands a hidden castle deep in the Kai mountains
+
+48
+00:03:45,954 --> 00:03:48,357
+It's called the Phantom Castle.
+
+49
+00:03:48,557 --> 00:03:53,128
+At its peak are a pair of &lt;i&gt;shachihoko&lt;/i&gt; with shimmering golden scales."
+
+50
+00:03:53,662 --> 00:03:55,831
+Real orcas don't have any scales.
+
+51
+00:03:56,064 --> 00:04:00,836
+But &lt;i&gt;shachihoko&lt;/i&gt; are imaginary sea creatures, modeled after orcas.
+
+52
+00:04:01,603 --> 00:04:05,407
+Placing one at each end of a roof is said to protect the building from fire.
+
+53
+00:04:05,607 --> 00:04:07,609
+I don't care about all that crap,
+
+54
+00:04:07,976 --> 00:04:11,380
+but are those &lt;i&gt;shachihoko&lt;/i&gt; really made of solid gold?
+
+55
+00:04:11,580 --> 00:04:14,817
+Yes, because Kai had gold mines.
+
+56
+00:04:15,050 --> 00:04:17,386
+They were made by melting many large gold coins.
+
+57
+00:04:17,653 --> 00:04:19,988
+I'm not really interested in their value,
+
+58
+00:04:20,222 --> 00:04:23,292
+but from their size, the pair must be worth at least a billion.
+
+59
+00:04:23,992 --> 00:04:26,662
+W-What? A billion yen?!
+
+60
+00:04:26,862 --> 00:04:28,230
+Tell me that first!
+
+61
+00:04:28,430 --> 00:04:30,799
+In that case, we've got no time to lose!
+
+62
+00:04:30,999 --> 00:04:33,402
+Let's hurry up and find the castle.
+
+63
+00:04:33,602 --> 00:04:37,639
+I just want to find Takeda Shingen's hidden castle...
+
+64
+00:04:39,441 --> 00:04:41,143
+"KOFU"
+
+65
+00:04:41,443 --> 00:04:44,546
+This road isn't on the navigation system. Which way is it?
+
+66
+00:04:44,780 --> 00:04:45,614
+This way.
+
+67
+00:04:49,985 --> 00:04:51,987
+Are you sure this is the right path?
+
+68
+00:04:52,187 --> 00:04:54,523
+I'm sure! It's just as the ancient book says.
+
+69
+00:04:55,657 --> 00:04:56,792
+Huh?
+
+70
+00:04:57,860 --> 00:04:59,628
+What on earth is this?
+
+71
+00:05:00,495 --> 00:05:02,698
+Hmm... well...
+
+72
+00:05:02,898 --> 00:05:05,000
+This looks like Shingen's hidden hot spring.
+
+73
+00:05:05,200 --> 00:05:09,705
+Hey, we're not looking for a hot spring resort!
+
+74
+00:05:09,905 --> 00:05:10,873
+Huh?
+
+75
+00:05:11,640 --> 00:05:12,674
+What?
+
+76
+00:05:13,442 --> 00:05:16,845
+You're not talking about that &lt;i&gt;shachihoko&lt;/i&gt;, are you?
+
+77
+00:05:17,045 --> 00:05:18,180
+No, no!
+
+78
+00:05:19,281 --> 00:05:22,985
+That's strange. There's no hot spring on the map.
+
+79
+00:05:23,185 --> 00:05:26,488
+Jeez, I've got a bad feeling about this.
+
+80
+00:05:26,688 --> 00:05:29,825
+Oh! Look, there's a path.
+
+81
+00:05:30,492 --> 00:05:33,295
+I knew the ancient book would lead us the right way.
+
+82
+00:05:38,367 --> 00:05:40,602
+This is a dead end, seriously.
+
+83
+00:05:41,169 --> 00:05:43,338
+That ancient book is a joke.
+
+84
+00:05:43,906 --> 00:05:44,740
+Hmm...
+
+85
+00:05:45,374 --> 00:05:49,545
+Well, maybe it's supposed to be this way up or...
+
+86
+00:05:49,745 --> 00:05:51,313
+Hey, let me take a look!
+
+87
+00:05:51,513 --> 00:05:53,382
+Stop that! What are you doing?
+
+88
+00:05:53,582 --> 00:05:56,585
+This is a valuable book I found through great effort.
+
+89
+00:05:56,785 --> 00:05:58,954
+-Just give it to me! -No!
+
+90
+00:05:59,187 --> 00:06:00,589
+-Hand it over! -No!
+
+91
+00:06:07,162 --> 00:06:08,096
+I'm dizzy!
+
+92
+00:06:13,268 --> 00:06:14,703
+Ouch...
+
+93
+00:06:15,203 --> 00:06:17,339
+Hey, are you okay?
+
+94
+00:06:17,539 --> 00:06:19,708
+Yeah, I think so.
+
+95
+00:06:19,908 --> 00:06:23,111
+But it looks like we fell down quite a long way.
+
+96
+00:06:25,213 --> 00:06:27,883
+Thanks to that, we saved a lot of time.
+
+97
+00:06:28,083 --> 00:06:29,418
+Don't talk crap!
+
+98
+00:06:29,618 --> 00:06:32,454
+-Oh, there's a house over there. -Huh?
+
+99
+00:06:32,955 --> 00:06:34,957
+It looks like a teahouse.
+
+100
+00:06:35,457 --> 00:06:37,759
+Hey, we're gonna take a break here!
+
+101
+00:06:38,961 --> 00:06:40,228
+I'm coming.
+
+102
+00:06:41,797 --> 00:06:43,999
+Welcome.
+
+103
+00:06:44,232 --> 00:06:46,234
+-We'll have some tea and dumplings. -Sure.
+
+104
+00:06:48,937 --> 00:06:51,473
+Where are you guys going?
+
+105
+00:06:52,074 --> 00:06:55,644
+Oh, actually we're looking for something around here.
+
+106
+00:06:57,245 --> 00:07:01,483
+Oh, what kind of thing are you looking for?
+
+107
+00:07:01,683 --> 00:07:05,988
+Well, we were just walking in the mountains and got a little lost.
+
+108
+00:07:06,822 --> 00:07:08,790
+-Right? -Oh, yes, yes.
+
+109
+00:07:08,991 --> 00:07:11,293
+-But you know... -Yes?
+
+110
+00:07:12,627 --> 00:07:15,964
+You can't get many customers in a place like this.
+
+111
+00:07:16,465 --> 00:07:21,637
+Oh, sometimes there are customers who wander in like you guys.
+
+112
+00:07:22,004 --> 00:07:25,173
+-No need to worry. -Oh, I see.
+
+113
+00:07:28,443 --> 00:07:31,647
+Well, after finishing your dumplings, you can go down that way.
+
+114
+00:07:31,847 --> 00:07:34,983
+Walk a little further, and you'll reach the mountain trail.
+
+115
+00:07:37,953 --> 00:07:39,321
+What should we do, Ryo-san?
+
+116
+00:07:40,155 --> 00:07:42,858
+My gut tells me it's definitely this way.
+
+117
+00:07:43,058 --> 00:07:45,460
+I can smell gold ahead.
+
+118
+00:07:45,661 --> 00:07:48,630
+-Sorry, I just farted. -Gah...
+
+119
+00:07:50,499 --> 00:07:53,268
+Old man, I'll leave the money here.
+
+120
+00:07:53,735 --> 00:07:56,304
+-You can keep the change. -Wait a minute!
+
+121
+00:07:56,505 --> 00:07:57,305
+What?
+
+122
+00:07:58,974 --> 00:08:01,276
+What do you mean by this thousand yen?
+
+123
+00:08:01,476 --> 00:08:03,545
+What is it? Too much?
+
+124
+00:08:04,646 --> 00:08:05,981
+Don't be ridiculous!
+
+125
+00:08:06,748 --> 00:08:09,851
+A cup of tea is 500 yen, three dumplings are 1,000 yen,
+
+126
+00:08:10,052 --> 00:08:11,920
+so the total for both of you is 3,000 yen.
+
+127
+00:08:12,154 --> 00:08:14,056
+Now pay up, every last yen!
+
+128
+00:08:14,389 --> 00:08:16,558
+Th-Three thousand yen?
+
+129
+00:08:16,758 --> 00:08:17,926
+Damn it!
+
+130
+00:08:18,160 --> 00:08:20,629
+You old scoundrel, taking advantage of your customers!
+
+131
+00:08:20,829 --> 00:08:24,733
+There's no electricity, gas, or running water in the mountains.
+
+132
+00:08:24,933 --> 00:08:27,202
+Even 3,000 yen hardly covers the cost.
+
+133
+00:08:27,402 --> 00:08:29,204
+Okay, I get it. I'll pay.
+
+134
+00:08:29,404 --> 00:08:31,106
+Ryo-san, let's hurry anyway.
+
+135
+00:08:31,339 --> 00:08:33,575
+Yeah, here you go!
+
+136
+00:08:35,210 --> 00:08:38,580
+Well, well, thank you very much. Please come again.
+
+137
+00:08:39,214 --> 00:08:40,749
+I'll never come again!
+
+138
+00:08:41,249 --> 00:08:43,085
+No, no! Not that way!
+
+139
+00:08:43,919 --> 00:08:46,221
+I told you the mountain trail is the other way.
+
+140
+00:08:46,421 --> 00:08:48,023
+This way leads to a dead end.
+
+141
+00:08:48,223 --> 00:08:50,492
+And if you go without permission, you'll be cursed!
+
+142
+00:08:50,692 --> 00:08:52,094
+Cursed?
+
+143
+00:08:52,327 --> 00:08:55,130
+Hah! Nonsense. Now move aside.
+
+144
+00:09:04,606 --> 00:09:07,976
+Oh, it really was a dead end.
+
+145
+00:09:08,877 --> 00:09:12,380
+Jeez, it's just like that rip-off teahouse owner said.
+
+146
+00:09:12,748 --> 00:09:17,886
+-But I'm sure the Phantom Castle is close. -Hmm...
+
+147
+00:09:18,753 --> 00:09:21,456
+We can't climb this rock wall.
+
+148
+00:09:21,990 --> 00:09:24,226
+I'll use this chance to take a leak.
+
+149
+00:09:24,793 --> 00:09:28,697
+Hmm, it's frustrating, but we have no choice but to turn back.
+
+150
+00:09:31,133 --> 00:09:32,601
+Hmm? Oh?
+
+151
+00:09:32,801 --> 00:09:33,802
+What happened?
+
+152
+00:09:34,002 --> 00:09:35,003
+Come here.
+
+153
+00:09:35,237 --> 00:09:37,539
+Can't you even pee by yourself?
+
+154
+00:09:38,140 --> 00:09:41,076
+Of course I can! That's not it.
+
+155
+00:09:41,276 --> 00:09:42,911
+Spill some water here.
+
+156
+00:09:43,111 --> 00:09:44,412
+Sprinkle some sand on it.
+
+157
+00:09:44,613 --> 00:09:46,014
+I'm not a cat!
+
+158
+00:09:46,848 --> 00:09:48,283
+Like this?
+
+159
+00:09:54,790 --> 00:09:57,325
+You can hear the water flowing.
+
+160
+00:09:57,559 --> 00:09:59,928
+Hmm, sounds like there's something underneath.
+
+161
+00:10:00,929 --> 00:10:03,965
+But there's no way we can move a rock this big.
+
+162
+00:10:04,332 --> 00:10:06,868
+-It moved! -What's this, pumice?
+
+163
+00:10:07,469 --> 00:10:09,404
+Ryo-san, there is something under it.
+
+164
+00:10:10,939 --> 00:10:12,140
+Oh!
+
+165
+00:10:12,841 --> 00:10:13,675
+Yes!
+
+166
+00:10:19,848 --> 00:10:21,650
+Look, the light of a way out!
+
+167
+00:10:28,757 --> 00:10:30,659
+Oh! It's a castle!
+
+168
+00:10:30,859 --> 00:10:32,961
+The Phantom Castle!
+
+169
+00:10:35,764 --> 00:10:38,033
+We did it! Those are the golden &lt;i&gt;shachihoko&lt;/i&gt;!
+
+170
+00:10:40,335 --> 00:10:43,071
+We found it! We finally found it!
+
+171
+00:10:43,305 --> 00:10:48,043
+But normally a castle is built so that it overlooks the world below, right?
+
+172
+00:10:48,677 --> 00:10:51,513
+This looks more like a hideout.
+
+173
+00:10:51,713 --> 00:10:53,215
+That's why it's a phantom castle.
+
+174
+00:10:53,815 --> 00:10:57,185
+The castle lord, a descendant of Lord Shingen, was a recluse.
+
+175
+00:10:57,385 --> 00:11:00,722
+So he built his castle in this remote area away from the world.
+
+176
+00:11:00,922 --> 00:11:05,627
+Well, this certainly explains why it hadn't been found until now.
+
+177
+00:11:07,495 --> 00:11:10,398
+But how can we get those?
+
+178
+00:11:10,832 --> 00:11:13,468
+There's no bridge around the castle.
+
+179
+00:11:13,668 --> 00:11:17,906
+This says we enter the castle from the Otemon Gate using &lt;i&gt;hashi&lt;/i&gt; and&lt;i&gt; hashi&lt;/i&gt;.
+
+180
+00:11:18,406 --> 00:11:20,208
+&lt;i&gt;Hashi&lt;/i&gt; and &lt;i&gt;hashi&lt;/i&gt;? ("bridge" or "edge" in Japanese)
+
+181
+00:11:21,076 --> 00:11:22,944
+Hmm? Could it be that?
+
+182
+00:11:23,178 --> 00:11:24,946
+"BRIDGE"
+
+183
+00:11:26,181 --> 00:11:28,216
+What? This is too short!
+
+184
+00:11:29,050 --> 00:11:30,919
+How about using another one?
+
+185
+00:11:31,519 --> 00:11:32,754
+They're the same length.
+
+186
+00:11:32,954 --> 00:11:35,357
+Using another one would be the same.
+
+187
+00:11:35,590 --> 00:11:36,424
+Hmm?
+
+188
+00:11:36,658 --> 00:11:38,360
+Wait a minute...
+
+189
+00:11:38,560 --> 00:11:40,562
+Using &lt;i&gt;hashi&lt;/i&gt; and &lt;i&gt;hashi&lt;/i&gt;...
+
+190
+00:11:41,263 --> 00:11:42,197
+I got it!
+
+191
+00:11:42,831 --> 00:11:44,666
+This is how we can cross.
+
+192
+00:11:44,866 --> 00:11:45,700
+I see.
+
+193
+00:11:46,434 --> 00:11:49,871
+So it meant using wooden bridges and the edges of the moat.
+
+194
+00:11:54,509 --> 00:11:57,279
+"DON'T OPEN THIS GATE"
+
+195
+00:12:08,156 --> 00:12:09,758
+Damn, it really won't open!
+
+196
+00:12:09,958 --> 00:12:11,126
+It was a sliding door.
+
+197
+00:12:12,327 --> 00:12:14,296
+What a pointless sign.
+
+198
+00:12:15,530 --> 00:12:17,766
+Next is a huge iron gate.
+
+199
+00:12:21,469 --> 00:12:23,972
+No matter how much I push or pull, it won't budge.
+
+200
+00:12:24,472 --> 00:12:28,009
+The book says that the gate will open when Tatsumi meets Horse.
+
+201
+00:12:28,243 --> 00:12:29,110
+Is it a code?
+
+202
+00:12:29,311 --> 00:12:32,013
+So, maybe this statue is the clue.
+
+203
+00:12:32,280 --> 00:12:34,582
+But something's strange. There's no horse.
+
+204
+00:12:34,783 --> 00:12:37,452
+I guess Horse is a direction.
+
+205
+00:12:37,886 --> 00:12:41,356
+In the Edo Period, Horse meant a southerly direction.
+
+206
+00:12:41,756 --> 00:12:42,590
+That's it!
+
+207
+00:12:42,791 --> 00:12:45,493
+Turn the Tatsumi statue to the south.
+
+208
+00:12:45,727 --> 00:12:47,462
+But, what's Tatsumi?
+
+209
+00:12:48,296 --> 00:12:51,266
+Tatsumi means the dragon and the snake in the Chinese zodiac.
+
+210
+00:12:51,466 --> 00:12:53,635
+Okay, turn the statue to the south!
+
+211
+00:12:53,835 --> 00:12:55,637
+Huh? Which way is south?
+
+212
+00:12:57,372 --> 00:13:00,608
+Hmm, I guess the navigator can't get a signal.
+
+213
+00:13:00,809 --> 00:13:01,943
+Let's do it another way.
+
+214
+00:13:04,112 --> 00:13:05,280
+Cutting down a tree?
+
+215
+00:13:05,480 --> 00:13:06,748
+Look at the cut.
+
+216
+00:13:07,215 --> 00:13:09,751
+The side with the larger growth rings is south.
+
+217
+00:13:10,518 --> 00:13:11,353
+It's that way.
+
+218
+00:13:11,786 --> 00:13:13,521
+Turn the dragon to the south.
+
+219
+00:13:14,589 --> 00:13:18,026
+-And the snake too... -That's not a snake! It's a loach!
+
+220
+00:13:24,232 --> 00:13:26,801
+Why make such a confusing statue!
+
+221
+00:13:27,002 --> 00:13:29,704
+Ryo-san, we need to be more careful.
+
+222
+00:13:30,472 --> 00:13:33,875
+Anyway, the gate's open, so quit complaining.
+
+223
+00:13:40,849 --> 00:13:44,886
+Huh... so that man has finally come this far.
+
+224
+00:13:45,954 --> 00:13:48,390
+Seems it's time for me to step in.
+
+225
+00:13:49,090 --> 00:13:51,326
+For as long as 400 years,
+
+226
+00:13:51,860 --> 00:13:55,897
+we of the Phantom Clan have guarded this castle without rest.
+
+227
+00:13:56,831 --> 00:14:00,201
+Lord Shingen, I'm the last of us now.
+
+228
+00:14:00,402 --> 00:14:04,005
+But don't worry, I won't be bested by the young ones just yet.
+
+229
+00:14:04,205 --> 00:14:07,342
+I'll show them what we're made of.
+
+230
+00:14:31,065 --> 00:14:33,401
+This is almost like a haunted house.
+
+231
+00:14:33,868 --> 00:14:36,771
+That's because it was built hundreds of years ago.
+
+232
+00:14:37,305 --> 00:14:40,575
+I have no complaints as long as I can get the &lt;i&gt;shachihoko&lt;/i&gt;.
+
+233
+00:14:40,942 --> 00:14:43,445
+In any case, we need to go up to the top floor.
+
+234
+00:14:44,612 --> 00:14:47,282
+Ah, if you go that way...
+
+235
+00:14:48,950 --> 00:14:50,018
+Whoa!
+
+236
+00:14:50,552 --> 00:14:53,121
+There's a trap ceiling, so you'd better be careful.
+
+237
+00:14:53,621 --> 00:14:55,323
+Tell me sooner!
+
+238
+00:14:57,125 --> 00:14:59,494
+The trap is still working.
+
+239
+00:15:00,161 --> 00:15:01,896
+There could be other traps.
+
+240
+00:15:03,098 --> 00:15:04,132
+Okay, the second floor.
+
+241
+00:15:06,401 --> 00:15:07,635
+Ouch, ouch, ouch!
+
+242
+00:15:08,503 --> 00:15:11,706
+Damn it! This staircase looks like a comedy set.
+
+243
+00:15:11,906 --> 00:15:13,608
+We can't go any further.
+
+244
+00:15:15,877 --> 00:15:17,979
+They're in trouble.
+
+245
+00:15:18,413 --> 00:15:19,247
+Huh?
+
+246
+00:15:23,618 --> 00:15:25,253
+All right, come up!
+
+247
+00:15:26,421 --> 00:15:29,190
+This is just the beginning.
+
+248
+00:15:33,995 --> 00:15:34,796
+What!
+
+249
+00:15:36,898 --> 00:15:38,466
+"SHORTCUT"
+
+250
+00:15:38,666 --> 00:15:39,467
+There's more!
+
+251
+00:15:43,304 --> 00:15:44,472
+How about this!
+
+252
+00:15:55,650 --> 00:15:58,453
+The traps are getting more serious.
+
+253
+00:15:58,653 --> 00:16:01,923
+We deserve at least ten golden &lt;i&gt;shachihoko&lt;/i&gt; for this.
+
+254
+00:16:02,323 --> 00:16:04,692
+Greedy fools...
+
+255
+00:16:05,660 --> 00:16:07,529
+Well then, time for my next move.
+
+256
+00:16:09,797 --> 00:16:11,799
+Finally, the third floor.
+
+257
+00:16:12,000 --> 00:16:15,670
+The top floor is the fifth, so we're only halfway.
+
+258
+00:16:16,004 --> 00:16:18,406
+Anyway, let's find the stairs.
+
+259
+00:16:19,374 --> 00:16:20,208
+Oh?
+
+260
+00:16:20,875 --> 00:16:22,143
+What's that?
+
+261
+00:16:22,343 --> 00:16:23,478
+There's some writing.
+
+262
+00:16:24,245 --> 00:16:26,381
+"To the top floor of the tower"?
+
+263
+00:16:26,948 --> 00:16:30,718
+Oh, could it be an elevator?
+
+264
+00:16:31,152 --> 00:16:33,688
+Hey, isn't this another trap?
+
+265
+00:16:33,888 --> 00:16:36,124
+Oh! There's an old gold coin here!
+
+266
+00:16:36,324 --> 00:16:37,492
+What?
+
+267
+00:16:38,126 --> 00:16:40,495
+Turns out it's just a brass plate.
+
+268
+00:16:42,530 --> 00:16:43,731
+"DIRECT TO HELL"
+
+269
+00:16:44,032 --> 00:16:44,999
+Oh no!
+
+270
+00:16:48,203 --> 00:16:49,737
+It won't open!
+
+271
+00:16:50,271 --> 00:16:51,406
+Who's there?
+
+272
+00:16:52,540 --> 00:16:56,210
+I thought you had some backbone, but you're still green.
+
+273
+00:16:59,180 --> 00:17:01,983
+Oh! You're that dodgy old man from the teahouse!
+
+274
+00:17:02,283 --> 00:17:04,385
+Who are you calling a dodgy old man?
+
+275
+00:17:04,586 --> 00:17:07,188
+I won't be insulted by a fool blinded by greed!
+
+276
+00:17:07,388 --> 00:17:09,290
+Just get us out of here!
+
+277
+00:17:09,891 --> 00:17:14,062
+You entered this castle guarded by the Phantom Clan without permission.
+
+278
+00:17:14,262 --> 00:17:16,464
+I cannot let you out of there.
+
+279
+00:17:17,298 --> 00:17:18,600
+The Random Clan?
+
+280
+00:17:19,000 --> 00:17:20,535
+The Phantom Clan!
+
+281
+00:17:20,902 --> 00:17:24,372
+Hmph, you came here to get the golden &lt;i&gt;shachihoko&lt;/i&gt;, right?
+
+282
+00:17:24,572 --> 00:17:28,643
+But as long as I'm here, you won't even lay a finger on them.
+
+283
+00:17:29,210 --> 00:17:33,081
+Oh really? I'll not only touch them, but rub my cheek against them.
+
+284
+00:17:33,648 --> 00:17:35,650
+Oh, you're very confident.
+
+285
+00:17:35,883 --> 00:17:40,421
+Very well. If you manage to touch them, I'll allow you to have them.
+
+286
+00:17:40,622 --> 00:17:43,658
+But you'll have to get out of there first.
+
+287
+00:17:45,727 --> 00:17:46,761
+Damn it!
+
+288
+00:17:46,961 --> 00:17:49,464
+All right, don't forget what you just said!
+
+289
+00:17:49,664 --> 00:17:52,333
+For a billion yen, this is nothing!
+
+290
+00:17:54,302 --> 00:17:55,670
+He's a monster.
+
+291
+00:17:57,505 --> 00:17:58,740
+-Well then... -Huh?
+
+292
+00:17:59,774 --> 00:18:00,808
+Farewell!
+
+293
+00:18:08,783 --> 00:18:12,420
+Oh, jeez, we're back to square one again.
+
+294
+00:18:13,888 --> 00:18:15,957
+Ryo-san, let's give up now.
+
+295
+00:18:16,157 --> 00:18:18,793
+I'll never give up!
+
+296
+00:18:18,993 --> 00:18:22,163
+That old man said he'd give them to us if I touched them.
+
+297
+00:18:22,363 --> 00:18:26,501
+And I'll gladly take those billion-yen &lt;i&gt;shachihoko&lt;/i&gt;!
+
+298
+00:18:33,107 --> 00:18:34,142
+Here goes!
+
+299
+00:18:36,644 --> 00:18:38,379
+Amazing!
+
+300
+00:18:38,713 --> 00:18:41,149
+I can't believe you could reach that far.
+
+301
+00:18:41,349 --> 00:18:42,650
+Nothing is impossible for me!
+
+302
+00:18:43,251 --> 00:18:45,787
+He might be in the Phantom Clan or whatever,
+
+303
+00:18:45,987 --> 00:18:49,524
+but if he blocks the inside, I'll just climb the outside.
+
+304
+00:18:49,724 --> 00:18:52,260
+I should've done this from the start.
+
+305
+00:18:53,628 --> 00:18:55,830
+Hey, Ryo-san!
+
+306
+00:18:56,030 --> 00:18:57,799
+Be careful!
+
+307
+00:18:59,834 --> 00:19:02,136
+Okay, I'm almost there.
+
+308
+00:19:04,572 --> 00:19:07,709
+I'll praise you for making it this far.
+
+309
+00:19:08,176 --> 00:19:11,379
+Huh! You again. You stubborn old man!
+
+310
+00:19:12,513 --> 00:19:16,184
+Playtime is over. I can't let you leave.
+
+311
+00:19:16,384 --> 00:19:18,519
+What? I can't pull out my sword.
+
+312
+00:19:18,720 --> 00:19:21,522
+My body... has become stiff?
+
+313
+00:19:21,723 --> 00:19:24,225
+-I can't deal with this. -Hey, wait!
+
+314
+00:19:24,425 --> 00:19:26,227
+All right, now's my chance!
+
+315
+00:19:27,962 --> 00:19:28,996
+It's hot!
+
+316
+00:19:29,697 --> 00:19:31,833
+Ninja Arts, Fire Style!
+
+317
+00:19:32,533 --> 00:19:33,601
+This ends now!
+
+318
+00:19:34,535 --> 00:19:39,774
+DON'T TRY THIS AT HOME, KIDS!
+
+319
+00:19:41,008 --> 00:19:42,577
+Don't prepare it in front of me.
+
+320
+00:19:46,581 --> 00:19:47,849
+Damn it! Huh?
+
+321
+00:19:48,049 --> 00:19:51,586
+The way he moves, he's no ordinary guy.
+
+322
+00:19:51,786 --> 00:19:53,721
+He must be an Uesugi ninja!
+
+323
+00:19:55,723 --> 00:19:56,557
+I did it!
+
+324
+00:19:57,325 --> 00:19:59,160
+My golden &lt;i&gt;shachihoko&lt;/i&gt;-chan!
+
+325
+00:19:59,360 --> 00:20:01,062
+Stop!
+
+326
+00:20:03,631 --> 00:20:05,767
+Don't touch that &lt;i&gt;shachihoko&lt;/i&gt;.
+
+327
+00:20:06,267 --> 00:20:09,337
+Come on! You promised to give them to us if I touched them.
+
+328
+00:20:10,538 --> 00:20:12,340
+Just don't touch it!
+
+329
+00:20:12,774 --> 00:20:16,177
+Shut up! It's mine and I'll do what I want!
+
+330
+00:20:17,178 --> 00:20:19,247
+Stop! I told you not to touch it!
+
+331
+00:20:21,048 --> 00:20:23,084
+-Heh, got it! -Ah!
+
+332
+00:20:23,384 --> 00:20:25,887
+Oh no... It's too late.
+
+333
+00:20:30,258 --> 00:20:31,559
+It's over.
+
+334
+00:20:31,926 --> 00:20:33,928
+I understand your frustration,
+
+335
+00:20:34,128 --> 00:20:38,266
+but you have a nice castle even without the &lt;i&gt;shachihoko&lt;/i&gt;, don't you?
+
+336
+00:20:38,466 --> 00:20:39,567
+What's that?
+
+337
+00:20:40,067 --> 00:20:43,905
+If the &lt;i&gt;shachihoko&lt;/i&gt; are taken, the whole castle will collapse.
+
+338
+00:20:44,305 --> 00:20:45,373
+What?
+
+339
+00:20:45,773 --> 00:20:51,746
+That way, Lord Shingen's golden &lt;i&gt;shachihoko&lt;/i&gt; will never fall into anyone else's hands.
+
+340
+00:20:52,280 --> 00:20:54,615
+What on earth is going on?
+
+341
+00:20:58,085 --> 00:21:01,422
+At this point, no one can stop it.
+
+342
+00:21:01,622 --> 00:21:05,927
+I'll give the golden &lt;i&gt;shachihoko&lt;/i&gt; to you as I promised.
+
+343
+00:21:06,861 --> 00:21:08,095
+Oh! W-What's that?
+
+344
+00:21:24,478 --> 00:21:26,948
+Old man, we're in trouble. Let's get out of here.
+
+345
+00:21:27,415 --> 00:21:29,884
+I shall go down with the castle.
+
+346
+00:21:30,117 --> 00:21:31,619
+Don't be foolish!
+
+347
+00:21:31,819 --> 00:21:34,155
+You had potential.
+
+348
+00:21:34,689 --> 00:21:35,523
+Farewell.
+
+349
+00:21:36,090 --> 00:21:37,725
+Hey! Hey!
+
+350
+00:21:38,559 --> 00:21:39,660
+Oops!
+
+351
+00:21:45,566 --> 00:21:46,634
+Damn!
+
+352
+00:22:00,915 --> 00:22:04,585
+It's really turned into a phantom now.
+
+353
+00:22:04,819 --> 00:22:07,188
+No one will ever believe us.
+
+354
+00:22:08,923 --> 00:22:10,691
+No worries, we have these.
+
+355
+00:22:14,896 --> 00:22:16,197
+"KAMEARI PARK POLICE STATION"
+
+356
+00:22:16,397 --> 00:22:18,132
+Well, impressed?
+
+357
+00:22:18,833 --> 00:22:21,402
+This whole thing is mine.
+
+358
+00:22:22,003 --> 00:22:24,505
+Feast your eyes, everyone.
+
+359
+00:22:25,172 --> 00:22:26,541
+Especially you, Chief.
+
+360
+00:22:26,741 --> 00:22:29,744
+Living an honest life, you'd never see this in your lifetime.
+
+361
+00:22:29,944 --> 00:22:34,548
+Hmph! It must be some gold-plated fake from a souvenir shop.
+
+362
+00:22:34,749 --> 00:22:38,252
+Ah, a typical poor person.
+
+363
+00:22:38,519 --> 00:22:42,056
+Look at this shine, this brilliance.
+
+364
+00:22:42,256 --> 00:22:44,692
+How could this possibly be a gold-plated fake?
+
+365
+00:22:46,060 --> 00:22:48,629
+Oh no! I must've bumped it around too much.
+
+366
+00:22:49,196 --> 00:22:52,333
+Oh dear, the base metal is showing, Ryo-chan.
+
+367
+00:22:52,533 --> 00:22:54,168
+What's this?
+
+368
+00:22:54,368 --> 00:22:57,338
+I-It really is gold-plated!
+
+369
+00:22:58,372 --> 00:23:00,975
+And judging from that tacky shine,
+
+370
+00:23:01,208 --> 00:23:04,178
+it seems the plating itself isn't worth much either.
+
+371
+00:23:04,779 --> 00:23:07,915
+That &lt;i&gt;shachihoko&lt;/i&gt; is just like you.
+
+372
+00:23:09,083 --> 00:23:11,519
+Damn that old man!
+
+373
+00:23:19,293 --> 00:23:21,062
+Ah! Stop it!
+
+374
+00:23:21,262 --> 00:23:23,464
+This old man is so naughty!
+
+375
+00:23:23,664 --> 00:23:26,267
+I'm no old man.
+
+376
+00:23:26,467 --> 00:23:28,469
+Call me "uncle" instead.
+
+377
+00:23:28,936 --> 00:23:31,639
+Hmm, actually, "big brother" sounds better.
+
+378
+00:23:31,839 --> 00:23:34,475
+Ehh, we can't do that.
+
+379
+00:23:34,675 --> 00:23:36,644
+Yeah, you're too old to be our big brother.
+
+380
+00:23:36,978 --> 00:23:38,980
+Oh? Is that so?
+
+381
+00:23:39,213 --> 00:23:41,849
+Then, I suppose I'll be keeping this to myself.
+
+382
+00:23:44,151 --> 00:23:46,554
+Oh! Big brother!
+
+383
+00:23:46,854 --> 00:23:49,323
+The castle's gone, and I'm finally free.
+
+384
+00:23:49,557 --> 00:23:52,259
+Now I can enjoy the rest of my life.
+
+385
+00:23:54,562 --> 00:23:56,964
+Here, here, you want this?
+
+386
+00:23:57,164 --> 00:23:59,033
+I want it!

@@ -78,9 +78,22 @@ kochikame-subtitles/
 │   ├── glossary.json          # KochiKame Character Bible & terminology mapping
 │   ├── ep51_ja_transcript.json# Raw Whisper Japanese transcript with millisecond timestamps
 │   └── ep51_translations.json # Localized English dialogue mapped by segment ID
-└── subtitles/
+└── subtitles/                 # Complete subtitle collection (Episodes 1–51)
+    ├── Kochikame - S01E01 - Ryotsu, The Police Man Appears.en.srt
+    ├── ...
+    ├── Kochikame - S01E50 - Yum! The Recipe for Revenge.en.srt
     └── Kochikame - S01E51 - Profit from the Haunted House!.en.srt
 ```
+
+---
+
+## 📺 Episode Availability & Status
+
+| Episode Range | Subtitle Source & Localization Method | Status |
+| :--- | :--- | :---: |
+| **Episodes 1–50** | Official **REMOW** human translations (`@ItsAnimeJP`), retimed to broadcast files (re-aligned to compensate for omitted TV sponsor bumpers), converted from `.vtt` to clean `.srt`. | ✅ **Complete (50 Episodes)** |
+| **Episode 51** | Generated via the **Two-Stage Pipeline**: Native Japanese Whisper-Large-v3 transcription + contextual LLM localization using the KochiKame domain glossary. | ✅ **Complete (Frame-Perfect Sync)** |
+| **Episodes 52–373** | Pipeline ready to generate as needed / awaiting future official REMOW batches. Community PRs welcome! | 🔄 **In Progress** |
 
 ---
 

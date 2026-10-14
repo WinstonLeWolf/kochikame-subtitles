@@ -1,0 +1,1563 @@
+1
+00:01:36,953 --> 00:01:37,620
+"DAIJIRO OHARA"
+
+2
+00:01:37,821 --> 00:01:38,688
+Thank you.
+
+3
+00:01:43,026 --> 00:01:44,461
+It's so cold, isn't it?
+
+4
+00:01:44,661 --> 00:01:47,530
+Who wants to go out on patrol on a chilly day like this?
+
+5
+00:01:47,764 --> 00:01:50,133
+Ryo-san, you always say things like that.
+
+6
+00:01:52,001 --> 00:01:54,170
+Ryo-chan. There's a postcard for you.
+
+7
+00:01:54,637 --> 00:01:57,140
+Probably just mail-order junk. Throw it away.
+
+8
+00:01:57,707 --> 00:01:59,409
+It doesn't look like mail-order.
+
+9
+00:01:59,642 --> 00:02:01,711
+Let's see... It's from...
+
+10
+00:02:01,945 --> 00:02:03,146
+Yone Ryotsu.
+
+11
+00:02:03,646 --> 00:02:04,414
+What?
+
+12
+00:02:05,315 --> 00:02:07,851
+Ryo-san, isn't that your mom?
+
+13
+00:02:08,051 --> 00:02:08,985
+Yeah, yeah.
+
+14
+00:02:10,987 --> 00:02:11,788
+Oh!
+
+15
+00:02:15,225 --> 00:02:16,893
+Ryo-chan! Why did you do that?
+
+16
+00:02:17,327 --> 00:02:19,496
+Mail-order would have been less trouble.
+
+17
+00:02:19,696 --> 00:02:20,897
+I'm going on patrol.
+
+18
+00:02:25,034 --> 00:02:25,668
+Huh?
+
+19
+00:02:25,869 --> 00:02:26,603
+Hmm?
+
+20
+00:02:28,438 --> 00:02:32,675
+"Dear Kankichi, I am well.
+
+21
+00:02:32,876 --> 00:02:36,146
+No matter how many postcards I send, you never write back.
+
+22
+00:02:36,346 --> 00:02:38,848
+&lt;i&gt;They say that no news is good news,&lt;/i&gt;
+
+23
+00:02:39,048 --> 00:02:42,252
+&lt;i&gt;but it pains me to have not&lt;/i&gt; &lt;i&gt;heard from you for so many years.&lt;/i&gt;
+
+24
+00:02:42,752 --> 00:02:47,457
+&lt;i&gt;Your dad's not doing well after getting&lt;/i&gt; &lt;i&gt;a hernia at the end of last year.&lt;/i&gt;
+
+25
+00:02:47,690 --> 00:02:50,827
+&lt;i&gt;Some days he never even gets out of bed.&lt;/i&gt;
+
+26
+00:02:51,060 --> 00:02:56,099
+&lt;i&gt;Kankichi, please stop all this fuss&lt;/i&gt; &lt;i&gt;and let us see your face just once more.&lt;/i&gt;
+
+27
+00:02:56,299 --> 00:02:59,435
+&lt;i&gt;I'm sure it would make&lt;/i&gt; &lt;i&gt;your dad feel better too.&lt;/i&gt;
+
+28
+00:02:59,636 --> 00:03:02,038
+&lt;i&gt;We're your family. Please come home.&lt;/i&gt;
+
+29
+00:03:02,238 --> 00:03:04,908
+&lt;i&gt;Take care not to catch&lt;/i&gt; &lt;i&gt;a cold in this weather.&lt;/i&gt;
+
+30
+00:03:05,108 --> 00:03:06,276
+&lt;i&gt;From Mom."&lt;/i&gt;
+
+31
+00:03:07,010 --> 00:03:07,777
+Oh!
+
+32
+00:03:08,745 --> 00:03:09,946
+Ryo-chan, wait!
+
+33
+00:03:10,480 --> 00:03:11,281
+What?
+
+34
+00:03:11,481 --> 00:03:13,616
+Why don't you ever go see your parents?
+
+35
+00:03:14,017 --> 00:03:17,086
+What's it to you? I hate tsukudani and being lectured!
+
+36
+00:03:17,287 --> 00:03:18,188
+Goodbye!
+
+37
+00:03:18,388 --> 00:03:19,889
+Oh, Ryo-chan!
+
+38
+00:03:20,490 --> 00:03:25,461
+Leave him be. He gets in a really bad mood whenever anyone talks about his family.
+
+39
+00:03:25,662 --> 00:03:30,099
+Come to think of it, he never mentions his family, does he?
+
+40
+00:03:30,300 --> 00:03:32,669
+Some topics are off limits for some people.
+
+41
+00:03:32,902 --> 00:03:33,803
+Chief!
+
+42
+00:03:36,206 --> 00:03:39,309
+You said there's something Ryotsu doesn't want to tell us?
+
+43
+00:03:41,044 --> 00:03:43,479
+I don't know the full story...
+
+44
+00:03:43,780 --> 00:03:48,151
+&lt;i&gt;He ran away from home at 18&lt;/i&gt; &lt;i&gt;after a huge fight with his father.&lt;/i&gt;
+
+45
+00:03:48,351 --> 00:03:50,153
+&lt;i&gt;He hasn't been back since.&lt;/i&gt;
+
+46
+00:03:50,353 --> 00:03:54,123
+&lt;i&gt;So the postcard was right?&lt;/i&gt; &lt;i&gt;He hasn't been back in years?&lt;/i&gt;
+
+47
+00:03:54,324 --> 00:03:58,795
+&lt;i&gt;Yep. I told him to stop with these&lt;/i&gt; &lt;i&gt;silly grudges and just go see his parents.&lt;/i&gt;
+
+48
+00:03:58,995 --> 00:04:03,233
+&lt;i&gt;I tried to convince him, saying there's&lt;/i&gt; &lt;i&gt;no place like home, but it was no use.&lt;/i&gt;
+
+49
+00:04:03,633 --> 00:04:07,270
+&lt;i&gt;He said he'd need a sweet sister&lt;/i&gt; &lt;i&gt;to go home to, which makes no sense.&lt;/i&gt;
+
+50
+00:04:07,470 --> 00:04:10,540
+&lt;i&gt;He did say he hates&lt;/i&gt; &lt;i&gt;tsukudani and being lectured.&lt;/i&gt;
+
+51
+00:04:11,074 --> 00:04:12,809
+&lt;i&gt;Every summer and every winter,&lt;/i&gt;
+
+52
+00:04:13,009 --> 00:04:16,279
+&lt;i&gt;his parents send tsukudani&lt;/i&gt; &lt;i&gt;gift packages to the station.&lt;/i&gt;
+
+53
+00:04:16,946 --> 00:04:21,918
+&lt;i&gt;There's always an accompanying letter&lt;/i&gt; &lt;i&gt;thanking us for looking after him.&lt;/i&gt;
+
+54
+00:04:22,118 --> 00:04:25,288
+&lt;i&gt;Sounds like Ryo-chan has a lovely family.&lt;/i&gt;
+
+55
+00:04:25,722 --> 00:04:28,992
+Hey, why don't we help Ryo-chan and his dad make up?
+
+56
+00:04:29,526 --> 00:04:31,160
+Isn't that a great idea?
+
+57
+00:04:31,361 --> 00:04:32,128
+Huh?
+
+58
+00:04:32,328 --> 00:04:33,363
+Eh?
+
+59
+00:04:33,730 --> 00:04:37,367
+Then his mom won't have to write any more of these postcards either.
+
+60
+00:04:37,567 --> 00:04:38,968
+Just let it be.
+
+61
+00:04:39,168 --> 00:04:42,038
+Getting involved will only bring you grief.
+
+62
+00:04:44,307 --> 00:04:46,743
+Damn it, someone's talking about me.
+
+63
+00:04:47,277 --> 00:04:49,145
+What are you doing?
+
+64
+00:04:49,345 --> 00:04:51,547
+My back's feeling a little better today,
+
+65
+00:04:51,748 --> 00:04:54,484
+so I thought I'd go and pray at Sensoji Temple.
+
+66
+00:04:54,684 --> 00:04:56,019
+Hold it.
+
+67
+00:04:56,853 --> 00:04:59,155
+You need a horse racing paper to pray?
+
+68
+00:04:59,756 --> 00:05:01,524
+Oh, this is, um...
+
+69
+00:05:01,724 --> 00:05:03,660
+All this sleep has dulled the mind.
+
+70
+00:05:03,860 --> 00:05:06,195
+It's called exercising your brain. See you!
+
+71
+00:05:07,030 --> 00:05:08,064
+Wait!
+
+72
+00:05:08,564 --> 00:05:13,236
+Jeez, you only hurt your back in the first place by getting too excited after a win.
+
+73
+00:05:17,206 --> 00:05:17,840
+Huh?
+
+74
+00:05:18,241 --> 00:05:21,577
+Ryotsu, come here for a minute. We've got something to show you.
+
+75
+00:05:22,045 --> 00:05:23,413
+Something to show me?
+
+76
+00:05:24,247 --> 00:05:26,416
+So what? It's just a navigation system.
+
+77
+00:05:26,883 --> 00:05:29,986
+It's not just any navigation system.
+
+78
+00:05:30,887 --> 00:05:33,590
+It's a super system made by one of my companies.
+
+79
+00:05:35,558 --> 00:05:39,729
+It has traffic information, and details on every dwelling in Japan.
+
+80
+00:05:39,929 --> 00:05:44,000
+It can even point out popular date spots and hidden-gem restaurants.
+
+81
+00:05:44,200 --> 00:05:47,270
+Wow, I didn't know you could get so detailed.
+
+82
+00:05:47,770 --> 00:05:51,174
+Let's set a destination and start the navigation.
+
+83
+00:05:51,374 --> 00:05:53,009
+Anywhere you'd like to go?
+
+84
+00:05:53,209 --> 00:05:56,713
+In all my time since coming to Tokyo, I've never been to Asakusa.
+
+85
+00:05:56,913 --> 00:05:58,247
+Can we go there?
+
+86
+00:05:58,448 --> 00:06:00,450
+No, not there. Choose somewhere else.
+
+87
+00:06:00,650 --> 00:06:01,284
+Why?
+
+88
+00:06:01,818 --> 00:06:04,787
+No reason. I'm just saying no to Asakusa.
+
+89
+00:06:05,254 --> 00:06:08,958
+Well, I guess it does give off kind of a drab image.
+
+90
+00:06:09,392 --> 00:06:12,462
+He's right. There's nothing to do in Asakusa.
+
+91
+00:06:12,662 --> 00:06:15,231
+It's full of old people, and it's tacky.
+
+92
+00:06:16,432 --> 00:06:19,469
+True, true. I doubt there's anything worth seeing there.
+
+93
+00:06:19,669 --> 00:06:21,671
+Let's go to Roppongi or Shibuya instead.
+
+94
+00:06:22,839 --> 00:06:25,274
+Are you kidding? You think Asakusa is tacky?
+
+95
+00:06:25,475 --> 00:06:26,976
+Quit joking around!
+
+96
+00:06:27,210 --> 00:06:28,144
+What's the matter?
+
+97
+00:06:28,444 --> 00:06:31,614
+Asakusa has been Japan's cultural center since the 1600s!
+
+98
+00:06:31,814 --> 00:06:35,752
+Compared to Asakusa, Roppongi and Shibuya are just little pups!
+
+99
+00:06:35,952 --> 00:06:37,253
+But you just said...
+
+100
+00:06:37,453 --> 00:06:40,757
+Not another word! "Nothing worth seeing"? We'll see about that!
+
+101
+00:06:40,957 --> 00:06:44,327
+I'll show you what a gem Asakusa is.
+
+102
+00:06:51,634 --> 00:06:54,303
+&lt;i&gt;Good morning! Let's start the route guide.&lt;/i&gt;
+
+103
+00:06:54,504 --> 00:06:55,605
+I know that voice!
+
+104
+00:06:55,805 --> 00:06:58,841
+Isn't that Maya Katsuragi, the hit anime voice actress?
+
+105
+00:06:59,075 --> 00:07:01,678
+&lt;i&gt;Ryo-chan, come with me to Asakusa!&lt;/i&gt;
+
+106
+00:07:01,878 --> 00:07:03,813
+Sure thing, babe!
+
+107
+00:07:04,147 --> 00:07:06,315
+He's talking to the navigation?
+
+108
+00:07:07,483 --> 00:07:11,721
+You tell it your name and it guides you as if it's talking to you directly.
+
+109
+00:07:11,954 --> 00:07:15,958
+This is the voice actress version, but there are lots of other versions too.
+
+110
+00:07:17,794 --> 00:07:21,731
+&lt;i&gt;Mmm... Don't be in such a rush.&lt;/i&gt; &lt;i&gt;Let's take our time...&lt;/i&gt;
+
+111
+00:07:21,964 --> 00:07:23,733
+What's this version?
+
+112
+00:07:23,966 --> 00:07:26,035
+Nakagawa, I like this one.
+
+113
+00:07:26,269 --> 00:07:27,837
+It's the porn star version.
+
+114
+00:07:28,037 --> 00:07:30,039
+No! Change it to something else!
+
+115
+00:07:32,508 --> 00:07:35,211
+Uh-oh, I was meant to turn left at the intersection.
+
+116
+00:07:35,445 --> 00:07:37,513
+&lt;i&gt;Why didn't ya turn left, punk?&lt;/i&gt;
+
+117
+00:07:37,714 --> 00:07:38,848
+&lt;i&gt;You bozo! Jackass!&lt;/i&gt;
+
+118
+00:07:39,048 --> 00:07:40,716
+Hey, listen here, navigator!
+
+119
+00:07:40,917 --> 00:07:44,821
+Ryo-chan, calm down. Punching it won't help.
+
+120
+00:07:45,021 --> 00:07:48,991
+I think that's a no on the yakuza version for Ryotsu.
+
+121
+00:08:06,342 --> 00:08:09,579
+Wow, there are so many tourists.
+
+122
+00:08:10,079 --> 00:08:12,048
+Look at the huge paper lantern.
+
+123
+00:08:12,748 --> 00:08:14,550
+Ryo-chan, what is this?
+
+124
+00:08:14,751 --> 00:08:17,920
+You don't even know about Kaminarimon Gate? Good grief!
+
+125
+00:08:18,221 --> 00:08:21,491
+That statue looks pretty scary. What is it?
+
+126
+00:08:21,691 --> 00:08:25,628
+That's the god of thunder. And that one's the god of wind.
+
+127
+00:08:26,395 --> 00:08:29,432
+And Nakamise Shopping Street leads to Sensoji Temple.
+
+128
+00:08:29,866 --> 00:08:33,102
+It's only a weekday morning, but it's still pretty busy.
+
+129
+00:08:33,336 --> 00:08:35,438
+Should have seen it back in the day.
+
+130
+00:08:49,552 --> 00:08:52,121
+Freshly made food is the best.
+
+131
+00:08:56,826 --> 00:08:58,961
+-Come on, Ryo-chan! -Ryotsu!
+
+132
+00:08:59,195 --> 00:09:00,763
+I want one of these too.
+
+133
+00:09:01,063 --> 00:09:02,565
+These! Let's have these.
+
+134
+00:09:02,765 --> 00:09:04,300
+Jeez, Ryo-chan!
+
+135
+00:09:05,401 --> 00:09:06,669
+It's Kan-chan!
+
+136
+00:09:06,969 --> 00:09:08,371
+How are you, ma'am?
+
+137
+00:09:08,571 --> 00:09:09,839
+It's been so long.
+
+138
+00:09:10,072 --> 00:09:12,208
+Hey, Kan-chan's back!
+
+139
+00:09:12,408 --> 00:09:14,644
+Oh, Kankichi! Long time no see!
+
+140
+00:09:14,844 --> 00:09:15,912
+Hey, it's you.
+
+141
+00:09:16,112 --> 00:09:19,815
+Still on the drink and making the wife cry, I bet!
+
+142
+00:09:20,016 --> 00:09:22,652
+How the heck did you become a cop!
+
+143
+00:09:22,852 --> 00:09:26,789
+I so wanted to see the shop go under in three days under your name!
+
+144
+00:09:26,989 --> 00:09:27,924
+Oh you!
+
+145
+00:09:29,225 --> 00:09:30,927
+You never hold back, do you?
+
+146
+00:09:31,394 --> 00:09:34,697
+It's been years, but Ryo-chan's still as popular as ever.
+
+147
+00:09:34,931 --> 00:09:38,100
+This area is like his backyard, isn't it?
+
+148
+00:09:59,255 --> 00:10:02,692
+Well then, shall we go to the Original Disneyland next?
+
+149
+00:10:03,125 --> 00:10:04,961
+Original Disneyland?
+
+150
+00:10:19,642 --> 00:10:22,712
+The roller coasters here are real thrill rides.
+
+151
+00:10:22,912 --> 00:10:25,848
+You'll feel like you're about to crash into a house.
+
+152
+00:10:26,482 --> 00:10:30,052
+Isn't your parents' house nearby? I'd like to go visit.
+
+153
+00:10:30,553 --> 00:10:31,187
+Huh?
+
+154
+00:10:31,387 --> 00:10:35,324
+Are you kidding me? We're on duty! Let's get back to work.
+
+155
+00:10:35,524 --> 00:10:39,695
+I didn't know the words "on duty" were in your dictionary.
+
+156
+00:10:39,895 --> 00:10:43,733
+Quiet! I haven't been home in years. Couldn't even tell you where it was.
+
+157
+00:10:43,933 --> 00:10:46,302
+That's okay. We've got the navigation system.
+
+158
+00:10:46,535 --> 00:10:47,303
+What?
+
+159
+00:10:47,503 --> 00:10:49,305
+We came all this way, after all.
+
+160
+00:10:49,505 --> 00:10:52,575
+It'd be like coming to Asakusa and missing Sensoji Temple.
+
+161
+00:10:52,775 --> 00:10:56,245
+That's what this was all about? You set me up! Hey, let go of me!
+
+162
+00:11:01,083 --> 00:11:03,252
+So that's your parents' house?
+
+163
+00:11:03,486 --> 00:11:05,888
+Great. You've seen it. Can we go now?
+
+164
+00:11:06,088 --> 00:11:09,558
+Seriously? We didn't come all this way to not even say hello.
+
+165
+00:11:09,759 --> 00:11:12,061
+Hey, isn't that your mother?
+
+166
+00:11:12,795 --> 00:11:18,601
+"GENERAL STORE"
+
+167
+00:11:18,968 --> 00:11:20,036
+Come on, Ryotsu.
+
+168
+00:11:20,236 --> 00:11:22,505
+No, I swore I'd never come back
+
+169
+00:11:22,705 --> 00:11:26,609
+after that fight I had with my old man about taking over the shop.
+
+170
+00:11:26,809 --> 00:11:31,147
+But hasn't your dad injured his back? You should go and see him.
+
+171
+00:11:31,681 --> 00:11:34,951
+I cut off all ties with him. I can't go back now!
+
+172
+00:11:38,587 --> 00:11:39,956
+I'll walk home.
+
+173
+00:11:40,690 --> 00:11:42,825
+Ryo-chan! You've come all this way!
+
+174
+00:11:43,159 --> 00:11:46,829
+Ryotsu, why not at least stay for dinner? I'll treat you.
+
+175
+00:11:47,396 --> 00:11:50,833
+Oh, you will? If you're buying, then that's a different story.
+
+176
+00:11:51,067 --> 00:11:53,469
+"EEL"
+
+177
+00:12:00,009 --> 00:12:01,944
+Ooh, it's delicious.
+
+178
+00:12:02,178 --> 00:12:03,979
+It's d"eel"-icious!
+
+179
+00:12:04,313 --> 00:12:08,117
+Not only does it taste great, but the price is right too.
+
+180
+00:12:08,317 --> 00:12:12,154
+The same taste and portion size would cost double back in Ginza.
+
+181
+00:12:12,388 --> 00:12:14,457
+Well, Reiko? How's Asakusa now?
+
+182
+00:12:14,657 --> 00:12:16,759
+Yes, you've converted me.
+
+183
+00:12:18,094 --> 00:12:20,963
+That's right. Asakusa is number one!
+
+184
+00:12:21,163 --> 00:12:24,133
+Asakusa Number One? Are you crazy?
+
+185
+00:12:25,167 --> 00:12:26,035
+Not on your life!
+
+186
+00:12:26,769 --> 00:12:30,606
+Hell would sooner freeze over than see that sad old number as the winner.
+
+187
+00:12:30,940 --> 00:12:34,176
+Sure, it's the favorite, but nothing beats Roppongi.
+
+188
+00:12:34,777 --> 00:12:36,445
+Roppongi?
+
+189
+00:12:36,645 --> 00:12:37,613
+-Ryo-chan! -Ryotsu!
+
+190
+00:12:38,180 --> 00:12:40,616
+Hey! You disrespecting Asakusa?
+
+191
+00:12:40,816 --> 00:12:43,519
+Listen, you old fart. You better watch your mouth.
+
+192
+00:12:43,753 --> 00:12:46,956
+The gods may forgive you, but to me, that is a mortal sin!
+
+193
+00:12:47,156 --> 00:12:50,860
+Who the hell are you to lay question on my bets?
+
+194
+00:13:10,146 --> 00:13:11,881
+You...!
+
+195
+00:13:17,453 --> 00:13:18,487
+-Huh? -Hmm?
+
+196
+00:13:19,221 --> 00:13:21,056
+Ryotsu-san, I'm pretty sure...
+
+197
+00:13:21,257 --> 00:13:23,192
+Shh... Shut up!
+
+198
+00:13:25,861 --> 00:13:28,397
+What's going on? Do you know that man?
+
+199
+00:13:28,864 --> 00:13:31,467
+Uh, well, I don't not know him...
+
+200
+00:13:31,901 --> 00:13:34,537
+That other man called him Ryotsu-san.
+
+201
+00:13:34,737 --> 00:13:38,474
+Yeah, there are a few around here. Don't worry about it.
+
+202
+00:13:38,674 --> 00:13:40,076
+Is he perhaps your father?
+
+203
+00:13:40,276 --> 00:13:41,243
+No!
+
+204
+00:13:41,477 --> 00:13:42,745
+Then who is he?
+
+205
+00:13:43,579 --> 00:13:46,849
+Well, he's married to...
+
+206
+00:13:47,049 --> 00:13:50,052
+the woman who gave birth to me... a few decades ago.
+
+207
+00:13:50,286 --> 00:13:52,555
+So he is your father!
+
+208
+00:13:53,022 --> 00:13:56,759
+Well, I guess you could call it that, in general terms...
+
+209
+00:13:57,259 --> 00:13:58,527
+Kei-chan, we did it!
+
+210
+00:13:58,727 --> 00:13:59,428
+Yeah!
+
+211
+00:13:59,662 --> 00:14:01,564
+Okay, Ryo-chan! Let's say hello.
+
+212
+00:14:01,764 --> 00:14:04,767
+Shh! Not now. Later, later.
+
+213
+00:14:05,201 --> 00:14:06,769
+There's no turning back now.
+
+214
+00:14:07,369 --> 00:14:08,871
+That's right, Ryotsu!
+
+215
+00:14:10,039 --> 00:14:11,107
+Come on!
+
+216
+00:14:11,307 --> 00:14:13,142
+-Big fuss over there. -Ryo-chan!
+
+217
+00:14:13,375 --> 00:14:15,111
+-Let's go! -No way! Stop that!
+
+218
+00:14:15,311 --> 00:14:16,445
+Come on, Ryotsu.
+
+219
+00:14:16,946 --> 00:14:19,381
+Pleased to make your acquaintance.
+
+220
+00:14:19,582 --> 00:14:21,217
+My name is Keiichi Nakagawa.
+
+221
+00:14:21,417 --> 00:14:23,452
+I am very much indebted to this guy.
+
+222
+00:14:24,220 --> 00:14:27,223
+I'm Reiko Akimoto. Nice to meet you.
+
+223
+00:14:27,423 --> 00:14:29,592
+Oh, hello there.
+
+224
+00:14:29,959 --> 00:14:31,260
+Ouch, that's hot!
+
+225
+00:14:31,861 --> 00:14:33,295
+Are you okay?
+
+226
+00:14:33,529 --> 00:14:35,231
+Yeah, it's nothing.
+
+227
+00:14:36,565 --> 00:14:40,703
+Go on then. He's your father. At least say hello.
+
+228
+00:14:41,704 --> 00:14:42,538
+Ryo-chan!
+
+229
+00:14:42,738 --> 00:14:43,772
+Ryotsu!
+
+230
+00:14:44,340 --> 00:14:45,174
+Fine.
+
+231
+00:14:46,408 --> 00:14:48,277
+H-Hello.
+
+232
+00:14:48,477 --> 00:14:51,714
+I'm your son, Kankichi Ryotsu. Do you remember me?
+
+233
+00:14:52,815 --> 00:14:54,617
+Oh, it's you?
+
+234
+00:14:54,817 --> 00:14:57,453
+I thought I recognized your face from somewhere...
+
+235
+00:14:59,622 --> 00:15:01,790
+That's a barefaced lie.
+
+236
+00:15:02,258 --> 00:15:03,959
+Are they really father and son?
+
+237
+00:15:04,160 --> 00:15:06,462
+Yes, my confidence is fading.
+
+238
+00:15:06,896 --> 00:15:09,165
+I won't interrupt your family reunion.
+
+239
+00:15:09,565 --> 00:15:10,499
+Eh?
+
+240
+00:15:11,800 --> 00:15:13,736
+Ryotsu-san, I'll see you around.
+
+241
+00:15:13,936 --> 00:15:16,305
+Wait! I still wanna make more bets!
+
+242
+00:15:16,672 --> 00:15:19,975
+For the main race, a wheel bet on Makibao is a sure thing!
+
+243
+00:15:20,175 --> 00:15:21,977
+Yes, yes. Enjoy yourself.
+
+244
+00:15:23,445 --> 00:15:25,447
+Thank you.
+
+245
+00:15:28,317 --> 00:15:32,221
+So "Asakusa Number One" was the name of a horse?
+
+246
+00:15:32,454 --> 00:15:34,056
+Tch, get your words straight.
+
+247
+00:15:46,068 --> 00:15:49,805
+Ryo-chan, you should say something. You haven't seen him in so long.
+
+248
+00:15:50,005 --> 00:15:54,543
+Um, uh... Is your wife still making tsukudani?
+
+249
+00:15:55,244 --> 00:15:58,147
+Yeah, I guess, by the by...
+
+250
+00:16:00,482 --> 00:16:02,818
+Maybe you could lead the conversation?
+
+251
+00:16:03,018 --> 00:16:04,787
+Ryotsu can be a bit shy.
+
+252
+00:16:04,987 --> 00:16:06,088
+That so?
+
+253
+00:16:06,322 --> 00:16:12,628
+Well, um... I've seen the cops in the media a lot these days.
+
+254
+00:16:12,828 --> 00:16:15,497
+Must be hard for you guys on the beat.
+
+255
+00:16:15,698 --> 00:16:16,799
+Not really.
+
+256
+00:16:17,266 --> 00:16:20,536
+We're all pretty resigned on that...
+
+257
+00:16:20,736 --> 00:16:23,005
+This is like watching a blind date.
+
+258
+00:16:23,205 --> 00:16:25,507
+Anyone would think they're not even related.
+
+259
+00:16:42,091 --> 00:16:43,826
+I can't stand this anymore!
+
+260
+00:16:45,594 --> 00:16:50,899
+Ugh, and it's all my old man's fault for skipping work to bet on the horses.
+
+261
+00:16:51,100 --> 00:16:54,370
+If you're nursing an injury, you ought to be back home in bed.
+
+262
+00:16:54,703 --> 00:16:58,474
+The hell? Who says a hernia should stop a man from betting on the races?
+
+263
+00:16:59,308 --> 00:17:00,743
+Don't be so brash!
+
+264
+00:17:00,943 --> 00:17:04,847
+If you'd stayed home like you should, we wouldn't have crossed paths here!
+
+265
+00:17:05,147 --> 00:17:08,684
+It's your fault for daring to come to Asakusa in the first place!
+
+266
+00:17:08,884 --> 00:17:11,787
+You said you'd never come back and then you ran off!
+
+267
+00:17:12,021 --> 00:17:15,791
+We're only here because of stupid Reiko! It was nothing to do with me!
+
+268
+00:17:18,761 --> 00:17:19,928
+Okay, calm down.
+
+269
+00:17:20,129 --> 00:17:23,899
+We can't be bothering other patrons here. Let's go somewhere else.
+
+270
+00:17:24,099 --> 00:17:26,101
+Excuse me! The check, please!
+
+271
+00:17:26,301 --> 00:17:27,636
+Okay.
+
+272
+00:17:29,772 --> 00:17:30,706
+Oh dear.
+
+273
+00:17:31,807 --> 00:17:35,244
+What an unbelievable duo. I can't keep up with them at all.
+
+274
+00:17:35,444 --> 00:17:37,946
+"DARUMAYA REST SPOT"
+
+275
+00:17:40,949 --> 00:17:43,185
+Hey, this marble is blocking my drink.
+
+276
+00:17:43,419 --> 00:17:44,353
+Come here, you...
+
+277
+00:17:46,522 --> 00:17:49,892
+You gotta rest the marble against these bumps to drink.
+
+278
+00:17:50,092 --> 00:17:51,427
+Oh, really?
+
+279
+00:17:52,261 --> 00:17:54,263
+Well, that's how it is.
+
+280
+00:17:54,463 --> 00:17:56,265
+He's as stubborn as they come.
+
+281
+00:17:56,465 --> 00:18:00,369
+Now that I think about it, I guess I was being childish too.
+
+282
+00:18:00,836 --> 00:18:03,505
+It's your fault for pushing tsukudani on me.
+
+283
+00:18:03,739 --> 00:18:06,909
+They used to call me the "Tsukudani Kid" in school.
+
+284
+00:18:07,109 --> 00:18:10,946
+We were trying to feed you so you'd grow up to be big and strong.
+
+285
+00:18:11,146 --> 00:18:14,016
+Tsukudani all day every day only gets you malnourished.
+
+286
+00:18:14,216 --> 00:18:16,185
+That logic's as silly as your face.
+
+287
+00:18:16,485 --> 00:18:20,189
+You're criticizing my face? The apple never falls far from the tree.
+
+288
+00:18:20,389 --> 00:18:23,358
+What was that? You stupid old fart!
+
+289
+00:18:23,759 --> 00:18:26,228
+How dare you say that to your own father!
+
+290
+00:18:26,462 --> 00:18:29,665
+-You wanna fight? Damn it! -Sure!
+
+291
+00:18:34,536 --> 00:18:35,337
+There's a fire!
+
+292
+00:18:35,804 --> 00:18:36,538
+Huh?
+
+293
+00:18:37,106 --> 00:18:38,540
+Fire!
+
+294
+00:18:39,141 --> 00:18:40,642
+A fire! There's a fire!
+
+295
+00:18:41,110 --> 00:18:42,311
+Get outta the way!
+
+296
+00:18:42,511 --> 00:18:44,213
+Hey, wait up, Pops!
+
+297
+00:18:44,413 --> 00:18:47,249
+Move! Fires are when Tokyoites shine!
+
+298
+00:18:47,483 --> 00:18:49,518
+Get outta the damn way!
+
+299
+00:18:51,720 --> 00:18:53,722
+They really are a lot alike.
+
+300
+00:18:53,956 --> 00:18:54,990
+Move, move!
+
+301
+00:18:55,190 --> 00:18:56,225
+Excuse us!
+
+302
+00:18:56,725 --> 00:18:58,494
+Ah!
+
+303
+00:19:04,600 --> 00:19:06,001
+No fire engines yet?
+
+304
+00:19:06,201 --> 00:19:09,505
+You've got to help! Mrs. Ofude is still in her apartment!
+
+305
+00:19:10,372 --> 00:19:11,073
+Where is it?
+
+306
+00:19:11,440 --> 00:19:13,175
+Second floor, at the far end.
+
+307
+00:19:14,009 --> 00:19:15,043
+I see it.
+
+308
+00:19:15,244 --> 00:19:16,078
+Help!
+
+309
+00:19:17,813 --> 00:19:21,984
+Kankichi! I'll save Miss Funbags, and you go save the old lady!
+
+310
+00:19:22,184 --> 00:19:24,286
+Why do I get the old lady?
+
+311
+00:19:24,520 --> 00:19:25,587
+Wait, Dad!
+
+312
+00:19:25,821 --> 00:19:27,289
+Hey, why do I have to...
+
+313
+00:19:27,523 --> 00:19:28,757
+Here I come, bazongas!
+
+314
+00:19:28,991 --> 00:19:30,058
+Why do I have to...
+
+315
+00:19:30,259 --> 00:19:31,560
+Gotta save the boobies!
+
+316
+00:19:32,428 --> 00:19:33,562
+Ma'am! Are you okay?
+
+317
+00:19:35,731 --> 00:19:36,431
+Are you okay?
+
+318
+00:19:38,033 --> 00:19:40,002
+I twisted my ankle...
+
+319
+00:19:40,302 --> 00:19:41,170
+Hop on.
+
+320
+00:19:41,370 --> 00:19:42,438
+Thank you!
+
+321
+00:19:44,373 --> 00:19:45,941
+&lt;i&gt;Feels so good...&lt;/i&gt;
+
+322
+00:19:46,175 --> 00:19:49,711
+Okay, are you ready? Here we go...
+
+323
+00:19:53,015 --> 00:19:54,783
+Dad, what are you doing? Hurry up!
+
+324
+00:19:55,317 --> 00:19:58,287
+My back's flared up again.
+
+325
+00:19:58,654 --> 00:20:00,088
+At a time like this?
+
+326
+00:20:00,289 --> 00:20:02,090
+Hey, miss. Grab my shoulder!
+
+327
+00:20:02,291 --> 00:20:03,625
+Okay!
+
+328
+00:20:04,626 --> 00:20:07,296
+Dad, I'll be right back to help you!
+
+329
+00:20:25,647 --> 00:20:27,216
+-Take them. -Got it.
+
+330
+00:20:27,416 --> 00:20:28,750
+-Ryo-chan! -Ryotsu!
+
+331
+00:20:29,518 --> 00:20:30,652
+What the heck?
+
+332
+00:20:32,321 --> 00:20:33,989
+Ryotsu! What are you doing?
+
+333
+00:20:34,223 --> 00:20:35,891
+I don't have time to explain!
+
+334
+00:20:36,091 --> 00:20:37,526
+No, It's too dangerous.
+
+335
+00:20:37,759 --> 00:20:38,927
+Leave it to us.
+
+336
+00:20:39,127 --> 00:20:40,762
+Shut up! Move!
+
+337
+00:20:40,963 --> 00:20:42,130
+I said no!
+
+338
+00:20:42,331 --> 00:20:44,433
+Let go! My dad's still in there!
+
+339
+00:20:47,069 --> 00:20:48,170
+-Ryotsu! -Ryo-chan!
+
+340
+00:20:53,242 --> 00:20:55,444
+Damn it... What is Kankichi doing?
+
+341
+00:21:03,852 --> 00:21:04,720
+Damn it...
+
+342
+00:21:04,953 --> 00:21:08,824
+I should have asked him to make those bets for me.
+
+343
+00:21:12,361 --> 00:21:16,131
+Don't be silly. This is no time for horse racing, you old fool!
+
+344
+00:21:16,565 --> 00:21:17,366
+Kankichi!
+
+345
+00:21:29,478 --> 00:21:30,646
+Ryo-chan!
+
+346
+00:21:30,846 --> 00:21:31,747
+Ryotsu!
+
+347
+00:21:31,980 --> 00:21:33,982
+Oh no...
+
+348
+00:21:44,726 --> 00:21:45,560
+Ryotsu!
+
+349
+00:21:45,761 --> 00:21:47,296
+You had me so worried!
+
+350
+00:21:47,763 --> 00:21:50,766
+It'll take more than this to kill me.
+
+351
+00:21:54,369 --> 00:21:56,405
+"SANKICHI'S PLACE"
+
+352
+00:21:58,073 --> 00:22:01,376
+Ouch... Reiko-chan, you need to be more gentle with me.
+
+353
+00:22:01,710 --> 00:22:02,577
+I'm sorry.
+
+354
+00:22:03,045 --> 00:22:05,213
+No need to apologize, Reiko.
+
+355
+00:22:05,414 --> 00:22:08,617
+It's his own fault for acting like a pervert.
+
+356
+00:22:09,751 --> 00:22:11,620
+Takes one to know one.
+
+357
+00:22:11,853 --> 00:22:12,721
+What was that?
+
+358
+00:22:12,921 --> 00:22:17,392
+Did you know that Kankichi used the women's bath right up until third grade?
+
+359
+00:22:18,060 --> 00:22:21,229
+That's enough! Who do you think saved your life?
+
+360
+00:22:21,797 --> 00:22:23,332
+Who asked you to save me?
+
+361
+00:22:23,532 --> 00:22:26,802
+I could have made it out on my own, but you had to interfere.
+
+362
+00:22:27,035 --> 00:22:28,904
+You're just a useless old fossil!
+
+363
+00:22:29,237 --> 00:22:30,939
+Say that again, you layabout!
+
+364
+00:22:34,276 --> 00:22:38,246
+I know you're just getting started, but we need to leave before the chief...
+
+365
+00:22:38,714 --> 00:22:41,617
+True, we did just slip out.
+
+366
+00:22:42,017 --> 00:22:43,752
+Sorry, Pops. Take care.
+
+367
+00:22:46,288 --> 00:22:49,791
+Thank you for the meal. I had a great time.
+
+368
+00:22:50,225 --> 00:22:51,493
+I'm glad to hear it.
+
+369
+00:22:52,294 --> 00:22:53,395
+We'll be off then.
+
+370
+00:22:54,396 --> 00:22:55,497
+Kankichi...
+
+371
+00:22:56,198 --> 00:22:59,801
+Won't you drop by sometime? Your mom's worried about you.
+
+372
+00:23:01,603 --> 00:23:02,738
+Not today.
+
+373
+00:23:02,938 --> 00:23:05,307
+This officer's got work to do.
+
+374
+00:23:05,774 --> 00:23:08,276
+Head Patrol Officer Ryotsu, reporting for duty!
+
+375
+00:23:10,679 --> 00:23:11,913
+Come again, Ryo-san.
+
+376
+00:23:12,214 --> 00:23:13,048
+Yeah!
+
+377
+00:23:13,248 --> 00:23:13,982
+See you.
+
+378
+00:23:18,387 --> 00:23:21,423
+I reckon he's a Mommy's boy at heart.
+
+379
+00:23:22,791 --> 00:23:27,095
+Still only a head patrol officer? At his age? What a loser.
+
+380
+00:23:27,863 --> 00:23:30,799
+That's not true. He's become a fine policeman.
+
+381
+00:23:31,500 --> 00:23:34,002
+He'll always be a little boy to me.
+
+382
+00:23:34,236 --> 00:23:35,971
+San-chan, another one, please?
+
+383
+00:23:36,438 --> 00:23:37,239
+Sure thing!
+
+384
+00:23:37,806 --> 00:23:39,541
+That moron.
+
+385
+00:23:43,645 --> 00:23:45,881
+Your father is a lot of fun, Ryo-chan.
+
+386
+00:23:46,114 --> 00:23:46,815
+Yeah.
+
+387
+00:23:47,349 --> 00:23:48,817
+You two are very alike.
+
+388
+00:23:49,317 --> 00:23:50,819
+Let's visit again, Ryotsu.
+
+389
+00:23:53,321 --> 00:23:54,823
+Maybe once a year.
+
+390
+00:23:57,492 --> 00:23:59,027
+See you again!
+
+391
+00:24:03,098 --> 00:24:08,904
+HOUSE ARREST DOESN'T SCARE ME

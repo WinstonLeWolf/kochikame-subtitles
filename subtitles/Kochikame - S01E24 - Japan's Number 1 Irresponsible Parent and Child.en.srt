@@ -84,39 +84,39 @@ No matter how many postcards I send, you never write back.
 
 22
 00:02:36,346 --> 00:02:38,848
-&lt;i&gt;They say that no news is good news,&lt;/i&gt;
+They say that no news is good news,
 
 23
 00:02:39,048 --> 00:02:42,252
-&lt;i&gt;but it pains me to have not&lt;/i&gt; &lt;i&gt;heard from you for so many years.&lt;/i&gt;
+but it pains me to have not heard from you for so many years.
 
 24
 00:02:42,752 --> 00:02:47,457
-&lt;i&gt;Your dad's not doing well after getting&lt;/i&gt; &lt;i&gt;a hernia at the end of last year.&lt;/i&gt;
+Your dad's not doing well after getting a hernia at the end of last year.
 
 25
 00:02:47,690 --> 00:02:50,827
-&lt;i&gt;Some days he never even gets out of bed.&lt;/i&gt;
+Some days he never even gets out of bed.
 
 26
 00:02:51,060 --> 00:02:56,099
-&lt;i&gt;Kankichi, please stop all this fuss&lt;/i&gt; &lt;i&gt;and let us see your face just once more.&lt;/i&gt;
+Kankichi, please stop all this fuss and let us see your face just once more.
 
 27
 00:02:56,299 --> 00:02:59,435
-&lt;i&gt;I'm sure it would make&lt;/i&gt; &lt;i&gt;your dad feel better too.&lt;/i&gt;
+I'm sure it would make your dad feel better too.
 
 28
 00:02:59,636 --> 00:03:02,038
-&lt;i&gt;We're your family. Please come home.&lt;/i&gt;
+We're your family. Please come home.
 
 29
 00:03:02,238 --> 00:03:04,908
-&lt;i&gt;Take care not to catch&lt;/i&gt; &lt;i&gt;a cold in this weather.&lt;/i&gt;
+Take care not to catch a cold in this weather.
 
 30
 00:03:05,108 --> 00:03:06,276
-&lt;i&gt;From Mom."&lt;/i&gt;
+From Mom."
 
 31
 00:03:07,010 --> 00:03:07,777
@@ -172,47 +172,47 @@ I don't know the full story...
 
 44
 00:03:43,780 --> 00:03:48,151
-&lt;i&gt;He ran away from home at 18&lt;/i&gt; &lt;i&gt;after a huge fight with his father.&lt;/i&gt;
+He ran away from home at 18 after a huge fight with his father.
 
 45
 00:03:48,351 --> 00:03:50,153
-&lt;i&gt;He hasn't been back since.&lt;/i&gt;
+He hasn't been back since.
 
 46
 00:03:50,353 --> 00:03:54,123
-&lt;i&gt;So the postcard was right?&lt;/i&gt; &lt;i&gt;He hasn't been back in years?&lt;/i&gt;
+So the postcard was right? He hasn't been back in years?
 
 47
 00:03:54,324 --> 00:03:58,795
-&lt;i&gt;Yep. I told him to stop with these&lt;/i&gt; &lt;i&gt;silly grudges and just go see his parents.&lt;/i&gt;
+Yep. I told him to stop with these silly grudges and just go see his parents.
 
 48
 00:03:58,995 --> 00:04:03,233
-&lt;i&gt;I tried to convince him, saying there's&lt;/i&gt; &lt;i&gt;no place like home, but it was no use.&lt;/i&gt;
+I tried to convince him, saying there's no place like home, but it was no use.
 
 49
 00:04:03,633 --> 00:04:07,270
-&lt;i&gt;He said he'd need a sweet sister&lt;/i&gt; &lt;i&gt;to go home to, which makes no sense.&lt;/i&gt;
+He said he'd need a sweet sister to go home to, which makes no sense.
 
 50
 00:04:07,470 --> 00:04:10,540
-&lt;i&gt;He did say he hates&lt;/i&gt; &lt;i&gt;tsukudani and being lectured.&lt;/i&gt;
+He did say he hates tsukudani and being lectured.
 
 51
 00:04:11,074 --> 00:04:12,809
-&lt;i&gt;Every summer and every winter,&lt;/i&gt;
+Every summer and every winter,
 
 52
 00:04:13,009 --> 00:04:16,279
-&lt;i&gt;his parents send tsukudani&lt;/i&gt; &lt;i&gt;gift packages to the station.&lt;/i&gt;
+his parents send tsukudani gift packages to the station.
 
 53
 00:04:16,946 --> 00:04:21,918
-&lt;i&gt;There's always an accompanying letter&lt;/i&gt; &lt;i&gt;thanking us for looking after him.&lt;/i&gt;
+There's always an accompanying letter thanking us for looking after him.
 
 54
 00:04:22,118 --> 00:04:25,288
-&lt;i&gt;Sounds like Ryo-chan has a lovely family.&lt;/i&gt;
+Sounds like Ryo-chan has a lovely family.
 
 55
 00:04:25,722 --> 00:04:28,992
@@ -404,7 +404,7 @@ I'll show you what a gem Asakusa is.
 
 102
 00:06:51,634 --> 00:06:54,303
-&lt;i&gt;Good morning! Let's start the route guide.&lt;/i&gt;
+Good morning! Let's start the route guide.
 
 103
 00:06:54,504 --> 00:06:55,605
@@ -416,7 +416,7 @@ Isn't that Maya Katsuragi, the hit anime voice actress?
 
 105
 00:06:59,075 --> 00:07:01,678
-&lt;i&gt;Ryo-chan, come with me to Asakusa!&lt;/i&gt;
+Ryo-chan, come with me to Asakusa!
 
 106
 00:07:01,878 --> 00:07:03,813
@@ -436,7 +436,7 @@ This is the voice actress version, but there are lots of other versions too.
 
 110
 00:07:17,794 --> 00:07:21,731
-&lt;i&gt;Mmm... Don't be in such a rush.&lt;/i&gt; &lt;i&gt;Let's take our time...&lt;/i&gt;
+Mmm... Don't be in such a rush. Let's take our time...
 
 111
 00:07:21,964 --> 00:07:23,733
@@ -460,11 +460,11 @@ Uh-oh, I was meant to turn left at the intersection.
 
 116
 00:07:35,445 --> 00:07:37,513
-&lt;i&gt;Why didn't ya turn left, punk?&lt;/i&gt;
+Why didn't ya turn left, punk?
 
 117
 00:07:37,714 --> 00:07:38,848
-&lt;i&gt;You bozo! Jackass!&lt;/i&gt;
+You bozo! Jackass!
 
 118
 00:07:39,048 --> 00:07:40,716
@@ -1280,7 +1280,7 @@ Thank you!
 
 321
 00:19:44,373 --> 00:19:45,941
-&lt;i&gt;Feels so good...&lt;/i&gt;
+Feels so good...
 
 322
 00:19:46,175 --> 00:19:49,711

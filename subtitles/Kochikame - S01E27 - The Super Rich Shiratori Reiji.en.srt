@@ -220,11 +220,11 @@ Oh, it's nothing special.
 
 56
 00:05:12,730 --> 00:05:15,833
--&lt;i&gt;Keep bragging, 'cause no one's listening.&lt;/i&gt; -Huh?
+-Keep bragging, 'cause no one's listening. -Huh?
 
 57
 00:05:16,033 --> 00:05:18,936
-&lt;i&gt;You better pay the fine, you loser!&lt;/i&gt;
+You better pay the fine, you loser!
 
 58
 00:05:20,037 --> 00:05:23,207
@@ -532,7 +532,7 @@ You've sure got me there.
 
 134
 00:09:46,103 --> 00:09:48,639
-&lt;i&gt;Shiratori Ironworks.&lt;/i&gt; &lt;i&gt;For a better tomorrow.&lt;/i&gt;
+Shiratori Ironworks. For a better tomorrow.
 
 135
 00:09:49,172 --> 00:09:51,742
@@ -1032,7 +1032,7 @@ Idiot. He stalled again.
 
 259
 00:16:48,325 --> 00:16:52,796
-&lt;i&gt;Don't fret over 500 tsubo, Reiji.&lt;/i&gt; &lt;i&gt;It's probably out in the boonies.&lt;/i&gt;
+Don't fret over 500 tsubo, Reiji. It's probably out in the boonies.
 
 260
 00:16:53,263 --> 00:16:57,434
@@ -1044,7 +1044,7 @@ Sophie University.
 
 262
 00:16:59,002 --> 00:17:00,303
-&lt;i&gt;She beat me!&lt;/i&gt;
+She beat me!
 
 263
 00:17:01,071 --> 00:17:04,007
@@ -1064,7 +1064,7 @@ Before that was the Lausanne school of Saint Cauria University.
 
 267
 00:17:12,749 --> 00:17:13,983
-&lt;i&gt;I don't know that one.&lt;/i&gt;
+I don't know that one.
 
 268
 00:17:14,184 --> 00:17:18,355
@@ -1112,7 +1112,7 @@ Okay.
 
 279
 00:18:13,510 --> 00:18:15,245
-&lt;i&gt;Wow, she's so good!&lt;/i&gt;
+Wow, she's so good!
 
 280
 00:18:23,820 --> 00:18:26,823
@@ -1212,7 +1212,7 @@ You think so?
 
 304
 00:19:46,569 --> 00:19:50,573
-&lt;i&gt;I looked this place up on Tokyo Date Map,&lt;/i&gt; &lt;i&gt;but turns out she's a regular here.&lt;/i&gt;
+I looked this place up on Tokyo Date Map, but turns out she's a regular here.
 
 305
 00:19:51,341 --> 00:19:54,077
@@ -1228,7 +1228,7 @@ Um... Huh?!
 
 308
 00:20:01,317 --> 00:20:04,187
-&lt;i&gt;I can't read it. It's all in French.&lt;/i&gt;
+I can't read it. It's all in French.
 
 309
 00:20:04,420 --> 00:20:06,322
@@ -1240,11 +1240,11 @@ Well, everything here is so delicious. I can't decide.
 
 311
 00:20:11,527 --> 00:20:12,462
-&lt;i&gt;What should I do?&lt;/i&gt;
+What should I do?
 
 312
 00:20:12,662 --> 00:20:14,664
-&lt;i&gt;Screw it. I'll just go down the list!&lt;/i&gt;
+Screw it. I'll just go down the list!
 
 313
 00:20:14,898 --> 00:20:18,001
@@ -1276,7 +1276,7 @@ Very good.
 
 320
 00:20:35,385 --> 00:20:38,521
-&lt;i&gt;Hmm? Miss Akimoto and Mr. Nakagawa?&lt;/i&gt;
+Hmm? Miss Akimoto and Mr. Nakagawa?
 
 321
 00:20:39,656 --> 00:20:42,458

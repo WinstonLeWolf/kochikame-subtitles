@@ -152,7 +152,7 @@ It's pretty cool.
 
 39
 00:03:23,760 --> 00:03:25,762
--&lt;i&gt;It's one o'clock. Time for cram school.&lt;/i&gt; -Wow.
+-It's one o'clock. Time for cram school. -Wow.
 
 40
 00:03:25,962 --> 00:03:29,265
@@ -272,19 +272,19 @@ Huh?
 
 69
 00:04:57,320 --> 00:05:00,657
-&lt;i&gt;Here's the weather forecast&lt;/i&gt; &lt;i&gt;for the Tokyo area.&lt;/i&gt;
+Here's the weather forecast for the Tokyo area.
 
 70
 00:05:00,857 --> 00:05:02,659
-&lt;i&gt;First, the sky conditions.&lt;/i&gt;
+First, the sky conditions.
 
 71
 00:05:02,859 --> 00:05:06,429
-&lt;i&gt;Winds from the north. Later, moderately&lt;/i&gt; &lt;i&gt;strong southwesterly winds...&lt;/i&gt;
+Winds from the north. Later, moderately strong southwesterly winds...
 
 72
 00:05:07,063 --> 00:05:08,865
-&lt;i&gt;Leave making babies to me!&lt;/i&gt;
+Leave making babies to me!
 
 73
 00:05:09,065 --> 00:05:09,999
@@ -676,7 +676,7 @@ Hello?
 
 170
 00:09:34,230 --> 00:09:39,235
-&lt;i&gt;Hey! Ryotsu! Don't take days off&lt;/i&gt; &lt;i&gt;without permission!&lt;/i&gt;
+Hey! Ryotsu! Don't take days off without permission!
 
 171
 00:09:39,836 --> 00:09:42,839
@@ -692,7 +692,7 @@ Ryotsu, get your health checkup today!
 
 174
 00:09:48,678 --> 00:09:50,146
-&lt;i&gt;Get back here right away!&lt;/i&gt;
+Get back here right away!
 
 175
 00:09:50,346 --> 00:09:52,348
@@ -1056,7 +1056,7 @@ No, no. Okay, okay!
 
 265
 00:14:12,908 --> 00:14:14,310
-"ROBERT &amp; RYOTSU COMPANY"
+"ROBERT & RYOTSU COMPANY"
 
 266
 00:14:22,418 --> 00:14:24,086
@@ -1228,7 +1228,7 @@ Hello?
 
 308
 00:16:36,585 --> 00:16:40,256
-&lt;i&gt;Ryotsu! What are you doing in Australia?&lt;/i&gt;
+Ryotsu! What are you doing in Australia?
 
 309
 00:16:40,456 --> 00:16:42,057
@@ -1236,7 +1236,7 @@ Chief! How did you know?
 
 310
 00:16:42,257 --> 00:16:46,428
-&lt;i&gt;Ryotsu-san, I didn't ask you&lt;/i&gt; &lt;i&gt;to go overseas to test it.&lt;/i&gt;
+Ryotsu-san, I didn't ask you to go overseas to test it.
 
 311
 00:16:46,662 --> 00:16:47,296
@@ -1280,7 +1280,7 @@ Damn Nakagawa!
 
 321
 00:17:13,922 --> 00:17:17,059
-&lt;i&gt;I'm not gonna get caught here.&lt;/i&gt; &lt;i&gt;Let's close the deal quickly.&lt;/i&gt;
+I'm not gonna get caught here. Let's close the deal quickly.
 
 322
 00:17:17,426 --> 00:17:20,062
@@ -1628,7 +1628,7 @@ I'll have to open it with the recorder.
 
 408
 00:21:17,633 --> 00:21:19,935
-I think it was &lt;i&gt;do-mi-so&lt;/i&gt;.
+I think it was do-mi-so.
 
 409
 00:21:22,804 --> 00:21:23,472
@@ -1640,7 +1640,7 @@ Ryotsu!
 
 411
 00:21:25,674 --> 00:21:28,110
-Was it &lt;i&gt;do-fa-la&lt;/i&gt;?
+Was it do-fa-la?
 
 412
 00:21:32,147 --> 00:21:32,981
@@ -1668,7 +1668,7 @@ What the heck? Shut up!
 
 418
 00:21:46,762 --> 00:21:49,164
-&lt;i&gt;Two Chinese rice bowls&lt;/i&gt; &lt;i&gt;and one ramen rice, please.&lt;/i&gt;
+Two Chinese rice bowls and one ramen rice, please.
 
 419
 00:21:49,498 --> 00:21:50,766
@@ -1708,7 +1708,7 @@ I'm the owner, Ryotsu!
 
 428
 00:22:11,553 --> 00:22:13,221
-&lt;i&gt;Fingerprints do not match.&lt;/i&gt;
+Fingerprints do not match.
 
 429
 00:22:13,422 --> 00:22:15,223
@@ -1720,7 +1720,7 @@ Ryotsu!
 
 431
 00:22:17,726 --> 00:22:20,929
-&lt;i&gt;To protect classified data, self-destructing in 60 seconds.&lt;/i&gt;
+To protect classified data, self-destructing in 60 seconds.
 
 432
 00:22:21,163 --> 00:22:21,763
@@ -1728,7 +1728,7 @@ What?!
 
 433
 00:22:21,997 --> 00:22:23,599
-&lt;i&gt;59, 58...&lt;/i&gt;
+59, 58...
 
 434
 00:22:23,799 --> 00:22:25,267
@@ -1748,7 +1748,7 @@ At this rate, this is gonna blow the whole cruise ship to bits!
 
 438
 00:22:32,341 --> 00:22:33,275
-&lt;i&gt;50 seconds left.&lt;/i&gt;
+50 seconds left.
 
 439
 00:22:34,643 --> 00:22:36,044
@@ -1792,7 +1792,7 @@ I'm going to use this to cover the losses you caused.
 
 449
 00:23:04,406 --> 00:23:06,908
-&lt;i&gt;3, 2, 1.&lt;/i&gt;
+3, 2, 1.
 
 450
 00:23:13,482 --> 00:23:16,051

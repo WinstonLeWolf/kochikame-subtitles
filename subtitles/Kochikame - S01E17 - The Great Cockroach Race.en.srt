@@ -172,7 +172,7 @@ It's all very scientific.
 
 44
 00:03:42,473 --> 00:03:47,945
-&lt;i&gt;They have the latest fitness machines&lt;/i&gt; &lt;i&gt;and computerized physical strength tests.&lt;/i&gt;
+They have the latest fitness machines and computerized physical strength tests.
 
 45
 00:03:48,979 --> 00:03:50,848
@@ -520,15 +520,15 @@ Are we supposed to be real cockroaches?
 
 131
 00:08:32,930 --> 00:08:36,800
-&lt;i&gt;Welcome to the Cockroach Athletic Arena,&lt;/i&gt; &lt;i&gt;the pride of our facility.&lt;/i&gt;
+Welcome to the Cockroach Athletic Arena, the pride of our facility.
 
 132
 00:08:37,034 --> 00:08:42,673
-&lt;i&gt;You are to overcome various obstacles&lt;/i&gt; &lt;i&gt;in this 20:1 scale diorama of a kitchen&lt;/i&gt;
+You are to overcome various obstacles in this 20:1 scale diorama of a kitchen
 
 133
 00:08:42,906 --> 00:08:46,677
-&lt;i&gt;in this real-life cockroach experience.&lt;/i&gt;
+in this real-life cockroach experience.
 
 134
 00:08:47,211 --> 00:08:50,280
@@ -544,11 +544,11 @@ What? Who said I was quitting! Let's race!
 
 137
 00:08:56,520 --> 00:09:00,123
-&lt;i&gt;The goal is the bean-jam bun&lt;/i&gt; &lt;i&gt;in the bread box on top of the fridge.&lt;/i&gt;
+The goal is the bean-jam bun in the bread box on top of the fridge.
 
 138
 00:09:00,791 --> 00:09:06,763
-&lt;i&gt;The first to get to the bun&lt;/i&gt; &lt;i&gt;in 30 minutes or less is the winner.&lt;/i&gt;
+The first to get to the bun in 30 minutes or less is the winner.
 
 139
 00:09:07,297 --> 00:09:10,267
@@ -556,7 +556,7 @@ There are three courses, as marked on the floor.
 
 140
 00:09:10,667 --> 00:09:15,172
-&lt;i&gt;The choice is yours.&lt;/i&gt; &lt;i&gt;You may proceed in any way you like.&lt;/i&gt;
+The choice is yours. You may proceed in any way you like.
 
 141
 00:09:16,874 --> 00:09:19,943
@@ -564,27 +564,27 @@ The shortest route is to go straight ahead.
 
 142
 00:09:20,877 --> 00:09:23,547
-&lt;i&gt;No, it's too out in the open.&lt;/i&gt;
+No, it's too out in the open.
 
 143
 00:09:23,780 --> 00:09:25,983
-&lt;i&gt;It must be a trap.&lt;/i&gt;
+It must be a trap.
 
 144
 00:09:28,185 --> 00:09:31,021
--&lt;i&gt;Perhaps the sink above?&lt;/i&gt; -&lt;i&gt;Perhaps the sink above?&lt;/i&gt;
+-Perhaps the sink above? -Perhaps the sink above?
 
 145
 00:09:33,190 --> 00:09:36,460
-&lt;i&gt;Well then, I wish you all good luck!&lt;/i&gt;
+Well then, I wish you all good luck!
 
 146
 00:09:36,660 --> 00:09:38,028
-&lt;i&gt;Ready...&lt;/i&gt;
+Ready...
 
 147
 00:09:41,665 --> 00:09:42,499
-&lt;i&gt;Start!&lt;/i&gt;
+Start!
 
 148
 00:09:45,736 --> 00:09:47,371
@@ -928,7 +928,7 @@ We can't get out.
 
 233
 00:16:28,204 --> 00:16:32,842
-&lt;i&gt;Damn it, that one million yen!&lt;/i&gt; &lt;i&gt;We can't just stand around in here.&lt;/i&gt;
+Damn it, that one million yen! We can't just stand around in here.
 
 234
 00:16:33,043 --> 00:16:35,712
@@ -1292,11 +1292,11 @@ Just look at this.
 
 324
 00:23:19,082 --> 00:23:25,254
-&lt;i&gt;Multiple eyewitnesses have come forward&lt;/i&gt; &lt;i&gt;reporting giant cockroaches as of late.&lt;/i&gt;
+Multiple eyewitnesses have come forward reporting giant cockroaches as of late.
 
 325
 00:23:25,455 --> 00:23:30,860
-&lt;i&gt;Now, our camera crew have managed&lt;/i&gt; &lt;i&gt;to film one of the creatures.&lt;/i&gt;
+Now, our camera crew have managed to film one of the creatures.
 
 326
 00:23:31,094 --> 00:23:32,361
@@ -1304,7 +1304,7 @@ Cockroaches?
 
 327
 00:23:32,562 --> 00:23:35,331
-&lt;i&gt;Take a look at this shocking footage.&lt;/i&gt;
+Take a look at this shocking footage.
 
 328
 00:23:41,404 --> 00:23:43,306

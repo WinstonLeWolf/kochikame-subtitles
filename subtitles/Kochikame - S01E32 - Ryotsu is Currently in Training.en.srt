@@ -220,7 +220,7 @@ Worldly desires are hard to cut off.
 
 56
 00:04:22,077 --> 00:04:24,947
-&lt;i&gt;Nice, looks like I can&lt;/i&gt; &lt;i&gt;get them back anytime.&lt;/i&gt;
+Nice, looks like I can get them back anytime.
 
 57
 00:04:25,347 --> 00:04:26,382
@@ -308,7 +308,7 @@ Begin!
 
 78
 00:05:31,513 --> 00:05:32,147
-&lt;i&gt;Katsu!&lt;/i&gt;
+Katsu!
 
 79
 00:05:32,681 --> 00:05:35,017
@@ -332,7 +332,7 @@ Hmph!
 
 84
 00:05:42,658 --> 00:05:43,425
-&lt;i&gt;Katsu!&lt;/i&gt;
+Katsu!
 
 85
 00:05:43,626 --> 00:05:46,695
@@ -612,7 +612,7 @@ Shut up! And now you're blaming someone else!
 
 154
 00:10:06,121 --> 00:10:08,724
-&lt;i&gt;Katsu!&lt;/i&gt; It's joint responsibility.
+Katsu! It's joint responsibility.
 
 155
 00:10:08,924 --> 00:10:10,893
@@ -624,7 +624,7 @@ Oh no...
 
 157
 00:10:18,800 --> 00:10:19,835
-&lt;i&gt;Katsu!&lt;/i&gt;
+Katsu!
 
 158
 00:10:27,609 --> 00:10:28,443
@@ -932,7 +932,7 @@ Y-Yes!
 
 234
 00:15:14,896 --> 00:15:16,932
-&lt;i&gt;Damn, there's no turning back!&lt;/i&gt;
+Damn, there's no turning back!
 
 235
 00:15:17,299 --> 00:15:22,370
@@ -964,7 +964,7 @@ Abbot!
 
 242
 00:15:39,454 --> 00:15:40,489
-&lt;i&gt;Oh no, they found out!&lt;/i&gt;
+Oh no, they found out!
 
 243
 00:15:42,290 --> 00:15:43,458
@@ -1212,7 +1212,7 @@ Oh, Abbot, we've been waiting for you.
 
 304
 00:18:53,448 --> 00:18:56,217
-&lt;i&gt;Oh no, this is the chief's&lt;/i&gt; &lt;i&gt;brother's house.&lt;/i&gt;
+Oh no, this is the chief's brother's house.
 
 305
 00:18:56,685 --> 00:18:58,820

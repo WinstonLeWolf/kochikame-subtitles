@@ -464,7 +464,7 @@ Of course I can look you in the eye.
 
 117
 00:07:54,664 --> 00:07:57,100
-&lt;i&gt;Damn it. If I look away, I lose.&lt;/i&gt;
+Damn it. If I look away, I lose.
 
 118
 00:08:04,841 --> 00:08:07,177
@@ -884,11 +884,11 @@ Then buckle me in and take me anywhere!
 
 222
 00:13:51,054 --> 00:13:55,959
-&lt;i&gt;And the chief should be getting&lt;/i&gt; &lt;i&gt;a special bath salt delivery today.&lt;/i&gt;
+And the chief should be getting a special bath salt delivery today.
 
 223
 00:13:56,159 --> 00:13:59,495
--&lt;i&gt;This is the best day ever!&lt;/i&gt; -Ryo-chan, he's here.
+-This is the best day ever! -Ryo-chan, he's here.
 
 224
 00:13:59,896 --> 00:14:01,164
@@ -1088,7 +1088,7 @@ This would all amount to around 850 yen per person, even with the sake.
 
 273
 00:16:26,743 --> 00:16:27,877
-&lt;i&gt;He's sharp.&lt;/i&gt;
+He's sharp.
 
 274
 00:16:28,578 --> 00:16:33,983
@@ -1208,7 +1208,7 @@ Oh, really? That's too bad.
 
 303
 00:18:02,305 --> 00:18:06,108
-&lt;i&gt;Guess my special bath salts&lt;/i&gt; &lt;i&gt;haven't arrived yet.&lt;/i&gt;
+Guess my special bath salts haven't arrived yet.
 
 304
 00:18:06,309 --> 00:18:08,845
@@ -1316,7 +1316,7 @@ The superintendent sent me some bath salts by courier.
 
 330
 00:19:25,321 --> 00:19:27,356
-&lt;i&gt;My special bath salts...&lt;/i&gt;
+My special bath salts...
 
 331
 00:19:27,590 --> 00:19:29,859
@@ -1368,7 +1368,7 @@ All right, let's go with this one. "Forest Fragrance."
 
 343
 00:20:03,192 --> 00:20:04,260
-&lt;i&gt;"Manure Fragrance."&lt;/i&gt;
+"Manure Fragrance."
 
 344
 00:20:07,029 --> 00:20:08,798
@@ -1384,7 +1384,7 @@ Ah, that's a nice scent.
 
 347
 00:20:14,704 --> 00:20:17,240
-&lt;i&gt;He's so drunk he hasn't even noticed.&lt;/i&gt;
+He's so drunk he hasn't even noticed.
 
 348
 00:20:17,974 --> 00:20:20,910
@@ -1460,7 +1460,7 @@ My mucous membranes... Um, I mean, my hemorrhoids have been acting up lately.
 
 366
 00:21:11,560 --> 00:21:15,398
-&lt;i&gt;My whole body is on fire.&lt;/i&gt; &lt;i&gt;I thought I was gonna die from shock.&lt;/i&gt;
+My whole body is on fire. I thought I was gonna die from shock.
 
 367
 00:21:16,599 --> 00:21:17,566
@@ -1472,7 +1472,7 @@ Oh, it's no trouble at all.
 
 369
 00:21:21,037 --> 00:21:22,304
-&lt;i&gt;Better dilute it quick.&lt;/i&gt;
+Better dilute it quick.
 
 370
 00:21:22,738 --> 00:21:25,241
@@ -1544,7 +1544,7 @@ Let's have some male bonding time.
 
 387
 00:22:23,299 --> 00:22:24,467
-&lt;i&gt;This is hell...&lt;/i&gt;
+This is hell...
 
 388
 00:22:25,134 --> 00:22:30,306

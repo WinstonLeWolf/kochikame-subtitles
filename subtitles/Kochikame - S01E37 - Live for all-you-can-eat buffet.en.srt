@@ -484,11 +484,11 @@ I'm so happy! I've never had any of these before.
 
 122
 00:08:32,930 --> 00:08:38,135
-&lt;i&gt;Now, we have all the famous dishes&lt;/i&gt; &lt;i&gt;from around the world on this floor.&lt;/i&gt;
+Now, we have all the famous dishes from around the world on this floor.
 
 123
 00:08:39,036 --> 00:08:40,637
-&lt;i&gt;There's no time limit.&lt;/i&gt;
+There's no time limit.
 
 124
 00:08:41,371 --> 00:08:43,407
@@ -604,11 +604,11 @@ I got it.
 
 152
 00:10:34,351 --> 00:10:37,487
-&lt;i&gt;Everyone, please stay calm&lt;/i&gt; &lt;i&gt;and listen carefully.&lt;/i&gt;
+Everyone, please stay calm and listen carefully.
 
 153
 00:10:38,622 --> 00:10:42,592
-&lt;i&gt;We have an emergency situation&lt;/i&gt; &lt;i&gt;in this building.&lt;/i&gt;
+We have an emergency situation in this building.
 
 154
 00:10:43,493 --> 00:10:44,928
@@ -628,11 +628,11 @@ Why would they even have that?
 
 158
 00:10:55,906 --> 00:11:00,210
-&lt;i&gt;There's no immediate danger&lt;/i&gt; &lt;i&gt;at the moment, but as a precaution,&lt;/i&gt;
+There's no immediate danger at the moment, but as a precaution,
 
 159
 00:11:00,410 --> 00:11:03,714
-&lt;i&gt;please leave your food as it is&lt;/i&gt; &lt;i&gt;and evacuate calmly.&lt;/i&gt;
+please leave your food as it is and evacuate calmly.
 
 160
 00:11:04,514 --> 00:11:06,216
@@ -820,11 +820,11 @@ Yes, hello?
 
 206
 00:14:30,987 --> 00:14:31,821
-&lt;i&gt;Ryotsu!&lt;/i&gt;
+Ryotsu!
 
 207
 00:14:33,089 --> 00:14:36,560
-&lt;i&gt;You startled me! Is that you, Chief?&lt;/i&gt; &lt;i&gt;Why did you leave early?&lt;/i&gt;
+You startled me! Is that you, Chief? Why did you leave early?
 
 208
 00:14:36,760 --> 00:14:38,428
@@ -836,7 +836,7 @@ There's a fire on the 35th floor of that building.
 
 210
 00:14:42,098 --> 00:14:43,466
-&lt;i&gt;That building is on fire!&lt;/i&gt;
+That building is on fire!
 
 211
 00:14:44,501 --> 00:14:48,638
@@ -844,7 +844,7 @@ Come on, Chief. I won't be fooled by such a lie.
 
 212
 00:14:48,838 --> 00:14:49,973
-&lt;i&gt;It's not a lie!&lt;/i&gt;
+It's not a lie!
 
 213
 00:14:50,173 --> 00:14:54,611
@@ -880,7 +880,7 @@ Ryotsu, it's scary! We'll turn into yakitori!
 
 221
 00:15:17,801 --> 00:15:20,337
-&lt;i&gt;You two stay calm&lt;/i&gt; &lt;i&gt;and listen to me carefully.&lt;/i&gt;
+You two stay calm and listen to me carefully.
 
 222
 00:15:20,870 --> 00:15:22,639
@@ -968,7 +968,7 @@ Chief, what was that explosion?
 
 243
 00:16:45,422 --> 00:16:47,524
-&lt;i&gt;The gas station&lt;/i&gt; &lt;i&gt;two floors below exploded.&lt;/i&gt;
+The gas station two floors below exploded.
 
 244
 00:16:47,724 --> 00:16:50,794
@@ -1072,7 +1072,7 @@ Are you still gonna eat?
 
 269
 00:18:31,694 --> 00:18:32,829
-&lt;i&gt;Ryotsu, can you hear me?&lt;/i&gt;
+Ryotsu, can you hear me?
 
 270
 00:18:34,964 --> 00:18:37,267

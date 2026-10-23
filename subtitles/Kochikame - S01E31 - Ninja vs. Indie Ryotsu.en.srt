@@ -192,7 +192,7 @@ It's called the Phantom Castle.
 
 49
 00:03:48,557 --> 00:03:53,128
-At its peak are a pair of &lt;i&gt;shachihoko&lt;/i&gt; with shimmering golden scales."
+At its peak are a pair of shachihoko with shimmering golden scales."
 
 50
 00:03:53,662 --> 00:03:55,831
@@ -200,7 +200,7 @@ Real orcas don't have any scales.
 
 51
 00:03:56,064 --> 00:04:00,836
-But &lt;i&gt;shachihoko&lt;/i&gt; are imaginary sea creatures, modeled after orcas.
+But shachihoko are imaginary sea creatures, modeled after orcas.
 
 52
 00:04:01,603 --> 00:04:05,407
@@ -212,7 +212,7 @@ I don't care about all that crap,
 
 54
 00:04:07,976 --> 00:04:11,380
-but are those &lt;i&gt;shachihoko&lt;/i&gt; really made of solid gold?
+but are those shachihoko really made of solid gold?
 
 55
 00:04:11,580 --> 00:04:14,817
@@ -300,7 +300,7 @@ What?
 
 76
 00:05:13,442 --> 00:05:16,845
-You're not talking about that &lt;i&gt;shachihoko&lt;/i&gt;, are you?
+You're not talking about that shachihoko, are you?
 
 77
 00:05:17,045 --> 00:05:18,180
@@ -672,7 +672,7 @@ The Phantom Castle!
 
 169
 00:10:35,764 --> 00:10:38,033
-We did it! Those are the golden &lt;i&gt;shachihoko&lt;/i&gt;!
+We did it! Those are the golden shachihoko!
 
 170
 00:10:40,335 --> 00:10:43,071
@@ -712,11 +712,11 @@ There's no bridge around the castle.
 
 179
 00:11:13,668 --> 00:11:17,906
-This says we enter the castle from the Otemon Gate using &lt;i&gt;hashi&lt;/i&gt; and&lt;i&gt; hashi&lt;/i&gt;.
+This says we enter the castle from the Otemon Gate using hashi and hashi.
 
 180
 00:11:18,406 --> 00:11:20,208
-&lt;i&gt;Hashi&lt;/i&gt; and &lt;i&gt;hashi&lt;/i&gt;? ("bridge" or "edge" in Japanese)
+Hashi and hashi? ("bridge" or "edge" in Japanese)
 
 181
 00:11:21,076 --> 00:11:22,944
@@ -752,7 +752,7 @@ Wait a minute...
 
 189
 00:11:38,560 --> 00:11:40,562
-Using &lt;i&gt;hashi&lt;/i&gt; and &lt;i&gt;hashi&lt;/i&gt;...
+Using hashi and hashi...
 
 190
 00:11:41,263 --> 00:11:42,197
@@ -924,7 +924,7 @@ That's because it was built hundreds of years ago.
 
 232
 00:14:37,305 --> 00:14:40,575
-I have no complaints as long as I can get the &lt;i&gt;shachihoko&lt;/i&gt;.
+I have no complaints as long as I can get the shachihoko.
 
 233
 00:14:40,942 --> 00:14:43,445
@@ -1008,7 +1008,7 @@ The traps are getting more serious.
 
 253
 00:15:58,653 --> 00:16:01,923
-We deserve at least ten golden &lt;i&gt;shachihoko&lt;/i&gt; for this.
+We deserve at least ten golden shachihoko for this.
 
 254
 00:16:02,323 --> 00:16:04,692
@@ -1120,7 +1120,7 @@ The Phantom Clan!
 
 281
 00:17:20,902 --> 00:17:24,372
-Hmph, you came here to get the golden &lt;i&gt;shachihoko&lt;/i&gt;, right?
+Hmph, you came here to get the golden shachihoko, right?
 
 282
 00:17:24,572 --> 00:17:28,643
@@ -1184,7 +1184,7 @@ That old man said he'd give them to us if I touched them.
 
 297
 00:18:22,363 --> 00:18:26,501
-And I'll gladly take those billion-yen &lt;i&gt;shachihoko&lt;/i&gt;!
+And I'll gladly take those billion-yen shachihoko!
 
 298
 00:18:33,107 --> 00:18:34,142
@@ -1292,7 +1292,7 @@ I did it!
 
 324
 00:19:57,325 --> 00:19:59,160
-My golden &lt;i&gt;shachihoko&lt;/i&gt;-chan!
+My golden shachihoko-chan!
 
 325
 00:19:59,360 --> 00:20:01,062
@@ -1300,7 +1300,7 @@ Stop!
 
 326
 00:20:03,631 --> 00:20:05,767
-Don't touch that &lt;i&gt;shachihoko&lt;/i&gt;.
+Don't touch that shachihoko.
 
 327
 00:20:06,267 --> 00:20:09,337
@@ -1336,7 +1336,7 @@ I understand your frustration,
 
 335
 00:20:34,128 --> 00:20:38,266
-but you have a nice castle even without the &lt;i&gt;shachihoko&lt;/i&gt;, don't you?
+but you have a nice castle even without the shachihoko, don't you?
 
 336
 00:20:38,466 --> 00:20:39,567
@@ -1344,7 +1344,7 @@ What's that?
 
 337
 00:20:40,067 --> 00:20:43,905
-If the &lt;i&gt;shachihoko&lt;/i&gt; are taken, the whole castle will collapse.
+If the shachihoko are taken, the whole castle will collapse.
 
 338
 00:20:44,305 --> 00:20:45,373
@@ -1352,7 +1352,7 @@ What?
 
 339
 00:20:45,773 --> 00:20:51,746
-That way, Lord Shingen's golden &lt;i&gt;shachihoko&lt;/i&gt; will never fall into anyone else's hands.
+That way, Lord Shingen's golden shachihoko will never fall into anyone else's hands.
 
 340
 00:20:52,280 --> 00:20:54,615
@@ -1364,7 +1364,7 @@ At this point, no one can stop it.
 
 342
 00:21:01,622 --> 00:21:05,927
-I'll give the golden &lt;i&gt;shachihoko&lt;/i&gt; to you as I promised.
+I'll give the golden shachihoko to you as I promised.
 
 343
 00:21:06,861 --> 00:21:08,095
@@ -1480,7 +1480,7 @@ it seems the plating itself isn't worth much either.
 
 371
 00:23:04,779 --> 00:23:07,915
-That &lt;i&gt;shachihoko&lt;/i&gt; is just like you.
+That shachihoko is just like you.
 
 372
 00:23:09,083 --> 00:23:11,519

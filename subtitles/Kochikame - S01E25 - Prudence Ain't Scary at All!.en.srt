@@ -408,11 +408,11 @@ Hey, wait!
 
 103
 00:07:41,638 --> 00:07:45,508
-&lt;i&gt;As long as he is around, an enjoyable&lt;/i&gt; &lt;i&gt;suspension is just a pipe dream.&lt;/i&gt;
+As long as he is around, an enjoyable suspension is just a pipe dream.
 
 104
 00:07:45,708 --> 00:07:47,410
-&lt;i&gt;I have to do something.&lt;/i&gt;
+I have to do something.
 
 105
 00:07:50,346 --> 00:07:51,681

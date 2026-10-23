@@ -140,11 +140,11 @@ But sir...
 
 36
 00:03:27,123 --> 00:03:29,558
-&lt;i&gt;Surely he won't win big&lt;/i&gt; &lt;i&gt;with just one pull?&lt;/i&gt;
+Surely he won't win big with just one pull?
 
 37
 00:03:29,758 --> 00:03:31,060
-&lt;i&gt;All right, fine.&lt;/i&gt;
+All right, fine.
 
 38
 00:03:32,328 --> 00:03:33,162
@@ -196,11 +196,11 @@ Now, which machine to choose?
 
 50
 00:04:08,364 --> 00:04:10,466
-&lt;i&gt;Oh no! That's a winning machine.&lt;/i&gt;
+Oh no! That's a winning machine.
 
 51
 00:04:16,338 --> 00:04:18,707
-&lt;i&gt;Phew. He passed by the winning machine.&lt;/i&gt;
+Phew. He passed by the winning machine.
 
 52
 00:04:24,713 --> 00:04:27,349
@@ -208,11 +208,11 @@ Maybe I should go with this one after all.
 
 53
 00:04:28,284 --> 00:04:29,952
-&lt;i&gt;Oh no! My face gave it away!&lt;/i&gt;
+Oh no! My face gave it away!
 
 54
 00:04:30,186 --> 00:04:31,453
-&lt;i&gt;Gotta stay calm.&lt;/i&gt;
+Gotta stay calm.
 
 55
 00:04:36,392 --> 00:04:38,561
@@ -780,11 +780,11 @@ Ouch!
 
 196
 00:12:58,260 --> 00:13:01,897
-&lt;i&gt;He's gonna be turned into handbags&lt;/i&gt; &lt;i&gt;worth four million yen.&lt;/i&gt;
+He's gonna be turned into handbags worth four million yen.
 
 197
 00:13:02,097 --> 00:13:04,466
-&lt;i&gt;Maybe a little luxury now wouldn't hurt.&lt;/i&gt;
+Maybe a little luxury now wouldn't hurt.
 
 198
 00:13:05,600 --> 00:13:07,469
@@ -1028,11 +1028,11 @@ It's bird feed for you until you start bringing in the money.
 
 258
 00:16:31,973 --> 00:16:35,176
-&lt;i&gt;And this week's winning video is...&lt;/i&gt;
+And this week's winning video is...
 
 259
 00:16:36,111 --> 00:16:39,080
-&lt;i&gt;The Clever Croc!&lt;/i&gt; &lt;i&gt;The winner will receive 100,000 yen!&lt;/i&gt;
+The Clever Croc! The winner will receive 100,000 yen!
 
 260
 00:16:39,281 --> 00:16:40,549
@@ -1056,7 +1056,7 @@ DOG FOOD...
 
 265
 00:16:51,526 --> 00:16:55,096
-&lt;i&gt;This might even pay better&lt;/i&gt; &lt;i&gt;than selling him off.&lt;/i&gt;
+This might even pay better than selling him off.
 
 266
 00:16:55,297 --> 00:16:57,198
@@ -1064,11 +1064,11 @@ DOG FOOD...
 
 267
 00:16:57,933 --> 00:17:00,535
-&lt;i&gt;This Clever Croc&lt;/i&gt; &lt;i&gt;showing off his bike skills&lt;/i&gt;
+This Clever Croc showing off his bike skills
 
 268
 00:17:00,936 --> 00:17:02,704
-&lt;i&gt;wins the prize of 100,000 yen.&lt;/i&gt;
+wins the prize of 100,000 yen.
 
 269
 00:17:07,108 --> 00:17:07,709
@@ -1108,11 +1108,11 @@ Hey! Ten more serves of top sirloin and short ribs on the bone!
 
 278
 00:17:37,038 --> 00:17:38,673
-&lt;i&gt;Clever Croc wins again!&lt;/i&gt;
+Clever Croc wins again!
 
 279
 00:17:38,873 --> 00:17:41,009
-&lt;i&gt;That's four weeks in a row!&lt;/i&gt;
+That's four weeks in a row!
 
 280
 00:17:41,876 --> 00:17:42,577
@@ -1148,7 +1148,7 @@ You can't beat brilliance.
 
 288
 00:18:11,006 --> 00:18:15,577
-&lt;i&gt;Yes, there it is!&lt;/i&gt; &lt;i&gt;Give him a round of applause.&lt;/i&gt;
+Yes, there it is! Give him a round of applause.
 
 289
 00:18:39,234 --> 00:18:43,405
@@ -1232,11 +1232,11 @@ You can't take 90% of someone's earnings, even if they are an alligator.
 
 309
 00:19:46,367 --> 00:19:48,269
-&lt;i&gt;He's gotten too big for his boots.&lt;/i&gt;
+He's gotten too big for his boots.
 
 310
 00:19:48,470 --> 00:19:53,575
-&lt;i&gt;But he's my priceless cash cow.&lt;/i&gt; &lt;i&gt;I can't let him go now...&lt;/i&gt;
+But he's my priceless cash cow. I can't let him go now...
 
 311
 00:19:56,211 --> 00:20:01,182
@@ -1320,7 +1320,7 @@ He's only doing it for himself, so I'd say all's fair.
 
 331
 00:21:39,781 --> 00:21:40,648
-&lt;i&gt;Croc-Vita Z!&lt;/i&gt;
+Croc-Vita Z!
 
 332
 00:21:41,316 --> 00:21:44,152

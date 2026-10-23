@@ -8,39 +8,39 @@ HER FIRST LOVE WAS... RYOTSU?
 
 3
 00:01:38,527 --> 00:01:40,829
-&lt;i&gt;Chief Ohara, would you like some tea?&lt;/i&gt;
+Chief Ohara, would you like some tea?
 
 4
 00:01:42,498 --> 00:01:43,432
-&lt;i&gt;Oh, thanks.&lt;/i&gt;
+Oh, thanks.
 
 5
 00:01:43,899 --> 00:01:47,136
-&lt;i&gt;You should take it easy.&lt;/i&gt; &lt;i&gt;It's not good for your health.&lt;/i&gt;
+You should take it easy. It's not good for your health.
 
 6
 00:01:47,469 --> 00:01:51,240
-&lt;i&gt;No, well, you see,&lt;/i&gt; &lt;i&gt;I have to finish this paperwork today.&lt;/i&gt;
+No, well, you see, I have to finish this paperwork today.
 
 7
 00:01:51,540 --> 00:01:54,376
-&lt;i&gt;I see. Well, please don't&lt;/i&gt; &lt;i&gt;push yourself too hard.&lt;/i&gt;
+I see. Well, please don't push yourself too hard.
 
 8
 00:01:54,710 --> 00:01:56,512
-&lt;i&gt;Oh, thank you, Ms. Asada.&lt;/i&gt;
+Oh, thank you, Ms. Asada.
 
 9
 00:01:56,712 --> 00:02:00,182
-&lt;i&gt;You don't need to call me that.&lt;/i&gt; &lt;i&gt;You can just call me Yuko.&lt;/i&gt;
+You don't need to call me that. You can just call me Yuko.
 
 10
 00:02:00,482 --> 00:02:03,919
-&lt;i&gt;Oh, all right... Yu...&lt;/i&gt;
+Oh, all right... Yu...
 
 11
 00:02:04,119 --> 00:02:05,187
-&lt;i&gt;Yu.... ko.&lt;/i&gt;
+Yu.... ko.
 
 12
 00:02:05,554 --> 00:02:06,455
@@ -412,15 +412,15 @@ Well, well. I had no idea she liked me back then.
 
 104
 00:07:14,463 --> 00:07:16,865
-&lt;i&gt;You had her heart all aflutter.&lt;/i&gt;
+You had her heart all aflutter.
 
 105
 00:07:17,099 --> 00:07:19,034
-&lt;i&gt;The little lady hid with bated breath&lt;/i&gt;
+The little lady hid with bated breath
 
 106
 00:07:19,267 --> 00:07:21,637
-&lt;i&gt;as she watched her beloved Kan-chan.&lt;/i&gt;
+as she watched her beloved Kan-chan.
 
 107
 00:07:22,838 --> 00:07:25,440
@@ -536,7 +536,7 @@ See? I told you we never miss a beat.
 
 135
 00:08:47,723 --> 00:08:50,092
-&lt;i&gt;Yeah. I think I'm starting to remember.&lt;/i&gt;
+Yeah. I think I'm starting to remember.
 
 136
 00:08:50,325 --> 00:08:54,796
@@ -668,7 +668,7 @@ Shake her hand?
 
 168
 00:10:27,189 --> 00:10:28,456
-&lt;i&gt;Hello there.&lt;/i&gt;
+Hello there.
 
 169
 00:10:28,757 --> 00:10:31,893
@@ -1304,7 +1304,7 @@ Sorry, this isn't really enough to go by.
 
 327
 00:18:52,260 --> 00:18:56,097
-&lt;i&gt;Well, understandable.&lt;/i&gt; &lt;i&gt;Not like I'm a school kid anymore.&lt;/i&gt;
+Well, understandable. Not like I'm a school kid anymore.
 
 328
 00:18:56,698 --> 00:19:00,368
@@ -1328,19 +1328,19 @@ She'll be head over heels when she finally realizes.
 
 333
 00:19:11,846 --> 00:19:14,816
-&lt;i&gt;Oh! It's... Kan-chan!&lt;/i&gt;
+Oh! It's... Kan-chan!
 
 334
 00:19:15,550 --> 00:19:17,885
-&lt;i&gt;Yuurin!&lt;/i&gt;
+Yuurin!
 
 335
 00:19:20,388 --> 00:19:23,057
-&lt;i&gt;"Yuurin!" This is gonna be great.&lt;/i&gt;
+"Yuurin!" This is gonna be great.
 
 336
 00:19:23,591 --> 00:19:26,594
-&lt;i&gt;What if she asks me to marry her?&lt;/i&gt;
+What if she asks me to marry her?
 
 337
 00:19:27,128 --> 00:19:29,297
@@ -1372,11 +1372,11 @@ Kankichi-san?
 
 344
 00:19:46,013 --> 00:19:47,749
-&lt;i&gt;Still don't remember?&lt;/i&gt;
+Still don't remember?
 
 345
 00:19:47,982 --> 00:19:50,418
-&lt;i&gt;Ugh, just say my full name.&lt;/i&gt;
+Ugh, just say my full name.
 
 346
 00:19:50,918 --> 00:19:54,622
@@ -1436,7 +1436,7 @@ Okay, since we're having some trouble, let's just have him come on out!
 
 360
 00:20:38,800 --> 00:20:41,836
-&lt;i&gt;She may not recall my name,&lt;/i&gt; &lt;i&gt;but she should know my face.&lt;/i&gt;
+She may not recall my name, but she should know my face.
 
 361
 00:20:43,771 --> 00:20:46,140
@@ -1595,93 +1595,89 @@ I'm sorry! I'm sorry!
 This guy was the most vulgar person at school.
 
 400
-00:22:39,153 --> 00:22:41,022
+00:22:39,153 --> 00:22:47,762
 Kankichi Ryotsu!
 
 401
-00:22:41,689 --> 00:22:47,762
-&lt;i&gt;Kankichi Ryotsu!&lt;/i&gt;
-
-402
 00:22:52,500 --> 00:22:54,435
 Is this on national TV?
 
-403
+402
 00:22:55,202 --> 00:22:58,339
 You moron!
 
-404
+403
 00:23:03,744 --> 00:23:06,247
 Apparapara Biroon!
 
-405
+404
 00:23:06,647 --> 00:23:08,749
 Ryotsu. You call that a gag?
 
-406
+405
 00:23:08,950 --> 00:23:10,818
 Put your back into it!
 
-407
+406
 00:23:11,052 --> 00:23:12,119
 I am, I am!
 
-408
+407
 00:23:12,353 --> 00:23:14,121
 Haven't I done enough already?
 
-409
+408
 00:23:14,822 --> 00:23:18,993
 No way. This is payback for messing up my Yuko Asada's show!
 
-410
+409
 00:23:19,226 --> 00:23:23,297
 Ready, everyone? Feel free to vent all your pent-up anger.
 
-411
+410
 00:23:23,531 --> 00:23:25,199
 We will.
 
-412
+411
 00:23:27,201 --> 00:23:29,070
 Chief!
 
-413
+412
 00:23:30,571 --> 00:23:34,141
 Apparapara Biroon!
 
-414
+413
 00:23:34,942 --> 00:23:36,911
 Do it properly, Ryotsu.
 
-415
+414
 00:23:38,279 --> 00:23:39,847
 Hey! Thanks for the other day.
 
-416
+415
 00:23:40,314 --> 00:23:41,482
 What? Not you!
 
-417
+416
 00:23:41,816 --> 00:23:46,120
 As it turns out, our ratings have never been higher.
 
-418
+417
 00:23:46,320 --> 00:23:48,589
 What can I say? That's live TV for ya.
 
-419
+418
 00:23:48,789 --> 00:23:51,625
 So, I was thinking... What if we had you as a regular?
 
-420
+419
 00:23:51,826 --> 00:23:54,962
 We could have a "Who's That?" segment every single day!
 
-421
+420
 00:23:55,162 --> 00:23:56,497
 No way! I refuse!
 
-422
+421
 00:23:57,331 --> 00:24:00,835
 I am never going on TV ever again!

@@ -652,11 +652,11 @@ She looks completely different, Mommy.
 
 164
 00:09:54,331 --> 00:09:56,133
-&lt;i&gt;No way he still wants in.&lt;/i&gt;
+No way he still wants in.
 
 165
 00:09:56,333 --> 00:09:58,769
-&lt;i&gt;If I pull this off, I get to eat katsudon.&lt;/i&gt;
+If I pull this off, I get to eat katsudon.
 
 166
 00:09:59,236 --> 00:10:01,805
@@ -776,7 +776,7 @@ How lovely. I like your hearty demeanor.
 
 195
 00:11:44,742 --> 00:11:46,243
-&lt;i&gt;Damn. You asked for this...&lt;/i&gt;
+Damn. You asked for this...
 
 196
 00:11:46,777 --> 00:11:48,879
@@ -1012,7 +1012,7 @@ Hello. Oh, Mommy!
 
 254
 00:14:51,161 --> 00:14:55,899
-&lt;i&gt;Kazuo-san, how's the date going?&lt;/i&gt; &lt;i&gt;Remember, you must get her to marry you.&lt;/i&gt;
+Kazuo-san, how's the date going? Remember, you must get her to marry you.
 
 255
 00:14:56,466 --> 00:14:59,603
@@ -1052,7 +1052,7 @@ Really now?
 
 264
 00:15:23,860 --> 00:15:27,331
-&lt;i&gt;Operation Lady Lout isn't working.&lt;/i&gt; &lt;i&gt;Time for something else.&lt;/i&gt;
+Operation Lady Lout isn't working. Time for something else.
 
 265
 00:15:27,664 --> 00:15:30,634
@@ -1064,7 +1064,7 @@ Of course I will.
 
 267
 00:15:35,205 --> 00:15:37,674
-&lt;i&gt;480,000 yen?&lt;/i&gt;
+480,000 yen?
 
 268
 00:15:38,875 --> 00:15:41,478
@@ -1076,7 +1076,7 @@ This one?
 
 270
 00:15:43,013 --> 00:15:44,881
-&lt;i&gt;Good, he's having second thoughts.&lt;/i&gt;
+Good, he's having second thoughts.
 
 271
 00:15:45,315 --> 00:15:47,985
@@ -1104,11 +1104,11 @@ Oh, thank you...
 
 277
 00:16:01,698 --> 00:16:03,967
-&lt;i&gt;He coughed up 480,000 yen for this thing.&lt;/i&gt;
+He coughed up 480,000 yen for this thing.
 
 278
 00:16:04,167 --> 00:16:06,837
-&lt;i&gt;Fine. Enjoy showing off while you can.&lt;/i&gt;
+Fine. Enjoy showing off while you can.
 
 279
 00:16:07,304 --> 00:16:09,139
@@ -1128,7 +1128,7 @@ Yes, I want it, I want it.
 
 283
 00:16:19,683 --> 00:16:23,220
-&lt;i&gt;It's just a chunk of rock.&lt;/i&gt; &lt;i&gt;Why would anyone want this?&lt;/i&gt;
+It's just a chunk of rock. Why would anyone want this?
 
 284
 00:16:23,453 --> 00:16:25,889
@@ -1148,7 +1148,7 @@ Absolutely.
 
 288
 00:16:37,634 --> 00:16:41,905
-&lt;i&gt;Damn it. Just you watch, buddy.&lt;/i&gt; &lt;i&gt;I'll soon make your eyes water.&lt;/i&gt;
+Damn it. Just you watch, buddy. I'll soon make your eyes water.
 
 289
 00:16:42,339 --> 00:16:46,743
@@ -1248,7 +1248,7 @@ You'll be in good hands, Reiko-san.
 
 313
 00:17:56,146 --> 00:17:59,783
-&lt;i&gt;All this for a bowl of katsudon...&lt;/i&gt; &lt;i&gt;Time for another approach.&lt;/i&gt;
+All this for a bowl of katsudon... Time for another approach.
 
 314
 00:18:02,319 --> 00:18:03,286
@@ -1384,7 +1384,7 @@ Oh dear. I'm so popular, I need multiple mes to satisfy everyone.
 
 347
 00:19:38,181 --> 00:19:39,883
-&lt;i&gt;Well? Gonna throw in the towel?&lt;/i&gt;
+Well? Gonna throw in the towel?
 
 348
 00:19:41,818 --> 00:19:46,890
@@ -1432,7 +1432,7 @@ They'll be here soon.
 
 359
 00:20:17,787 --> 00:20:19,022
-&lt;i&gt;Then it's go time.&lt;/i&gt;
+Then it's go time.
 
 360
 00:20:19,589 --> 00:20:20,790
@@ -1448,7 +1448,7 @@ I hate wimpy guys! Goodbye.
 
 363
 00:20:25,895 --> 00:20:28,164
-&lt;i&gt;This'll create a reason to reject him.&lt;/i&gt;
+This'll create a reason to reject him.
 
 364
 00:20:28,798 --> 00:20:30,700
@@ -1472,7 +1472,7 @@ Somewhere nice.
 
 369
 00:20:39,509 --> 00:20:43,446
-&lt;i&gt;That's odd. Terai and the others&lt;/i&gt; &lt;i&gt;should be waiting around here.&lt;/i&gt;
+That's odd. Terai and the others should be waiting around here.
 
 370
 00:20:46,149 --> 00:20:48,051
@@ -1480,7 +1480,7 @@ They're late.
 
 371
 00:20:48,885 --> 00:20:50,620
-&lt;i&gt;Where the hell did they go?&lt;/i&gt;
+Where the hell did they go?
 
 372
 00:20:50,987 --> 00:20:54,624
@@ -1512,7 +1512,7 @@ Wah! I'm too scared!
 
 379
 00:21:10,540 --> 00:21:13,944
-&lt;i&gt;It's not what we planned,&lt;/i&gt; &lt;i&gt;but I'll still be able to reject him.&lt;/i&gt;
+It's not what we planned, but I'll still be able to reject him.
 
 380
 00:21:15,078 --> 00:21:18,682

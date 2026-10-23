@@ -36,19 +36,19 @@ Hey!
 
 10
 00:02:09,487 --> 00:02:10,488
-&lt;i&gt;This guy...&lt;/i&gt;
+This guy...
 
 11
 00:02:10,722 --> 00:02:13,558
-&lt;i&gt;He's been appearing on TV and in magazines a lot lately.&lt;/i&gt;
+He's been appearing on TV and in magazines a lot lately.
 
 12
 00:02:13,758 --> 00:02:17,295
-&lt;i&gt;Chogoro Ohmaeda, a gourmet critic.&lt;/i&gt;
+Chogoro Ohmaeda, a gourmet critic.
 
 13
 00:02:18,296 --> 00:02:20,732
-&lt;i&gt;This flavor is something else!&lt;/i&gt;
+This flavor is something else!
 
 14
 00:02:21,132 --> 00:02:24,369
@@ -508,7 +508,7 @@ I'll never forget three years ago...
 
 128
 00:09:11,776 --> 00:09:16,414
-&lt;i&gt;on a day when light snow was falling, this restaurant opened.&lt;/i&gt;
+on a day when light snow was falling, this restaurant opened.
 
 129
 00:09:17,248 --> 00:09:19,550
@@ -516,11 +516,11 @@ I'll never forget three years ago...
 
 130
 00:09:19,750 --> 00:09:23,154
-&lt;i&gt;I was nervously waiting for the first customer to arrive.&lt;/i&gt;
+I was nervously waiting for the first customer to arrive.
 
 131
 00:09:23,354 --> 00:09:24,388
-&lt;i&gt;And then...&lt;/i&gt;
+And then...
 
 132
 00:09:26,157 --> 00:09:26,991
@@ -556,7 +556,7 @@ Yes, I'll make it right away.
 
 140
 00:09:51,916 --> 00:09:56,721
-&lt;i&gt;Since he was my first customer, I put all my skills into making it.&lt;/i&gt;
+Since he was my first customer, I put all my skills into making it.
 
 141
 00:09:56,921 --> 00:09:57,922
@@ -652,7 +652,7 @@ I'll remember that.
 
 164
 00:11:34,552 --> 00:11:38,055
-&lt;i&gt;In the end, that fountain pen was a blatant fake.&lt;/i&gt;
+In the end, that fountain pen was a blatant fake.
 
 165
 00:11:38,289 --> 00:11:39,390
@@ -660,11 +660,11 @@ What a stingy guy!
 
 166
 00:11:39,590 --> 00:11:41,992
-&lt;i&gt;I was shocked a week later.&lt;/i&gt;
+I was shocked a week later.
 
 167
 00:11:42,193 --> 00:11:45,830
-&lt;i&gt;He had completely insulted my restaurant in a magazine.&lt;/i&gt;
+He had completely insulted my restaurant in a magazine.
 
 168
 00:11:46,997 --> 00:11:49,200
@@ -1056,7 +1056,7 @@ There's talk of designating it an Important Cultural Property of Japan.
 
 265
 00:17:53,964 --> 00:17:56,400
-&lt;i&gt;An Important Cultural Property!&lt;/i&gt;
+An Important Cultural Property!
 
 266
 00:17:56,767 --> 00:17:58,569
@@ -1168,7 +1168,7 @@ Now his soba gets flown to Buckingham Palace every week!
 
 293
 00:19:39,770 --> 00:19:41,705
-&lt;i&gt;The British royal family!&lt;/i&gt;
+The British royal family!
 
 294
 00:19:41,939 --> 00:19:43,807
@@ -1260,7 +1260,7 @@ Anyone who says it's not good is not human.
 
 316
 00:20:58,015 --> 00:21:00,317
-&lt;i&gt;The U.N. Secretary-General...&lt;/i&gt;
+The U.N. Secretary-General...
 
 317
 00:21:00,550 --> 00:21:02,319
@@ -1428,7 +1428,7 @@ Good grief! This guy is something else.
 
 358
 00:23:49,486 --> 00:23:51,621
-&lt;i&gt;I'm something else.&lt;/i&gt;
+I'm something else.
 
 359
 00:23:53,323 --> 00:23:57,227

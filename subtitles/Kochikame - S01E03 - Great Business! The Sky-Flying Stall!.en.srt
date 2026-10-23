@@ -4,79 +4,79 @@ KOCHIKAME
 
 2
 00:00:14,293 --> 00:00:17,171
-&lt;i&gt;Ah, summer's here again&lt;/i&gt;
+Ah, summer's here again
 
 3
 00:00:17,380 --> 00:00:20,049
-&lt;i&gt;It's come, it's arrived, it's here&lt;/i&gt;
+It's come, it's arrived, it's here
 
 4
 00:00:20,258 --> 00:00:23,136
-&lt;i&gt;Ah, summer's here again&lt;/i&gt;
+Ah, summer's here again
 
 5
 00:00:23,344 --> 00:00:25,721
-&lt;i&gt;It's come, it's arrived, here it is!&lt;/i&gt;
+It's come, it's arrived, here it is!
 
 6
 00:00:25,930 --> 00:00:28,975
-&lt;i&gt;Big waves, small waves,&lt;/i&gt; &lt;i&gt;tiny waves and middle-size waves&lt;/i&gt;
+Big waves, small waves, tiny waves and middle-size waves
 
 7
 00:00:29,183 --> 00:00:31,644
-&lt;i&gt;Here they come on the southern wind&lt;/i&gt;
+Here they come on the southern wind
 
 8
 00:00:31,853 --> 00:00:34,897
-&lt;i&gt;Big boobs, small boobs,&lt;/i&gt; &lt;i&gt;tiny boobs and middle-size boobs&lt;/i&gt;
+Big boobs, small boobs, tiny boobs and middle-size boobs
 
 9
 00:00:35,106 --> 00:00:37,900
-&lt;i&gt;At the beach&lt;/i&gt; &lt;i&gt;Jiggle, jiggle, jiggle!&lt;/i&gt;
+At the beach Jiggle, jiggle, jiggle!
 
 10
 00:00:38,109 --> 00:00:40,903
-&lt;i&gt;Ah, summer's here again&lt;/i&gt;
+Ah, summer's here again
 
 11
 00:00:41,112 --> 00:00:43,906
-&lt;i&gt;It's come, it's arrived, it's here&lt;/i&gt;
+It's come, it's arrived, it's here
 
 12
 00:00:44,115 --> 00:00:46,742
-&lt;i&gt;Ah, summer's here again&lt;/i&gt;
+Ah, summer's here again
 
 13
 00:00:46,951 --> 00:00:49,412
-&lt;i&gt;It's come, it's arrived,&lt;/i&gt; &lt;i&gt;it's here already!&lt;/i&gt;
+It's come, it's arrived, it's here already!
 
 14
 00:00:49,620 --> 00:00:52,623
-&lt;i&gt;Big waves, small waves,&lt;/i&gt; &lt;i&gt;tiny waves and middle-size waves&lt;/i&gt;
+Big waves, small waves, tiny waves and middle-size waves
 
 15
 00:00:52,832 --> 00:00:55,460
-&lt;i&gt;Here they come on the southern wind&lt;/i&gt;
+Here they come on the southern wind
 
 16
 00:00:55,668 --> 00:00:58,463
-&lt;i&gt;Big butts, small butts,&lt;/i&gt; &lt;i&gt;tiny butts and middle-size butts&lt;/i&gt;
+Big butts, small butts, tiny butts and middle-size butts
 
 17
 00:00:58,671 --> 00:01:02,967
-&lt;i&gt;At the beach&lt;/i&gt; &lt;i&gt;Bounce, bounce, bounce!&lt;/i&gt;
+At the beach Bounce, bounce, bounce!
 
 18
 00:01:06,095 --> 00:01:14,896
-&lt;i&gt;Here they come on the southern wind&lt;/i&gt;
+Here they come on the southern wind
 
 19
 00:01:17,940 --> 00:01:21,486
-&lt;i&gt;Bouncing at the beach&lt;/i&gt; &lt;i&gt;Jiggling at the beach&lt;/i&gt;
+Bouncing at the beach Jiggling at the beach
 
 20
 00:01:23,321 --> 00:01:24,322
-&lt;i&gt;Want you!&lt;/i&gt;
+Want you!
 
 21
 00:01:28,159 --> 00:01:34,040
@@ -332,7 +332,7 @@ Go ahead.
 
 84
 00:05:11,632 --> 00:05:14,385
-&lt;i&gt;KATSUSHIKA BALLOON CLUB&lt;/i&gt;
+KATSUSHIKA BALLOON CLUB
 
 85
 00:05:19,974 --> 00:05:22,768
@@ -540,7 +540,7 @@ I guess it's worth a try.
 
 136
 00:08:13,230 --> 00:08:16,108
-&lt;i&gt;This is Balloon Ramen.&lt;/i&gt; &lt;i&gt;Do you want a delivery?&lt;/i&gt;
+This is Balloon Ramen. Do you want a delivery?
 
 137
 00:08:16,358 --> 00:08:17,151
@@ -552,7 +552,7 @@ Uh, could we have two bowls of ramen?
 
 139
 00:08:21,113 --> 00:08:23,657
-&lt;i&gt;Sure thing, two ramen.&lt;/i&gt; &lt;i&gt;Name and address please.&lt;/i&gt;
+Sure thing, two ramen. Name and address please.
 
 140
 00:08:24,158 --> 00:08:27,244
@@ -560,7 +560,7 @@ I'm Yamada. Apartment 3011 of Tower A.
 
 141
 00:08:27,828 --> 00:08:30,164
-&lt;i&gt;30th floor?&lt;/i&gt; &lt;i&gt;Okay, thanks for your order.&lt;/i&gt;
+30th floor? Okay, thanks for your order.
 
 142
 00:08:30,915 --> 00:08:32,750
@@ -816,11 +816,11 @@ Okay.
 
 205
 00:11:50,739 --> 00:11:53,075
-&lt;i&gt;Oh, man...&lt;/i&gt;
+Oh, man...
 
 206
 00:11:55,244 --> 00:11:59,081
-&lt;i&gt;Ah, summer's here again&lt;/i&gt;
+Ah, summer's here again
 
 207
 00:12:01,083 --> 00:12:02,543
@@ -1312,7 +1312,7 @@ Hello, Balloon Convenience Store and Ramen.
 
 329
 00:18:34,976 --> 00:18:36,853
-&lt;i&gt;Can I order a delivery?&lt;/i&gt;
+Can I order a delivery?
 
 330
 00:18:37,979 --> 00:18:39,105
@@ -1320,7 +1320,7 @@ This voice...
 
 331
 00:18:39,314 --> 00:18:40,857
-&lt;i&gt;Bingo! It's Ryo-chan.&lt;/i&gt;
+Bingo! It's Ryo-chan.
 
 332
 00:18:41,316 --> 00:18:46,279
@@ -1468,7 +1468,7 @@ They're not moving at all?
 
 368
 00:20:49,778 --> 00:20:50,862
-&lt;i&gt;It can't be!&lt;/i&gt;
+It can't be!
 
 369
 00:20:52,989 --> 00:20:56,451
@@ -1672,15 +1672,15 @@ ONE INCINERATED HOT AIR BALLOON
 
 419
 00:24:04,430 --> 00:24:05,557
-&lt;i&gt;Yeehaw!&lt;/i&gt;
+Yeehaw!
 
 420
 00:24:06,015 --> 00:24:10,562
-&lt;i&gt;I've won 5.5 billion yen&lt;/i&gt; &lt;i&gt;in an overseas foreign lottery!&lt;/i&gt;
+I've won 5.5 billion yen in an overseas foreign lottery!
 
 421
 00:24:10,770 --> 00:24:11,855
-&lt;i&gt;5.5 billion!&lt;/i&gt;
+5.5 billion!
 
 422
 00:24:12,355 --> 00:24:15,525
@@ -1696,51 +1696,51 @@ NEXT EPISODE LOTTERY GUY LUCKS OUT
 
 425
 00:24:32,917 --> 00:24:37,172
-&lt;i&gt;Let's keep smiling always&lt;/i&gt;
+Let's keep smiling always
 
 426
 00:24:37,839 --> 00:24:41,467
-&lt;i&gt;Even when things go wrong&lt;/i&gt;
+Even when things go wrong
 
 427
 00:24:41,676 --> 00:24:45,930
-&lt;i&gt;Keep a pretty smile on your face&lt;/i&gt;
+Keep a pretty smile on your face
 
 428
 00:24:46,556 --> 00:24:51,019
-&lt;i&gt;And go out as if nothing happened&lt;/i&gt;
+And go out as if nothing happened
 
 429
 00:24:51,561 --> 00:24:55,023
-&lt;i&gt;Hey, show me your smile&lt;/i&gt;
+Hey, show me your smile
 
 430
 00:24:55,231 --> 00:24:59,277
-&lt;i&gt;You did nothing wrong&lt;/i&gt;
+You did nothing wrong
 
 431
 00:25:00,236 --> 00:25:03,698
-&lt;i&gt;Hey, show me your smile&lt;/i&gt;
+Hey, show me your smile
 
 432
 00:25:03,907 --> 00:25:07,410
-&lt;i&gt;Just like you did before, yeah&lt;/i&gt;
+Just like you did before, yeah
 
 433
 00:25:07,911 --> 00:25:12,081
-&lt;i&gt;I want you to smile always&lt;/i&gt;
+I want you to smile always
 
 434
 00:25:12,624 --> 00:25:17,212
-&lt;i&gt;A woman with a frown isn't pretty&lt;/i&gt;
+A woman with a frown isn't pretty
 
 435
 00:25:17,712 --> 00:25:23,259
-&lt;i&gt;So you should smile as soon as you can&lt;/i&gt;
+So you should smile as soon as you can
 
 436
 00:25:24,052 --> 00:25:27,013
-&lt;i&gt;It's the grown-up thing to do&lt;/i&gt;
+It's the grown-up thing to do
 
 437
 00:25:39,150 --> 00:25:43,863

@@ -216,11 +216,11 @@ Ryo-san, what will you spend your bonus on this year?
 
 55
 00:04:58,293 --> 00:05:02,331
-&lt;i&gt;I've already ordered a limited edition NASA radio-controlled space shuttle.&lt;/i&gt;
+I've already ordered a limited edition NASA radio-controlled space shuttle.
 
 56
 00:05:02,531 --> 00:05:05,434
-&lt;i&gt;It's a 1/12th scale model.&lt;/i&gt;
+It's a 1/12th scale model.
 
 57
 00:05:05,634 --> 00:05:07,469
@@ -260,11 +260,11 @@ Maybe he already left.
 
 66
 00:05:50,946 --> 00:05:55,784
-&lt;i&gt;Heh... A pair of sunglasses is enough to have them fooled. Easy as pie.&lt;/i&gt;
+Heh... A pair of sunglasses is enough to have them fooled. Easy as pie.
 
 67
 00:05:57,085 --> 00:05:58,153
-&lt;i&gt;Oh no, my bonus!&lt;/i&gt;
+Oh no, my bonus!
 
 68
 00:05:58,353 --> 00:06:00,889
@@ -308,7 +308,7 @@ Take care.
 
 78
 00:06:19,207 --> 00:06:21,910
-&lt;i&gt;That was close. But these guys must be blind.&lt;/i&gt;
+That was close. But these guys must be blind.
 
 79
 00:06:22,110 --> 00:06:23,278
@@ -384,15 +384,15 @@ Ozaki-san, please respond.
 
 97
 00:07:12,227 --> 00:07:13,562
-&lt;i&gt;We're at the police HQ.&lt;/i&gt;
+We're at the police HQ.
 
 98
 00:07:13,762 --> 00:07:16,598
-&lt;i&gt;The ambush failed. Ryo-san has escaped.&lt;/i&gt;
+The ambush failed. Ryo-san has escaped.
 
 99
 00:07:16,798 --> 00:07:18,800
-&lt;i&gt;Commence the operation immediately!&lt;/i&gt;
+Commence the operation immediately!
 
 100
 00:07:19,001 --> 00:07:19,801
@@ -468,7 +468,7 @@ Get there first, and lie in wait.
 
 118
 00:08:19,695 --> 00:08:20,495
-&lt;i&gt;Roger that.&lt;/i&gt;
+Roger that.
 
 119
 00:08:20,695 --> 00:08:23,732
@@ -804,19 +804,19 @@ Attention all personnel!
 
 202
 00:13:19,361 --> 00:13:22,197
-&lt;i&gt;Ryo-san is holed up at the Kameari Hybrid Hotel.&lt;/i&gt;
+Ryo-san is holed up at the Kameari Hybrid Hotel.
 
 203
 00:13:22,764 --> 00:13:24,032
-&lt;i&gt;That's where we end it.&lt;/i&gt;
+That's where we end it.
 
 204
 00:13:24,833 --> 00:13:28,336
-&lt;i&gt;Operation Sky Eye is entering its final stage.&lt;/i&gt;
+Operation Sky Eye is entering its final stage.
 
 205
 00:13:28,536 --> 00:13:30,772
-&lt;i&gt;All personnel head for the hotel!&lt;/i&gt;
+All personnel head for the hotel!
 
 206
 00:13:35,810 --> 00:13:37,145
@@ -860,11 +860,11 @@ Team A, approach from room 816's balcony.
 
 216
 00:14:08,410 --> 00:14:10,745
-&lt;i&gt;Team B, approach from room 818's balcony.&lt;/i&gt;
+Team B, approach from room 818's balcony.
 
 217
 00:14:11,246 --> 00:14:15,383
-&lt;i&gt;Teams C and D, enter room 817 directly.&lt;/i&gt;
+Teams C and D, enter room 817 directly.
 
 218
 00:14:17,051 --> 00:14:20,221
@@ -892,7 +892,7 @@ Team A is in position.
 
 224
 00:14:39,607 --> 00:14:40,675
-&lt;i&gt;Team B, go ahead.&lt;/i&gt;
+Team B, go ahead.
 
 225
 00:14:40,875 --> 00:14:44,612
@@ -900,7 +900,7 @@ Team B is in position on the balcony of room 818.
 
 226
 00:14:45,213 --> 00:14:46,314
-&lt;i&gt;Teams C and D?&lt;/i&gt;
+Teams C and D?
 
 227
 00:14:46,548 --> 00:14:48,850
@@ -908,7 +908,7 @@ Teams C and D are also in position.
 
 228
 00:14:49,050 --> 00:14:50,084
-&lt;i&gt;Understood.&lt;/i&gt;
+Understood.
 
 229
 00:14:50,718 --> 00:14:52,087
@@ -916,7 +916,7 @@ Beginning the countdown.
 
 230
 00:14:52,487 --> 00:14:58,259
-&lt;i&gt;Five, four, three, two, one...&lt;/i&gt;
+Five, four, three, two, one...
 
 231
 00:14:58,460 --> 00:14:59,761
@@ -928,7 +928,7 @@ Status report. Did you capture the target?
 
 233
 00:15:11,406 --> 00:15:13,475
-&lt;i&gt;-It's a crow!&lt;/i&gt; -A crow?
+-It's a crow! -A crow?
 
 234
 00:15:16,478 --> 00:15:20,415
@@ -1068,35 +1068,35 @@ A child? Working? How could that be?
 
 268
 00:17:04,252 --> 00:17:07,288
-&lt;i&gt;It's a long story that I'll never forget.&lt;/i&gt;
+It's a long story that I'll never forget.
 
 269
 00:17:07,522 --> 00:17:11,426
-&lt;i&gt;Sachiko was born on a cold, snowy night.&lt;/i&gt;
+Sachiko was born on a cold, snowy night.
 
 270
 00:17:12,727 --> 00:17:15,063
-&lt;i&gt;Mom and Dad were overjoyed.&lt;/i&gt;
+Mom and Dad were overjoyed.
 
 271
 00:17:15,263 --> 00:17:20,268
-&lt;i&gt;They named her Sachiko, hoping it would bring her happiness.&lt;/i&gt;
+They named her Sachiko, hoping it would bring her happiness.
 
 272
 00:17:20,468 --> 00:17:21,436
-&lt;i&gt;But...&lt;/i&gt;
+But...
 
 273
 00:17:31,546 --> 00:17:33,548
-&lt;i&gt;Our parents died in a freak accident.&lt;/i&gt;
+Our parents died in a freak accident.
 
 274
 00:17:33,748 --> 00:17:36,284
-&lt;i&gt;We were meant to receive some insurance money,&lt;/i&gt;
+We were meant to receive some insurance money,
 
 275
 00:17:36,484 --> 00:17:39,287
-&lt;i&gt;but we got swindled by a shady broker.&lt;/i&gt;
+but we got swindled by a shady broker.
 
 276
 00:17:42,323 --> 00:17:46,094
@@ -1116,35 +1116,35 @@ And then...
 
 280
 00:17:59,607 --> 00:18:03,478
-&lt;i&gt;It turns out the relative runs a shady construction company.&lt;/i&gt;
+It turns out the relative runs a shady construction company.
 
 281
 00:18:03,678 --> 00:18:06,514
-&lt;i&gt;He forces young Sachiko to work for him,&lt;/i&gt;
+He forces young Sachiko to work for him,
 
 282
 00:18:06,748 --> 00:18:08,983
-&lt;i&gt;and he doesn't even feed her right.&lt;/i&gt;
+and he doesn't even feed her right.
 
 283
 00:18:09,450 --> 00:18:14,288
-&lt;i&gt;Every time I try to get her back, he shows me the 200 million yen IOU.&lt;/i&gt;
+Every time I try to get her back, he shows me the 200 million yen IOU.
 
 284
 00:18:14,489 --> 00:18:16,491
-&lt;i&gt;And so I made a vow to myself.&lt;/i&gt;
+And so I made a vow to myself.
 
 285
 00:18:16,991 --> 00:18:21,929
-&lt;i&gt;It would be impossible to put in the hours to pay off the debt before she hits 20,&lt;/i&gt;
+It would be impossible to put in the hours to pay off the debt before she hits 20,
 
 286
 00:18:22,630 --> 00:18:26,768
-&lt;i&gt;and so I put all of my salary and bonuses toward paying off the debt.&lt;/i&gt;
+and so I put all of my salary and bonuses toward paying off the debt.
 
 287
 00:18:27,468 --> 00:18:31,706
-&lt;i&gt;I knew the world would hate me for it, but I didn't care!&lt;/i&gt;
+I knew the world would hate me for it, but I didn't care!
 
 288
 00:18:35,543 --> 00:18:37,712

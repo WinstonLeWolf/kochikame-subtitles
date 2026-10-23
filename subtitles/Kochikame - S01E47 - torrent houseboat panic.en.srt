@@ -156,15 +156,15 @@ Remember last year's work trip? When the chief was the organizer?
 
 40
 00:03:31,262 --> 00:03:36,133
-&lt;i&gt;Why, on a Sunday, of all days,&lt;/i&gt; &lt;i&gt;would he take us to an amusement park?&lt;/i&gt;
+Why, on a Sunday, of all days, would he take us to an amusement park?
 
 41
 00:03:36,333 --> 00:03:39,603
-&lt;i&gt;We were there half the day&lt;/i&gt; &lt;i&gt;and only got to ride two rides.&lt;/i&gt;
+We were there half the day and only got to ride two rides.
 
 42
 00:03:39,803 --> 00:03:41,338
-&lt;i&gt;And the food was terrible.&lt;/i&gt;
+And the food was terrible.
 
 43
 00:03:41,538 --> 00:03:44,508
@@ -172,15 +172,15 @@ Small portions, tasted bland, and there was no dessert.
 
 44
 00:03:44,942 --> 00:03:47,478
-&lt;i&gt;Then there was that&lt;/i&gt; &lt;i&gt;karaoke contest at the end.&lt;/i&gt;
+Then there was that karaoke contest at the end.
 
 45
 00:03:47,678 --> 00:03:51,348
-&lt;i&gt;They only had one song by my&lt;/i&gt; &lt;i&gt;favorite artist, Hachigoro Kasuga.&lt;/i&gt;
+They only had one song by my favorite artist, Hachigoro Kasuga.
 
 46
 00:03:51,549 --> 00:03:54,285
-&lt;i&gt;The microphone broke,&lt;/i&gt; &lt;i&gt;and we all got kicked out.&lt;/i&gt;
+The microphone broke, and we all got kicked out.
 
 47
 00:03:54,652 --> 00:03:56,287
@@ -324,7 +324,7 @@ Hmm, a fair deal. Here's the expenses and the participants.
 
 82
 00:05:36,920 --> 00:05:38,322
-&lt;i&gt;He fell for it.&lt;/i&gt;
+He fell for it.
 
 83
 00:05:39,256 --> 00:05:40,190
@@ -1204,15 +1204,15 @@ I'll go too.
 
 302
 00:17:45,348 --> 00:17:48,918
-&lt;i&gt;A large low-pressure system&lt;/i&gt; &lt;i&gt;is approaching the Kanto region.&lt;/i&gt;
+A large low-pressure system is approaching the Kanto region.
 
 303
 00:17:49,285 --> 00:17:51,788
-&lt;i&gt;Vessels at sea should exercise caution.&lt;/i&gt;
+Vessels at sea should exercise caution.
 
 304
 00:17:51,988 --> 00:17:54,958
-&lt;i&gt;Heavy rain, flooding,&lt;/i&gt; &lt;i&gt;and strong winds are expected.&lt;/i&gt;
+Heavy rain, flooding, and strong winds are expected.
 
 305
 00:17:55,158 --> 00:17:56,126

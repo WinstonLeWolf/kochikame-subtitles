@@ -52,7 +52,7 @@ They're just digging for content for their silly little traffic newsletter.
 
 14
 00:02:14,539 --> 00:02:16,974
-&lt;i&gt;I was in the men's room&lt;/i&gt; &lt;i&gt;the other day at HQ.&lt;/i&gt;
+I was in the men's room the other day at HQ.
 
 15
 00:02:17,875 --> 00:02:20,411
@@ -144,7 +144,7 @@ Congrats.
 
 37
 00:03:23,107 --> 00:03:26,744
-We'll be publishing these results in the next &lt;i&gt;Green Light&lt;/i&gt;. Enjoy!
+We'll be publishing these results in the next Green Light. Enjoy!
 
 38
 00:03:27,144 --> 00:03:29,447
@@ -320,159 +320,159 @@ Uh-oh... Don't tell me it's the Chief's.
 
 81
 00:05:11,148 --> 00:05:13,551
-&lt;i&gt;Oh, that's my camera, Ryotsu.&lt;/i&gt;
+Oh, that's my camera, Ryotsu.
 
 82
 00:05:14,118 --> 00:05:15,853
-&lt;i&gt;I left it here?&lt;/i&gt;
+I left it here?
 
 83
 00:05:16,053 --> 00:05:17,888
-&lt;i&gt;I've been looking for it.&lt;/i&gt;
+I've been looking for it.
 
 84
 00:05:20,891 --> 00:05:21,892
-&lt;i&gt;Ryotsu?&lt;/i&gt;
+Ryotsu?
 
 85
 00:05:22,126 --> 00:05:23,594
-&lt;i&gt;What are you going to do?&lt;/i&gt;
+What are you going to do?
 
 86
 00:05:23,828 --> 00:05:27,898
-&lt;i&gt;I'm going to take a short break.&lt;/i&gt; &lt;i&gt;You're in charge now, Nakagawa, Reiko.&lt;/i&gt;
+I'm going to take a short break. You're in charge now, Nakagawa, Reiko.
 
 87
 00:05:28,132 --> 00:05:29,600
-&lt;i&gt;Looks like a long break.&lt;/i&gt;
+Looks like a long break.
 
 88
 00:05:29,834 --> 00:05:31,502
-&lt;i&gt;Only five or ten years.&lt;/i&gt;
+Only five or ten years.
 
 89
 00:05:31,702 --> 00:05:34,572
-&lt;i&gt;Ryotsu!&lt;/i&gt;
+Ryotsu!
 
 90
 00:05:35,439 --> 00:05:38,409
-&lt;i&gt;Is Ryotsu there?&lt;/i&gt;
+Is Ryotsu there?
 
 91
 00:05:39,243 --> 00:05:41,612
-&lt;i&gt;Chief! What's wrong?&lt;/i&gt;
+Chief! What's wrong?
 
 92
 00:05:41,846 --> 00:05:43,381
-&lt;i&gt;Ryotsu, where are you going?&lt;/i&gt;
+Ryotsu, where are you going?
 
 93
 00:05:43,581 --> 00:05:46,250
-&lt;i&gt;I was just about to go on patrol.&lt;/i&gt;
+I was just about to go on patrol.
 
 94
 00:05:46,851 --> 00:05:48,753
-&lt;i&gt;You stupid moron!&lt;/i&gt;
+You stupid moron!
 
 95
 00:05:49,153 --> 00:05:52,757
-&lt;i&gt;Go wherever you like, but don't you ever&lt;/i&gt; &lt;i&gt;show your face here again!&lt;/i&gt;
+Go wherever you like, but don't you ever show your face here again!
 
 96
 00:05:53,457 --> 00:05:54,458
-&lt;i&gt;You're fired!&lt;/i&gt;
+You're fired!
 
 97
 00:05:54,692 --> 00:05:56,827
-&lt;i&gt;We don't need scum like you!&lt;/i&gt;
+We don't need scum like you!
 
 98
 00:05:57,027 --> 00:05:58,629
-&lt;i&gt;No... Chief!&lt;/i&gt;
+No... Chief!
 
 99
 00:05:58,929 --> 00:05:59,864
-&lt;i&gt;I can explain—&lt;/i&gt;
+I can explain—
 
 100
 00:06:01,399 --> 00:06:02,767
-&lt;i&gt;You're joking, right?&lt;/i&gt;
+You're joking, right?
 
 101
 00:06:03,167 --> 00:06:06,003
-&lt;i&gt;I'm not joking. You're fired!&lt;/i&gt;
+I'm not joking. You're fired!
 
 102
 00:06:06,437 --> 00:06:07,538
-&lt;i&gt;No!&lt;/i&gt;
+No!
 
 103
 00:06:07,738 --> 00:06:09,473
-&lt;i&gt;Nakagawa, Reiko, help me out!&lt;/i&gt;
+Nakagawa, Reiko, help me out!
 
 104
 00:06:09,774 --> 00:06:11,242
--&lt;i&gt;Bye, Ryo-chan.&lt;/i&gt; -&lt;i&gt;So long!&lt;/i&gt;
+-Bye, Ryo-chan. -So long!
 
 105
 00:06:11,442 --> 00:06:12,243
-&lt;i&gt;Huh?&lt;/i&gt;
+Huh?
 
 106
 00:06:14,278 --> 00:06:16,747
-&lt;i&gt;No! Nakagawa, Reiko!&lt;/i&gt;
+No! Nakagawa, Reiko!
 
 107
 00:06:16,947 --> 00:06:19,617
-&lt;i&gt;How dare you betray me!&lt;/i&gt;
+How dare you betray me!
 
 108
 00:06:19,850 --> 00:06:21,118
-&lt;i&gt;Terai!&lt;/i&gt;
+Terai!
 
 109
 00:06:21,419 --> 00:06:24,388
-&lt;i&gt;Hey, open up!&lt;/i&gt; &lt;i&gt;Open up, or I'll break down this door!&lt;/i&gt;
+Hey, open up! Open up, or I'll break down this door!
 
 110
 00:06:24,588 --> 00:06:26,924
-&lt;i&gt;Don't make me angry now... Huh?&lt;/i&gt;
+Don't make me angry now... Huh?
 
 111
 00:06:28,959 --> 00:06:31,462
-&lt;i&gt;This cake you made is delicious, Reiko.&lt;/i&gt;
+This cake you made is delicious, Reiko.
 
 112
 00:06:31,662 --> 00:06:33,664
-&lt;i&gt;If you like it, there's plenty more.&lt;/i&gt;
+If you like it, there's plenty more.
 
 113
 00:06:34,799 --> 00:06:35,466
-&lt;i&gt;Huh?&lt;/i&gt;
+Huh?
 
 114
 00:06:36,067 --> 00:06:40,471
-&lt;i&gt;Ryo-san. Your bills have been piling up.&lt;/i&gt; &lt;i&gt;It's time for you to pay us back.&lt;/i&gt;
+Ryo-san. Your bills have been piling up. It's time for you to pay us back.
 
 115
 00:06:40,905 --> 00:06:41,972
-&lt;i&gt;Wait, please!&lt;/i&gt;
+Wait, please!
 
 116
 00:06:42,206 --> 00:06:44,308
-&lt;i&gt;Just wait till my next bonus...&lt;/i&gt;
+Just wait till my next bonus...
 
 117
 00:06:44,975 --> 00:06:46,944
-&lt;i&gt;But if I'm fired, then...&lt;/i&gt;
+But if I'm fired, then...
 
 118
 00:06:47,344 --> 00:06:48,512
-&lt;i&gt;Pay us back!&lt;/i&gt;
+Pay us back!
 
 119
 00:06:48,746 --> 00:06:53,651
-&lt;i&gt;Nakagawa, Reiko, help me!&lt;/i&gt;
+Nakagawa, Reiko, help me!
 
 120
 00:06:54,518 --> 00:06:59,657
@@ -536,11 +536,11 @@ Oh no...
 
 135
 00:07:37,828 --> 00:07:39,029
-&lt;i&gt;You're joking, right?&lt;/i&gt;
+You're joking, right?
 
 136
 00:07:39,497 --> 00:07:42,333
-&lt;i&gt;I'm not joking. You're fired!&lt;/i&gt;
+I'm not joking. You're fired!
 
 137
 00:07:42,700 --> 00:07:44,201
@@ -692,7 +692,7 @@ Then I can guess what photos he took.
 
 174
 00:09:26,203 --> 00:09:30,274
-&lt;i&gt;He probably went around Kyoto taking&lt;/i&gt; &lt;i&gt;postcard-type photos with nobody in them.&lt;/i&gt;
+He probably went around Kyoto taking postcard-type photos with nobody in them.
 
 175
 00:09:30,474 --> 00:09:32,476
@@ -720,15 +720,15 @@ Yes, this is Kameari Park Police Station.
 
 181
 00:09:46,090 --> 00:09:47,091
-&lt;i&gt;Is Ryotsu there?&lt;/i&gt;
+Is Ryotsu there?
 
 182
 00:09:48,292 --> 00:09:49,393
-&lt;i&gt;Yes, what is it?&lt;/i&gt;
+Yes, what is it?
 
 183
 00:09:49,593 --> 00:09:50,594
-&lt;i&gt;Oh, there you are.&lt;/i&gt;
+Oh, there you are.
 
 184
 00:09:51,095 --> 00:09:53,464
@@ -752,7 +752,7 @@ They're important, so make sure they come out clear and vivid.
 
 189
 00:10:07,544 --> 00:10:09,513
-&lt;i&gt;O-Okay. Leave it to me.&lt;/i&gt;
+O-Okay. Leave it to me.
 
 190
 00:10:11,615 --> 00:10:12,950
@@ -760,7 +760,7 @@ Is this it for me?
 
 191
 00:10:13,250 --> 00:10:14,885
-&lt;i&gt;You're fired!&lt;/i&gt;
+You're fired!
 
 192
 00:10:15,319 --> 00:10:17,421
@@ -1256,7 +1256,7 @@ The thought of having two chiefs, even if one is a doll, gives me the creeps.
 
 315
 00:18:14,297 --> 00:18:19,336
-&lt;i&gt;The train departing from platform 12&lt;/i&gt; &lt;i&gt;is the 9:34 Nozomi 304 bound for Tokyo...&lt;/i&gt;
+The train departing from platform 12 is the 9:34 Nozomi 304 bound for Tokyo...
 
 316
 00:18:19,569 --> 00:18:21,671
@@ -1620,7 +1620,7 @@ There it is! The photo of the day!
 
 406
 00:23:27,243 --> 00:23:29,345
-Enjoy the next issue of &lt;i&gt;Green Light&lt;/i&gt;.
+Enjoy the next issue of Green Light.
 
 407
 00:23:29,746 --> 00:23:31,247

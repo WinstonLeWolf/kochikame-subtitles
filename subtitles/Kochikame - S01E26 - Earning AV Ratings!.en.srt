@@ -64,19 +64,19 @@ I'll watch TV.
 
 17
 00:02:24,908 --> 00:02:27,311
-&lt;i&gt;This meat is so juicy!&lt;/i&gt;
+This meat is so juicy!
 
 18
 00:02:31,281 --> 00:02:32,349
-&lt;i&gt;It's delicious!&lt;/i&gt;
+It's delicious!
 
 19
 00:02:33,717 --> 00:02:36,920
-&lt;i&gt;It's so tender and melts in my mouth!&lt;/i&gt;
+It's so tender and melts in my mouth!
 
 20
 00:02:37,121 --> 00:02:41,625
--Damn! Eating meat before payday! &lt;i&gt;-This is the best! I can't resist!&lt;/i&gt;
+-Damn! Eating meat before payday! -This is the best! I can't resist!
 
 21
 00:02:41,825 --> 00:02:43,827
@@ -84,23 +84,23 @@ Don't air such a show!
 
 22
 00:02:45,129 --> 00:02:47,264
-&lt;i&gt;I love you.&lt;/i&gt;
+I love you.
 
 23
 00:02:47,731 --> 00:02:50,667
-&lt;i&gt;I really love you.&lt;/i&gt;
+I really love you.
 
 24
 00:02:50,901 --> 00:02:52,002
-&lt;i&gt;I really, really...&lt;/i&gt;
+I really, really...
 
 25
 00:02:52,202 --> 00:02:53,904
-&lt;i&gt;I really, really love you.&lt;/i&gt;
+I really, really love you.
 
 26
 00:02:54,138 --> 00:02:55,506
--Gah! &lt;i&gt;-I really, really love you.&lt;/i&gt;
+-Gah! -I really, really love you.
 
 27
 00:02:55,739 --> 00:02:59,510
@@ -120,19 +120,19 @@ You seem to know a lot about TV ratings.
 
 31
 00:03:10,087 --> 00:03:14,091
-&lt;i&gt;Mimi-chan gets shampooed&lt;/i&gt; &lt;i&gt;at a dog salon every week.&lt;/i&gt;
+Mimi-chan gets shampooed at a dog salon every week.
 
 32
 00:03:14,291 --> 00:03:15,526
-&lt;i&gt;Her clothes are from Hyanel.&lt;/i&gt;
+Her clothes are from Hyanel.
 
 33
 00:03:15,759 --> 00:03:17,628
-&lt;i&gt;Her shoes are custom-made&lt;/i&gt; &lt;i&gt;by Herragamo.&lt;/i&gt;
+Her shoes are custom-made by Herragamo.
 
 34
 00:03:17,828 --> 00:03:19,930
-&lt;i&gt;Kobe beef is her favorite food.&lt;/i&gt;
+Kobe beef is her favorite food.
 
 35
 00:03:21,565 --> 00:03:24,368
@@ -192,7 +192,7 @@ Oh, you're right. It's about time he came back from patrol.
 
 49
 00:04:16,019 --> 00:04:19,756
-&lt;i&gt;When Tsurukame-ken's katsudon&lt;/i&gt; &lt;i&gt;gets cold, it loses half its flavor.&lt;/i&gt;
+When Tsurukame-ken's katsudon gets cold, it loses half its flavor.
 
 50
 00:04:20,190 --> 00:04:21,058
@@ -384,7 +384,7 @@ Okay?
 
 97
 00:06:49,306 --> 00:06:51,575
-"&lt;i&gt;24-Hour Close-Up&lt;/i&gt;"?
+"24-Hour Close-Up"?
 
 98
 00:06:51,908 --> 00:06:52,743
@@ -424,7 +424,7 @@ Hello?
 
 107
 00:07:17,234 --> 00:07:19,936
-&lt;i&gt;Nakagawa, have you met&lt;/i&gt; &lt;i&gt;the Kanto TV staff?&lt;/i&gt;
+Nakagawa, have you met the Kanto TV staff?
 
 108
 00:07:20,170 --> 00:07:23,573
@@ -520,7 +520,7 @@ Well, I'm sure we'll get a 20% audience share with this!
 
 131
 00:08:54,297 --> 00:08:56,132
-&lt;i&gt;24-Hour Close-Up&lt;/i&gt;
+24-Hour Close-Up
 
 132
 00:08:56,333 --> 00:09:00,704
@@ -568,7 +568,7 @@ Ohhh!
 
 143
 00:09:33,169 --> 00:09:35,605
-&lt;i&gt;24-Hour Close-Up&lt;/i&gt; was popular
+24-Hour Close-Up was popular
 
 144
 00:09:36,006 --> 00:09:39,042
@@ -712,7 +712,7 @@ What on earth is Ryotsu thinking?
 
 179
 00:11:17,040 --> 00:11:21,344
-&lt;i&gt;My grand plan to turn Nakagawa-chan&lt;/i&gt; &lt;i&gt;into a complete commoner!&lt;/i&gt;
+My grand plan to turn Nakagawa-chan into a complete commoner!
 
 180
 00:11:21,845 --> 00:11:23,813
@@ -1492,23 +1492,23 @@ Right, the climax!
 
 374
 00:22:10,960 --> 00:22:15,331
-&lt;i&gt;And so, common police officer&lt;/i&gt; &lt;i&gt;Nakagawa-kun's day comes to an end.&lt;/i&gt;
+And so, common police officer Nakagawa-kun's day comes to an end.
 
 375
 00:22:15,665 --> 00:22:18,834
-&lt;i&gt;-Mom!&lt;/i&gt; &lt;i&gt;-Keiichi, Keiichi...&lt;/i&gt;
+-Mom! -Keiichi, Keiichi...
 
 376
 00:22:19,068 --> 00:22:21,337
-&lt;i&gt;-I missed you!&lt;/i&gt; &lt;i&gt;-I missed you, too!&lt;/i&gt;
+-I missed you! -I missed you, too!
 
 377
 00:22:22,371 --> 00:22:26,442
-&lt;i&gt;Reiko-san!&lt;/i&gt;
+Reiko-san!
 
 378
 00:22:27,343 --> 00:22:30,346
-&lt;i&gt;"PRODUCER&lt;/i&gt; &lt;i&gt;AKIO SUGIHARA"&lt;/i&gt;
+"PRODUCER AKIO SUGIHARA"
 
 379
 00:22:32,248 --> 00:22:34,016

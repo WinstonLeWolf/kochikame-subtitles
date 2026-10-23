@@ -688,7 +688,7 @@ Kankichi, when's the big day?
 
 173
 00:09:02,265 --> 00:09:04,667
-&lt;i&gt;...the senior trip is set&lt;/i&gt; &lt;i&gt;for June 29th, okay?&lt;/i&gt;
+...the senior trip is set for June 29th, okay?
 
 174
 00:09:05,368 --> 00:09:07,136
@@ -768,83 +768,83 @@ So, I guess I'm gonna have a daughter too.
 
 193
 00:09:58,988 --> 00:10:01,157
-&lt;i&gt;Which means,&lt;/i&gt; &lt;i&gt;maybe even that someday...&lt;/i&gt;
+Which means, maybe even that someday...
 
 194
 00:10:01,357 --> 00:10:03,960
-&lt;i&gt;Here you go, Father.&lt;/i&gt; &lt;i&gt;Say Ahh.&lt;/i&gt;
+Here you go, Father. Say Ahh.
 
 195
 00:10:04,694 --> 00:10:05,828
-&lt;i&gt;Ahh.&lt;/i&gt;
+Ahh.
 
 196
 00:10:07,697 --> 00:10:09,799
-&lt;i&gt;How is it, Father?&lt;/i&gt;
+How is it, Father?
 
 197
 00:10:09,999 --> 00:10:12,068
-&lt;i&gt;Mmm, delicious!&lt;/i&gt;
+Mmm, delicious!
 
 198
 00:10:13,269 --> 00:10:15,204
-&lt;i&gt;Even things like this...&lt;/i&gt;
+Even things like this...
 
 199
 00:10:15,638 --> 00:10:17,006
-&lt;i&gt;How's that, Father?&lt;/i&gt;
+How's that, Father?
 
 200
 00:10:17,206 --> 00:10:19,876
-&lt;i&gt;Oooh, it feels so good.&lt;/i&gt;
+Oooh, it feels so good.
 
 201
 00:10:20,076 --> 00:10:22,178
-&lt;i&gt;Now, how about the front, too?&lt;/i&gt;
+Now, how about the front, too?
 
 202
 00:10:22,378 --> 00:10:23,212
-&lt;i&gt;Oh no!&lt;/i&gt;
+Oh no!
 
 203
 00:10:23,980 --> 00:10:26,382
-&lt;i&gt;And then, she starts helping&lt;/i&gt; &lt;i&gt;with the tsukudani too.&lt;/i&gt;
+And then, she starts helping with the tsukudani too.
 
 204
 00:10:29,218 --> 00:10:31,754
-&lt;i&gt;Father, could you have a taste?&lt;/i&gt;
+Father, could you have a taste?
 
 205
 00:10:42,231 --> 00:10:43,165
-&lt;i&gt;Terrible!&lt;/i&gt;
+Terrible!
 
 206
 00:10:46,302 --> 00:10:48,704
-&lt;i&gt;Far from the Ryotsu family's&lt;/i&gt; &lt;i&gt;300-year flavor!&lt;/i&gt;
+Far from the Ryotsu family's 300-year flavor!
 
 207
 00:10:48,904 --> 00:10:49,672
-&lt;i&gt;Still too sweet!&lt;/i&gt;
+Still too sweet!
 
 208
 00:10:50,106 --> 00:10:52,174
-&lt;i&gt;I'm so sorry, Father.&lt;/i&gt;
+I'm so sorry, Father.
 
 209
 00:10:53,342 --> 00:10:57,079
-&lt;i&gt;Don't cry, Maria.&lt;/i&gt; &lt;i&gt;The way of tsukudani is long and steep.&lt;/i&gt;
+Don't cry, Maria. The way of tsukudani is long and steep.
 
 210
 00:10:57,313 --> 00:10:59,682
-&lt;i&gt;But you'll master it with me,&lt;/i&gt; &lt;i&gt;step by step.&lt;/i&gt;
+But you'll master it with me, step by step.
 
 211
 00:11:00,750 --> 00:11:01,717
-&lt;i&gt;Father!&lt;/i&gt;
+Father!
 
 212
 00:11:01,917 --> 00:11:04,720
-&lt;i&gt;There, there...&lt;/i&gt;
+There, there...
 
 213
 00:11:08,124 --> 00:11:10,426
@@ -1632,15 +1632,15 @@ Really? Tell me more.
 
 409
 00:20:23,612 --> 00:20:26,315
-&lt;i&gt;Dear neighbors,&lt;/i&gt; &lt;i&gt;this is Kankichi Ryotsu.&lt;/i&gt;
+Dear neighbors, this is Kankichi Ryotsu.
 
 410
 00:20:26,515 --> 00:20:28,917
-&lt;i&gt;I'm now heading to the wedding hall.&lt;/i&gt;
+I'm now heading to the wedding hall.
 
 411
 00:20:35,791 --> 00:20:39,595
-&lt;i&gt;Thanks to all of you,&lt;/i&gt; &lt;i&gt;I'm finally getting married.&lt;/i&gt;
+Thanks to all of you, I'm finally getting married.
 
 412
 00:20:40,128 --> 00:20:42,364
@@ -1652,11 +1652,11 @@ Relax. I've got it all covered.
 
 414
 00:20:45,133 --> 00:20:48,337
-&lt;i&gt;Dear folks,&lt;/i&gt; &lt;i&gt;sorry for the usual trouble.&lt;/i&gt;
+Dear folks, sorry for the usual trouble.
 
 415
 00:20:48,537 --> 00:20:49,838
-&lt;i&gt;Kankichi Ryotsu here.&lt;/i&gt;
+Kankichi Ryotsu here.
 
 416
 00:20:50,072 --> 00:20:51,840
@@ -1676,15 +1676,15 @@ Okay, zoom in! Get a perfect shot, Waka-chan!
 
 420
 00:21:04,620 --> 00:21:07,523
-&lt;i&gt;The car's passing the shopping district&lt;/i&gt; &lt;i&gt;and entering No-way Temple.&lt;/i&gt;
+The car's passing the shopping district and entering No-way Temple.
 
 421
 00:21:07,956 --> 00:21:11,660
-&lt;i&gt;This Phoenix Hall at No-way Temple&lt;/i&gt; &lt;i&gt;can seat up to 1,000 guests.&lt;/i&gt;
+This Phoenix Hall at No-way Temple can seat up to 1,000 guests.
 
 422
 00:21:11,860 --> 00:21:14,696
-&lt;i&gt;Before the ceremony,&lt;/i&gt; &lt;i&gt;the banquet kicks off the celebration!&lt;/i&gt;
+Before the ceremony, the banquet kicks off the celebration!
 
 423
 00:21:27,876 --> 00:21:31,480
@@ -1732,7 +1732,7 @@ I'm so happy.
 
 434
 00:22:04,212 --> 00:22:06,682
-&lt;i&gt;Kankichi, there's no escape now.&lt;/i&gt;
+Kankichi, there's no escape now.
 
 435
 00:22:10,786 --> 00:22:12,087

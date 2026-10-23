@@ -1,6 +1,6 @@
 1
 00:02:15,466 --> 00:02:19,136
-&lt;i&gt;Ryo-san got his first meal&lt;/i&gt; &lt;i&gt;in three days.&lt;/i&gt;
+Ryo-san got his first meal in three days.
 
 2
 00:02:54,071 --> 00:02:55,172
@@ -64,7 +64,7 @@ Name my price, huh...
 
 17
 00:03:32,176 --> 00:03:35,345
-&lt;i&gt;For 500 yen,&lt;/i&gt; &lt;i&gt;I could buy a Makunouchi bento.&lt;/i&gt;
+For 500 yen, I could buy a Makunouchi bento.
 
 18
 00:03:35,546 --> 00:03:36,880
@@ -80,15 +80,15 @@ For 50,000 yen, I'll pay you in cash!
 
 21
 00:03:41,518 --> 00:03:43,554
-&lt;i&gt;5, 5, 50,000 yen?!&lt;/i&gt;
+5, 5, 50,000 yen?!
 
 22
 00:03:44,321 --> 00:03:46,857
-&lt;i&gt;I had no idea&lt;/i&gt; &lt;i&gt;that doll was so valuable.&lt;/i&gt;
+I had no idea that doll was so valuable.
 
 23
 00:03:47,424 --> 00:03:51,828
-&lt;i&gt;Even as a guy into action figures like G.I. Joe, I had no idea.&lt;/i&gt;
+Even as a guy into action figures like G.I. Joe, I had no idea.
 
 24
 00:03:52,029 --> 00:03:53,130
@@ -144,7 +144,7 @@ First, let's eat!
 
 37
 00:04:30,000 --> 00:04:32,603
-&lt;i&gt;Ryo-san got 50,000 yen!&lt;/i&gt;
+Ryo-san got 50,000 yen!
 
 38
 00:04:42,279 --> 00:04:46,850
@@ -252,7 +252,7 @@ There are people like that. Total nerds or hardcore collectors.
 
 64
 00:06:05,495 --> 00:06:11,168
-TV shows like &lt;i&gt;Antique Appraisers&lt;/i&gt; and &lt;i&gt;Treasure Hunting &lt;/i&gt;are popular now.
+TV shows like Antique Appraisers and Treasure Hunting are popular now.
 
 65
 00:06:12,536 --> 00:06:14,304
@@ -760,7 +760,7 @@ A-Amazing!
 
 191
 00:13:03,279 --> 00:13:07,784
-&lt;i&gt;Ryo-san got his ticket&lt;/i&gt; &lt;i&gt;to success...?&lt;/i&gt;
+Ryo-san got his ticket to success...?
 
 192
 00:13:19,929 --> 00:13:22,532
@@ -1032,31 +1032,31 @@ Yes, thank you very much!
 
 259
 00:16:26,149 --> 00:16:28,918
-&lt;i&gt;The Ryo-san doll was a huge hit!&lt;/i&gt;
+The Ryo-san doll was a huge hit!
 
 260
 00:16:29,118 --> 00:16:31,888
-&lt;i&gt;Series 2 and 3 flew off the shelves too!&lt;/i&gt;
+Series 2 and 3 flew off the shelves too!
 
 261
 00:16:39,562 --> 00:16:43,099
-&lt;i&gt;Today's "President's House Visit"&lt;/i&gt; &lt;i&gt;comes to you&lt;/i&gt;
+Today's "President's House Visit" comes to you
 
 262
 00:16:43,299 --> 00:16:46,102
-&lt;i&gt;from President Tateishi's&lt;/i&gt; &lt;i&gt;own building at Tateishi Toys,&lt;/i&gt;
+from President Tateishi's own building at Tateishi Toys,
 
 263
 00:16:46,302 --> 00:16:49,572
-&lt;i&gt;where the smash-hit&lt;/i&gt; &lt;i&gt;"Sgt. Ryo-san" was born.&lt;/i&gt;
+where the smash-hit "Sgt. Ryo-san" was born.
 
 264
 00:16:50,039 --> 00:16:52,141
-&lt;i&gt;President,&lt;/i&gt; &lt;i&gt;this is an amazing building.&lt;/i&gt;
+President, this is an amazing building.
 
 265
 00:16:52,608 --> 00:16:55,845
-&lt;i&gt;It's all thanks to "Sgt. Ryo-san".&lt;/i&gt;
+It's all thanks to "Sgt. Ryo-san".
 
 266
 00:16:57,947 --> 00:17:02,952
@@ -1304,11 +1304,11 @@ launching worldwide today.
 
 327
 00:20:21,417 --> 00:20:24,020
-&lt;i&gt;A life-size Ryo-san figure&lt;/i&gt; &lt;i&gt;hits the market.&lt;/i&gt;
+A life-size Ryo-san figure hits the market.
 
 328
 00:20:24,220 --> 00:20:24,987
-&lt;i&gt;But...&lt;/i&gt;
+But...
 
 329
 00:20:26,589 --> 00:20:28,424
@@ -1324,7 +1324,7 @@ launching worldwide today.
 
 332
 00:20:36,666 --> 00:20:39,335
-&lt;i&gt;The figure didn't sell at all.&lt;/i&gt;
+The figure didn't sell at all.
 
 333
 00:20:39,535 --> 00:20:44,340
@@ -1492,7 +1492,7 @@ The dolls are floating in one after another!
 
 374
 00:23:06,349 --> 00:23:08,718
-&lt;i&gt;The figures have stopped selling.&lt;/i&gt;
+The figures have stopped selling.
 
 375
 00:23:13,055 --> 00:23:16,859

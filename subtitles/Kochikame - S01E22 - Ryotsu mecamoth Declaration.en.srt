@@ -1584,7 +1584,7 @@ Shh! He'll hear you.
 
 397
 00:21:35,743 --> 00:21:37,679
-&lt;i&gt;I'll show you.&lt;/i&gt;
+I'll show you.
 
 398
 00:21:43,852 --> 00:21:46,621

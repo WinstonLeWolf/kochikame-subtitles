@@ -64,7 +64,7 @@ A family man?
 
 17
 00:02:18,729 --> 00:02:20,130
-&lt;i&gt;Bye-bye, sweetie.&lt;/i&gt;
+Bye-bye, sweetie.
 
 18
 00:02:22,599 --> 00:02:26,370
@@ -256,7 +256,7 @@ Think of it as my way of turning Ryotsu into a family man.
 
 65
 00:04:55,886 --> 00:04:58,955
-&lt;i&gt;Hmm? No way I'm falling for the chief's stupid schemes.&lt;/i&gt;
+Hmm? No way I'm falling for the chief's stupid schemes.
 
 66
 00:05:01,625 --> 00:05:03,894
@@ -428,31 +428,31 @@ I've got a plan for Ryotsu.
 
 108
 00:07:10,220 --> 00:07:11,488
-&lt;i&gt;Could he mean Maria?&lt;/i&gt;
+Could he mean Maria?
 
 109
 00:07:11,721 --> 00:07:13,723
-&lt;i&gt;She does seem a little too convenient.&lt;/i&gt;
+She does seem a little too convenient.
 
 110
 00:07:13,924 --> 00:07:16,126
-&lt;i&gt;She got into trouble right in front of me,&lt;/i&gt;
+She got into trouble right in front of me,
 
 111
 00:07:16,426 --> 00:07:18,094
-&lt;i&gt;and she even came to thank me.&lt;/i&gt;
+and she even came to thank me.
 
 112
 00:07:18,428 --> 00:07:20,730
-&lt;i&gt;And they're acting suspicious too.&lt;/i&gt;
+And they're acting suspicious too.
 
 113
 00:07:27,637 --> 00:07:28,738
-&lt;i&gt;So that's his game.&lt;/i&gt;
+So that's his game.
 
 114
 00:07:28,939 --> 00:07:30,574
-&lt;i&gt;I get it now!&lt;/i&gt;
+I get it now!
 
 115
 00:07:30,774 --> 00:07:33,243
@@ -556,19 +556,19 @@ Whoa, this looks delicious!
 
 140
 00:09:07,604 --> 00:09:11,675
-&lt;i&gt;No. I can't keep&lt;/i&gt; &lt;i&gt;going along with their ruse.&lt;/i&gt;
+No. I can't keep going along with their ruse.
 
 141
 00:09:13,777 --> 00:09:17,380
-&lt;i&gt;Right in the palm of my hand, Kankichi Ryotsu!&lt;/i&gt;
+Right in the palm of my hand, Kankichi Ryotsu!
 
 142
 00:09:17,614 --> 00:09:20,016
-&lt;i&gt;No way, Chief.&lt;/i&gt; &lt;i&gt;You're not getting your way.&lt;/i&gt;
+No way, Chief. You're not getting your way.
 
 143
 00:09:20,216 --> 00:09:21,885
-&lt;i&gt;I have to steel my heart.&lt;/i&gt;
+I have to steel my heart.
 
 144
 00:09:24,054 --> 00:09:25,889
@@ -788,15 +788,15 @@ Ryuji is my ring name.
 
 198
 00:14:00,897 --> 00:14:04,734
-&lt;i&gt;Ryuji Asato. An undefeated champion.&lt;/i&gt; &lt;i&gt;50 wins in 50 fights.&lt;/i&gt;
+Ryuji Asato. An undefeated champion. 50 wins in 50 fights.
 
 199
 00:14:05,635 --> 00:14:07,704
-&lt;i&gt;His showstopper&lt;/i&gt; &lt;i&gt;is the flying knee kick.&lt;/i&gt;
+His showstopper is the flying knee kick.
 
 200
 00:14:08,438 --> 00:14:12,709
-&lt;i&gt;But Ryuji disappeared last winter&lt;/i&gt; &lt;i&gt;and has been missing ever since.&lt;/i&gt;
+But Ryuji disappeared last winter and has been missing ever since.
 
 201
 00:14:13,309 --> 00:14:15,879
@@ -816,43 +816,43 @@ I had someone I loved with all my heart.
 
 205
 00:14:26,756 --> 00:14:30,226
-&lt;i&gt;His name was Iwao Gantetsu,&lt;/i&gt; &lt;i&gt;and he was my kickboxing coach.&lt;/i&gt;
+His name was Iwao Gantetsu, and he was my kickboxing coach.
 
 206
 00:14:30,460 --> 00:14:34,697
-&lt;i&gt;I loved him so much,&lt;/i&gt; &lt;i&gt;and I was determined to marry him.&lt;/i&gt;
+I loved him so much, and I was determined to marry him.
 
 207
 00:14:34,898 --> 00:14:36,532
-&lt;i&gt;And so you quit kickboxing?&lt;/i&gt;
+And so you quit kickboxing?
 
 208
 00:14:36,866 --> 00:14:37,667
-&lt;i&gt;Yes.&lt;/i&gt;
+Yes.
 
 209
 00:14:37,867 --> 00:14:42,205
-&lt;i&gt;I trained hard to get to where I am today.&lt;/i&gt;
+I trained hard to get to where I am today.
 
 210
 00:14:42,405 --> 00:14:44,540
-&lt;i&gt;But fate was cruel.&lt;/i&gt;
+But fate was cruel.
 
 211
 00:14:44,741 --> 00:14:47,043
-&lt;i&gt;My coach moved to another country.&lt;/i&gt;
+My coach moved to another country.
 
 212
 00:14:47,243 --> 00:14:50,046
-&lt;i&gt;Does this coach&lt;/i&gt; &lt;i&gt;happen to be a lot like Ryo-chan?&lt;/i&gt;
+Does this coach happen to be a lot like Ryo-chan?
 
 213
 00:14:50,246 --> 00:14:52,015
-&lt;i&gt;Yes, they are exactly alike.&lt;/i&gt;
+Yes, they are exactly alike.
 
 214
 00:14:52,215 --> 00:14:54,050
-&lt;i&gt;He's my ideal type.&lt;/i&gt;
+He's my ideal type.
 
 215
 00:14:54,250 --> 00:14:56,352
@@ -936,27 +936,27 @@ But he'll never believe us.
 
 235
 00:15:49,439 --> 00:15:51,808
-&lt;i&gt;Ryotsu, Maria is actually a man.&lt;/i&gt;
+Ryotsu, Maria is actually a man.
 
 236
 00:15:52,008 --> 00:15:54,243
-&lt;i&gt;What?! You old scoundrel.&lt;/i&gt;
+What?! You old scoundrel.
 
 237
 00:15:54,444 --> 00:15:57,180
-&lt;i&gt;You need to be more&lt;/i&gt; &lt;i&gt;creative with your lies.&lt;/i&gt;
+You need to be more creative with your lies.
 
 238
 00:15:57,413 --> 00:16:01,918
-&lt;i&gt;Hey, I'll bet you're just jealous&lt;/i&gt; &lt;i&gt;that I get to marry such a babe!&lt;/i&gt;
+Hey, I'll bet you're just jealous that I get to marry such a babe!
 
 239
 00:16:02,118 --> 00:16:04,787
-&lt;i&gt;Just you wait for our honeymoon period.&lt;/i&gt;
+Just you wait for our honeymoon period.
 
 240
 00:16:04,988 --> 00:16:07,991
-&lt;i&gt;That'll make you even more jealous!&lt;/i&gt;
+That'll make you even more jealous!
 
 241
 00:16:11,961 --> 00:16:14,130
@@ -1064,7 +1064,7 @@ That's wonderful!
 
 267
 00:17:21,364 --> 00:17:24,801
-&lt;i&gt;We'll just have to drop hints&lt;/i&gt; &lt;i&gt;to make him realize it himself.&lt;/i&gt;
+We'll just have to drop hints to make him realize it himself.
 
 268
 00:17:26,002 --> 00:17:27,336
@@ -1116,7 +1116,7 @@ Maria and I will be forever on cloud nine!
 
 280
 00:18:06,209 --> 00:18:10,780
-&lt;i&gt;I'm telling you, Ryotsu, it's gonna be&lt;/i&gt; &lt;i&gt;hell once you find out who she really is!&lt;/i&gt;
+I'm telling you, Ryotsu, it's gonna be hell once you find out who she really is!
 
 281
 00:18:12,415 --> 00:18:15,918
@@ -1156,19 +1156,19 @@ Oh, I get it, Chief.
 
 290
 00:18:38,141 --> 00:18:39,442
-&lt;i&gt;Oh! Has he caught on?&lt;/i&gt;
+Oh! Has he caught on?
 
 291
 00:18:39,642 --> 00:18:43,412
-&lt;i&gt;You want me to take Maria to a mixed bath&lt;/i&gt;
+You want me to take Maria to a mixed bath
 
 292
 00:18:43,613 --> 00:18:45,548
-&lt;i&gt;so you can join as well, don't you?&lt;/i&gt;
+so you can join as well, don't you?
 
 293
 00:18:45,748 --> 00:18:48,451
-&lt;i&gt;Hey! Make room for me!&lt;/i&gt;
+Hey! Make room for me!
 
 294
 00:18:48,651 --> 00:18:51,954
@@ -1176,7 +1176,7 @@ Wow, you're quite the pervert. Aren't you, Chief?
 
 295
 00:18:52,989 --> 00:18:57,460
-&lt;i&gt;How is he so annoyingly perceptive&lt;/i&gt; &lt;i&gt;except for the one time he needs to be?&lt;/i&gt;
+How is he so annoyingly perceptive except for the one time he needs to be?
 
 296
 00:18:57,660 --> 00:18:59,195
@@ -1276,15 +1276,15 @@ Hmm? What's going on?
 
 320
 00:20:54,143 --> 00:20:54,944
-&lt;i&gt;I know that!&lt;/i&gt;
+I know that!
 
 321
 00:20:55,711 --> 00:21:00,283
-&lt;i&gt;That's Ryuji Asato's showstopper,&lt;/i&gt; &lt;i&gt;the flying knee kick!&lt;/i&gt;
+That's Ryuji Asato's showstopper, the flying knee kick!
 
 322
 00:21:03,252 --> 00:21:05,287
-&lt;i&gt;How does Maria know that move?&lt;/i&gt;
+How does Maria know that move?
 
 323
 00:21:07,923 --> 00:21:08,724
@@ -1300,15 +1300,15 @@ It's just a few scratches.
 
 326
 00:21:15,564 --> 00:21:16,165
-&lt;i&gt;Huh?!&lt;/i&gt;
+Huh?!
 
 327
 00:21:16,332 --> 00:21:20,136
-&lt;i&gt;What's this? Something squishy&lt;/i&gt; &lt;i&gt;is pressing against my head.&lt;/i&gt;
+What's this? Something squishy is pressing against my head.
 
 328
 00:21:20,569 --> 00:21:21,637
-&lt;i&gt;Don't tell me!&lt;/i&gt;
+Don't tell me!
 
 329
 00:21:23,939 --> 00:21:25,975

@@ -1108,7 +1108,7 @@ People are waiting, so please decide first and line up again.
 
 278
 00:18:31,500 --> 00:18:34,503
-&lt;i&gt;The sixth race will start shortly.&lt;/i&gt;
+The sixth race will start shortly.
 
 279
 00:18:35,804 --> 00:18:38,107
@@ -1196,11 +1196,11 @@ You're gonna make me money!
 
 300
 00:20:01,957 --> 00:20:03,792
-&lt;i&gt;Here you are, Ryo-san.&lt;/i&gt;
+Here you are, Ryo-san.
 
 301
 00:20:04,026 --> 00:20:05,394
-&lt;i&gt;This is your new bike.&lt;/i&gt;
+This is your new bike.
 
 302
 00:20:16,605 --> 00:20:18,240

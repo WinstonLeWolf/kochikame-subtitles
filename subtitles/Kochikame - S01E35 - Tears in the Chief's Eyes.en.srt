@@ -12,11 +12,11 @@ Hello, this is Ohara.
 
 4
 00:01:46,616 --> 00:01:48,652
-&lt;i&gt;Hello, my name is Kakuta.&lt;/i&gt;
+Hello, my name is Kakuta.
 
 5
 00:01:48,985 --> 00:01:51,088
-&lt;i&gt;Oh, is that you, Father? Is Hiromi-san—&lt;/i&gt;
+Oh, is that you, Father? Is Hiromi-san—
 
 6
 00:01:51,288 --> 00:01:52,155
@@ -28,7 +28,7 @@ I never said you could call me Father!
 
 8
 00:01:55,125 --> 00:01:55,926
-&lt;i&gt;But Fa&lt;/i&gt;—
+But Fa—
 
 9
 00:01:57,127 --> 00:01:58,128
@@ -1204,7 +1204,7 @@ Oh?
 
 302
 00:17:03,899 --> 00:17:04,734
-&lt;i&gt;Daddy!&lt;/i&gt;
+Daddy!
 
 303
 00:17:04,967 --> 00:17:05,701
@@ -1312,15 +1312,15 @@ Hiromi.
 
 329
 00:18:44,734 --> 00:18:45,634
-&lt;i&gt;Hiromi!&lt;/i&gt;
+Hiromi!
 
 330
 00:18:46,202 --> 00:18:49,538
-&lt;i&gt;N-No! I won't allow you&lt;/i&gt; &lt;i&gt;to get married yet!&lt;/i&gt;
+N-No! I won't allow you to get married yet!
 
 331
 00:18:49,772 --> 00:18:51,073
-&lt;i&gt;Hiromi!&lt;/i&gt;
+Hiromi!
 
 332
 00:18:53,075 --> 00:18:54,510
@@ -1400,7 +1400,7 @@ Hiromi!
 
 351
 00:20:25,868 --> 00:20:29,605
-&lt;i&gt;I should have thought about you more.&lt;/i&gt;
+I should have thought about you more.
 
 352
 00:20:31,574 --> 00:20:33,309
@@ -1408,15 +1408,15 @@ I, I...
 
 353
 00:20:34,210 --> 00:20:36,612
-&lt;i&gt;Uh-oh, looks like I've caught a cold. I'm going to bed.&lt;/i&gt;
+Uh-oh, looks like I've caught a cold. I'm going to bed.
 
 354
 00:20:36,845 --> 00:20:37,713
-&lt;i&gt;Dad!&lt;/i&gt;
+Dad!
 
 355
 00:20:38,013 --> 00:20:40,716
-&lt;i&gt;I can't. I still have work to do.&lt;/i&gt;
+I can't. I still have work to do.
 
 356
 00:20:41,250 --> 00:20:45,721
@@ -1424,47 +1424,47 @@ I was being stubborn and didn't even consider Hiromi's feelings...
 
 357
 00:20:46,322 --> 00:20:47,323
-&lt;i&gt;Daddy!&lt;/i&gt;
+Daddy!
 
 358
 00:20:48,958 --> 00:20:51,026
-&lt;i&gt;Hiromi, are you here to pick me up?&lt;/i&gt;
+Hiromi, are you here to pick me up?
 
 359
 00:20:51,227 --> 00:20:51,861
-&lt;i&gt;Yeah!&lt;/i&gt;
+Yeah!
 
 360
 00:20:52,294 --> 00:20:54,863
-&lt;i&gt;What do you want to be&lt;/i&gt; &lt;i&gt;when you grow up, Hiromi?&lt;/i&gt;
+What do you want to be when you grow up, Hiromi?
 
 361
 00:20:55,064 --> 00:20:56,599
-&lt;i&gt;Daddy's bride!&lt;/i&gt;
+Daddy's bride!
 
 362
 00:20:56,799 --> 00:20:59,735
-&lt;i&gt;I see! My bride, huh?&lt;/i&gt;
+I see! My bride, huh?
 
 363
 00:21:01,337 --> 00:21:03,105
-&lt;i&gt;You want to go to the police academy?&lt;/i&gt;
+You want to go to the police academy?
 
 364
 00:21:03,405 --> 00:21:07,610
-&lt;i&gt;No way! I can't let you take on&lt;/i&gt; &lt;i&gt;such a tough job!&lt;/i&gt;
+No way! I can't let you take on such a tough job!
 
 365
 00:21:07,810 --> 00:21:09,678
-&lt;i&gt;You need to go to college properly!&lt;/i&gt;
+You need to go to college properly!
 
 366
 00:21:09,912 --> 00:21:10,880
-&lt;i&gt;Hmm...&lt;/i&gt;
+Hmm...
 
 367
 00:21:12,214 --> 00:21:14,083
-&lt;i&gt;You got a boyfriend?&lt;/i&gt;
+You got a boyfriend?
 
 368
 00:21:22,691 --> 00:21:24,760
@@ -1480,7 +1480,7 @@ Could you wait just five more minutes?
 
 371
 00:21:37,273 --> 00:21:38,507
-&lt;i&gt;Daddy!&lt;/i&gt;
+Daddy!
 
 372
 00:21:39,074 --> 00:21:48,651

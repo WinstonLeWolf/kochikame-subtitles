@@ -492,7 +492,7 @@ I'll help serve.
 
 124
 00:09:02,411 --> 00:09:03,179
-&lt;i&gt;Chief!&lt;/i&gt;
+Chief!
 
 125
 00:09:03,412 --> 00:09:04,113
@@ -500,7 +500,7 @@ Hmm?
 
 126
 00:09:04,313 --> 00:09:05,848
-&lt;i&gt;I know you're in there!&lt;/i&gt;
+I know you're in there!
 
 127
 00:09:06,449 --> 00:09:07,450
@@ -508,7 +508,7 @@ He just won't quit.
 
 128
 00:09:07,650 --> 00:09:10,453
-&lt;i&gt;Let us in right now!&lt;/i&gt;
+Let us in right now!
 
 129
 00:09:10,653 --> 00:09:13,956
@@ -524,19 +524,19 @@ You may not know this, but that man ruins my house every single New Year's!
 
 132
 00:09:20,696 --> 00:09:24,033
-&lt;i&gt;He ruined my bonsai trees&lt;/i&gt; &lt;i&gt;that time we played shuttlecock.&lt;/i&gt;
+He ruined my bonsai trees that time we played shuttlecock.
 
 133
 00:09:24,266 --> 00:09:26,502
-&lt;i&gt;He stained the tatami during calligraphy.&lt;/i&gt;
+He stained the tatami during calligraphy.
 
 134
 00:09:26,702 --> 00:09:29,471
-&lt;i&gt;And when I told him off,&lt;/i&gt; &lt;i&gt;he smeared ink on my face!&lt;/i&gt;
+And when I told him off, he smeared ink on my face!
 
 135
 00:09:29,672 --> 00:09:33,542
-&lt;i&gt;The whole room was covered in black&lt;/i&gt; &lt;i&gt;by the time we were finished!&lt;/i&gt;
+The whole room was covered in black by the time we were finished!
 
 136
 00:09:34,076 --> 00:09:36,712
@@ -548,11 +548,11 @@ It's understandable why he'd want to exclude Ryotsu...
 
 138
 00:09:41,650 --> 00:09:44,086
-&lt;i&gt;You're completely surrounded!&lt;/i&gt;
+You're completely surrounded!
 
 139
 00:09:44,320 --> 00:09:46,055
-&lt;i&gt;Give up and come out!&lt;/i&gt;
+Give up and come out!
 
 140
 00:09:46,288 --> 00:09:47,056
@@ -780,7 +780,7 @@ Oh well, it's only the chief's house.
 
 196
 00:13:05,921 --> 00:13:10,392
-&lt;i&gt;Ryotsu, I'll get you for this!&lt;/i&gt;
+Ryotsu, I'll get you for this!
 
 197
 00:13:22,838 --> 00:13:25,941
@@ -1404,11 +1404,11 @@ There are only two cards left.
 
 352
 00:21:35,163 --> 00:21:37,532
-&lt;i&gt;I can't lose to Ryotsu!&lt;/i&gt;
+I can't lose to Ryotsu!
 
 353
 00:21:40,168 --> 00:21:44,172
-&lt;i&gt;I know one card is in the bathroom,&lt;/i&gt; &lt;i&gt;and the other is in the study upstairs.&lt;/i&gt;
+I know one card is in the bathroom, and the other is in the study upstairs.
 
 354
 00:21:44,372 --> 00:21:47,576

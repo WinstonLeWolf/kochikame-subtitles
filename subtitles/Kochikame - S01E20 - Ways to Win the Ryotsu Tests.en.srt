@@ -164,7 +164,7 @@ Sure!
 
 42
 00:03:52,243 --> 00:03:55,413
-&lt;i&gt;I'll do it! I'll definitely do it!&lt;/i&gt;
+I'll do it! I'll definitely do it!
 
 43
 00:04:00,151 --> 00:04:02,520
@@ -272,15 +272,15 @@ All right, listen up.
 
 69
 00:05:06,084 --> 00:05:11,122
-&lt;i&gt;Most people build up their pace,&lt;/i&gt; &lt;i&gt;then burn out.&lt;/i&gt;
+Most people build up their pace, then burn out.
 
 70
 00:05:15,860 --> 00:05:19,397
-&lt;i&gt;But in my case,&lt;/i&gt; &lt;i&gt;I start at full throttle from day one,&lt;/i&gt;
+But in my case, I start at full throttle from day one,
 
 71
 00:05:19,597 --> 00:05:23,568
-&lt;i&gt;then charge straight into the exam.&lt;/i&gt;
+then charge straight into the exam.
 
 72
 00:05:25,637 --> 00:05:27,705
@@ -296,19 +296,19 @@ If you try, you can do it!
 
 75
 00:05:31,076 --> 00:05:35,146
-&lt;i&gt;Average guys think they're focused,&lt;/i&gt; &lt;i&gt;but their minds still wander.&lt;/i&gt;
+Average guys think they're focused, but their minds still wander.
 
 76
 00:05:35,480 --> 00:05:39,617
-&lt;i&gt;In my case, every nerve, from my brain&lt;/i&gt; &lt;i&gt;to my fingertips, is locked onto the test.&lt;/i&gt;
+In my case, every nerve, from my brain to my fingertips, is locked onto the test.
 
 77
 00:05:40,051 --> 00:05:42,287
-&lt;i&gt;Mind, body, and spirit, 100% focused!&lt;/i&gt;
+Mind, body, and spirit, 100% focused!
 
 78
 00:05:42,487 --> 00:05:46,758
-&lt;i&gt;But if I lose focus even for a second,&lt;/i&gt; &lt;i&gt;it all crashes down to zero.&lt;/i&gt;
+But if I lose focus even for a second, it all crashes down to zero.
 
 79
 00:05:46,958 --> 00:05:47,792
@@ -1252,7 +1252,7 @@ He must be a rakugo storyteller.
 
 314
 00:19:01,151 --> 00:19:04,121
-He's the guy who wrote the famous &lt;i&gt;Kaitai Shinsho&lt;/i&gt;!
+He's the guy who wrote the famous Kaitai Shinsho!
 
 315
 00:19:06,857 --> 00:19:10,761
@@ -1260,7 +1260,7 @@ Oh, judging from his appearance, I thought he was a rakugo storyteller.
 
 316
 00:19:11,161 --> 00:19:13,797
-So he's the one who wrote&lt;i&gt; Yajikita Dochuki&lt;/i&gt;.
+So he's the one who wrote Yajikita Dochuki.
 
 317
 00:19:13,998 --> 00:19:16,133

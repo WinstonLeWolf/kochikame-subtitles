@@ -392,11 +392,11 @@ Now, we'll begin the Yuki Aikawa Cup, Kameari vs. Kameari South.
 
 99
 00:07:25,247 --> 00:07:29,018
-&lt;i&gt;Top of the 1st inning.&lt;/i&gt; &lt;i&gt;Kameari South coming up to bat.&lt;/i&gt;
+Top of the 1st inning. Kameari South coming up to bat.
 
 100
 00:07:29,785 --> 00:07:33,889
-&lt;i&gt;Leading off, Sarashina Soba&lt;/i&gt; &lt;i&gt;delivery man, Carl Lewis.&lt;/i&gt;
+Leading off, Sarashina Soba delivery man, Carl Lewis.
 
 101
 00:07:40,863 --> 00:07:41,530
@@ -424,15 +424,15 @@ Hey, c'mon, c'mon!
 
 107
 00:08:02,551 --> 00:08:06,255
-&lt;i&gt;Fine, even if he's the best in the world&lt;/i&gt; &lt;i&gt;at the 100 meters and long jump,&lt;/i&gt;
+Fine, even if he's the best in the world at the 100 meters and long jump,
 
 108
 00:08:06,455 --> 00:08:08,257
-&lt;i&gt;he's still an amateur at baseball...&lt;/i&gt;
+he's still an amateur at baseball...
 
 109
 00:08:10,092 --> 00:08:11,594
-&lt;i&gt;Probably!&lt;/i&gt;
+Probably!
 
 110
 00:08:16,065 --> 00:08:17,299
@@ -452,7 +452,7 @@ Damn it!
 
 114
 00:08:27,443 --> 00:08:30,913
-&lt;i&gt;Batting second, apprentice hairdresser,&lt;/i&gt; &lt;i&gt;Kimiko Date.&lt;/i&gt;
+Batting second, apprentice hairdresser, Kimiko Date.
 
 115
 00:08:31,814 --> 00:08:34,450
@@ -468,11 +468,11 @@ How should I know!
 
 118
 00:08:40,389 --> 00:08:43,392
-&lt;i&gt;Hmph! Like a tennis pro&lt;/i&gt; &lt;i&gt;could ever hit my pitch.&lt;/i&gt;
+Hmph! Like a tennis pro could ever hit my pitch.
 
 119
 00:08:45,094 --> 00:08:46,495
-&lt;i&gt;Take this!&lt;/i&gt;
+Take this!
 
 120
 00:08:52,835 --> 00:08:53,669
@@ -488,7 +488,7 @@ This time for sure!
 
 123
 00:09:02,411 --> 00:09:05,614
-&lt;i&gt;Batting third, Sekiguchi Rice Shop&lt;/i&gt; &lt;i&gt;part-timer, Takanohana.&lt;/i&gt;
+Batting third, Sekiguchi Rice Shop part-timer, Takanohana.
 
 124
 00:09:05,815 --> 00:09:07,183
@@ -540,19 +540,19 @@ Grr... twisting logic like that...
 
 136
 00:09:41,050 --> 00:09:44,086
-&lt;i&gt;Hmph! If that's how&lt;/i&gt; &lt;i&gt;you want to play it...&lt;/i&gt;
+Hmph! If that's how you want to play it...
 
 137
 00:09:50,926 --> 00:09:53,629
-&lt;i&gt;If I hit the ball into their bodies&lt;/i&gt; &lt;i&gt;and send them all off,&lt;/i&gt;
+If I hit the ball into their bodies and send them all off,
 
 138
 00:09:53,829 --> 00:09:55,064
-&lt;i&gt;we'll win&lt;/i&gt;
+we'll win
 
 139
 00:09:56,065 --> 00:09:58,067
-&lt;i&gt;by default!&lt;/i&gt;
+by default!
 
 140
 00:09:58,934 --> 00:09:59,835
@@ -572,23 +572,23 @@ They practice bumping into each other every day.
 
 144
 00:10:09,411 --> 00:10:13,482
-&lt;i&gt;Batting fourth, Mizuhara Toy Shop&lt;/i&gt; &lt;i&gt;part-timer, Kiyohara.&lt;/i&gt;
+Batting fourth, Mizuhara Toy Shop part-timer, Kiyohara.
 
 145
 00:10:14,483 --> 00:10:19,021
-&lt;i&gt;Sorry, Kiyohara,&lt;/i&gt; &lt;i&gt;but your season's...&lt;/i&gt;
+Sorry, Kiyohara, but your season's...
 
 146
 00:10:19,221 --> 00:10:21,190
-&lt;i&gt;over!&lt;/i&gt;
+over!
 
 147
 00:10:23,192 --> 00:10:26,095
-&lt;i&gt;A pitch like that won't work on a pro!&lt;/i&gt;
+A pitch like that won't work on a pro!
 
 148
 00:10:35,137 --> 00:10:38,140
-&lt;i&gt;Grr... Fine! I'm going all out!&lt;/i&gt;
+Grr... Fine! I'm going all out!
 
 149
 00:10:52,388 --> 00:10:56,225
@@ -680,7 +680,7 @@ Come on!
 
 171
 00:12:04,526 --> 00:12:05,861
-&lt;i&gt;I can hit this one!&lt;/i&gt;
+I can hit this one!
 
 172
 00:12:07,830 --> 00:12:09,298
@@ -860,7 +860,7 @@ he might have a plan.
 
 216
 00:15:25,327 --> 00:15:28,897
-&lt;i&gt;If the conditions get worse,&lt;/i&gt; &lt;i&gt;that just works in our favor.&lt;/i&gt;
+If the conditions get worse, that just works in our favor.
 
 217
 00:15:40,209 --> 00:15:42,077
@@ -876,7 +876,7 @@ Okay, I get it.
 
 220
 00:15:51,353 --> 00:15:53,755
-&lt;i&gt;But I can't see clearly...&lt;/i&gt;
+But I can't see clearly...
 
 221
 00:15:58,694 --> 00:15:59,862
@@ -972,11 +972,11 @@ Tag out!
 
 244
 00:17:39,361 --> 00:17:44,833
-&lt;i&gt;Heavy rain, strong winds, lightning and flood warnings were just issued for Tokyo.&lt;/i&gt;
+Heavy rain, strong winds, lightning and flood warnings were just issued for Tokyo.
 
 245
 00:17:45,033 --> 00:17:49,171
-&lt;i&gt;Especially residents near rivers, please stay alert.&lt;/i&gt;
+Especially residents near rivers, please stay alert.
 
 246
 00:17:49,371 --> 00:17:51,707
@@ -1000,11 +1000,11 @@ Yes, sir!
 
 251
 00:18:02,784 --> 00:18:07,356
-&lt;i&gt;Heavy rain, strong winds, lightning and&lt;/i&gt; &lt;i&gt;flood warnings have just been issued.&lt;/i&gt;
+Heavy rain, strong winds, lightning and flood warnings have just been issued.
 
 252
 00:18:07,856 --> 00:18:12,527
-&lt;i&gt;All residents near the river, evacuate to your designated shelter!&lt;/i&gt;
+All residents near the river, evacuate to your designated shelter!
 
 253
 00:18:17,499 --> 00:18:20,068

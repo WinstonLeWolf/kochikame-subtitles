@@ -756,7 +756,7 @@ Don't be ridiculous.
 
 190
 00:10:38,440 --> 00:10:39,875
-&lt;i&gt;Dang it.&lt;/i&gt;
+Dang it.
 
 191
 00:10:41,877 --> 00:10:46,882
@@ -868,7 +868,7 @@ No weird guys are hanging around you...
 
 218
 00:12:04,159 --> 00:12:06,862
-&lt;i&gt;Ugh, this is tough.&lt;/i&gt;
+Ugh, this is tough.
 
 219
 00:12:15,037 --> 00:12:16,538
@@ -900,7 +900,7 @@ Hello.
 
 226
 00:12:36,925 --> 00:12:39,995
-&lt;i&gt;This is your daddy, Pyunpyunmaru!&lt;/i&gt;
+This is your daddy, Pyunpyunmaru!
 
 227
 00:12:40,729 --> 00:12:42,731
@@ -940,7 +940,7 @@ And I don't want to get married yet.
 
 236
 00:13:06,755 --> 00:13:08,390
-&lt;i&gt;Is there someone you like?&lt;/i&gt;
+Is there someone you like?
 
 237
 00:13:08,590 --> 00:13:09,758
@@ -968,15 +968,15 @@ Oh, it was the TV.
 
 243
 00:13:21,970 --> 00:13:23,739
-&lt;i&gt;Stop, Reiko. Don't.&lt;/i&gt;
+Stop, Reiko. Don't.
 
 244
 00:13:24,106 --> 00:13:25,541
-&lt;i&gt;I heard him say "Reiko"...&lt;/i&gt;
+I heard him say "Reiko"...
 
 245
 00:13:25,741 --> 00:13:27,776
--Oh, it's the TV. &lt;i&gt;-But...&lt;/i&gt;
+-Oh, it's the TV. -But...
 
 246
 00:13:27,976 --> 00:13:29,611
@@ -1052,11 +1052,11 @@ I love him so much that he's always with me wherever I go.
 
 264
 00:14:32,107 --> 00:14:34,743
-&lt;i&gt;Ryo-chan has been sleeping since yesterday.&lt;/i&gt;
+Ryo-chan has been sleeping since yesterday.
 
 265
 00:14:34,943 --> 00:14:38,847
-&lt;i&gt;If he just stays asleep, everything will be fine.&lt;/i&gt;
+If he just stays asleep, everything will be fine.
 
 266
 00:14:40,215 --> 00:14:42,451
@@ -1204,7 +1204,7 @@ was Japan's ancient queen Himiko's mother's sister's...
 
 302
 00:16:36,865 --> 00:16:38,333
-&lt;i&gt;For crying out loud, Ryo-chan.&lt;/i&gt;
+For crying out loud, Ryo-chan.
 
 303
 00:16:38,567 --> 00:16:40,569
@@ -1360,7 +1360,7 @@ Y-Yes.
 
 341
 00:19:00,475 --> 00:19:02,711
-&lt;i&gt;Now, casually, with my hand...&lt;/i&gt;
+Now, casually, with my hand...
 
 342
 00:19:03,178 --> 00:19:04,613
@@ -1380,11 +1380,11 @@ Oh, nothing.
 
 346
 00:19:14,656 --> 00:19:16,224
-&lt;i&gt;That's weird.&lt;/i&gt;
+That's weird.
 
 347
 00:19:16,625 --> 00:19:18,593
-&lt;i&gt;Calm down. Calm down.&lt;/i&gt;
+Calm down. Calm down.
 
 348
 00:19:19,428 --> 00:19:20,662
@@ -1404,7 +1404,7 @@ Ouch! Hot! Hot!
 
 352
 00:19:35,043 --> 00:19:37,579
-I'm like the raccoon dog from the &lt;i&gt;Kachi-kachi Yama&lt;/i&gt; tale!
+I'm like the raccoon dog from the Kachi-kachi Yama tale!
 
 353
 00:19:37,913 --> 00:19:39,247

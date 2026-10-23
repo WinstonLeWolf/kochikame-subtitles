@@ -308,7 +308,7 @@ Even after what happened last time.
 
 78
 00:05:49,186 --> 00:05:53,457
-&lt;i&gt;Absolutely not! Our company exists&lt;/i&gt; &lt;i&gt;thanks to Akimoto Trading.&lt;/i&gt;
+Absolutely not! Our company exists thanks to Akimoto Trading.
 
 79
 00:05:54,425 --> 00:05:57,862
@@ -424,7 +424,7 @@ Shut up!
 
 107
 00:07:24,448 --> 00:07:26,851
-&lt;i&gt;Please enter your destination.&lt;/i&gt;
+Please enter your destination.
 
 108
 00:07:28,853 --> 00:07:31,856
@@ -456,7 +456,7 @@ Butler mode, set on!
 
 115
 00:07:52,276 --> 00:07:55,212
-&lt;i&gt;Master, where would you like to go?&lt;/i&gt;
+Master, where would you like to go?
 
 116
 00:07:55,646 --> 00:07:57,948
@@ -464,7 +464,7 @@ Hmm, head to Odaiba.
 
 117
 00:07:58,149 --> 00:08:01,986
-&lt;i&gt;Odaiba, right?&lt;/i&gt; &lt;i&gt;Understood, master.&lt;/i&gt;
+Odaiba, right? Understood, master.
 
 118
 00:08:03,354 --> 00:08:09,426
@@ -488,11 +488,11 @@ Ugh, shut up! Hey, do something!
 
 123
 00:08:27,311 --> 00:08:30,014
-&lt;i&gt;Yes, master.&lt;/i&gt; &lt;i&gt;We'll avoid the traffic jam.&lt;/i&gt;
+Yes, master. We'll avoid the traffic jam.
 
 124
 00:08:30,214 --> 00:08:32,583
-&lt;i&gt;Turn left at the next intersection.&lt;/i&gt;
+Turn left at the next intersection.
 
 125
 00:08:33,417 --> 00:08:36,187
@@ -552,7 +552,7 @@ Don't be reckless!
 
 139
 00:09:15,292 --> 00:09:17,728
-&lt;i&gt;Turn right at the next corner, master.&lt;/i&gt;
+Turn right at the next corner, master.
 
 140
 00:09:18,896 --> 00:09:20,464
@@ -580,7 +580,7 @@ Don't blame downtown for your bad driving!
 
 146
 00:09:35,379 --> 00:09:37,615
-&lt;i&gt;Master, continue straight ahead.&lt;/i&gt;
+Master, continue straight ahead.
 
 147
 00:09:41,685 --> 00:09:43,821
@@ -632,7 +632,7 @@ Is the GPB broken?
 
 159
 00:10:11,115 --> 00:10:14,885
-&lt;i&gt;I've run a self-diagnostic test.&lt;/i&gt; &lt;i&gt;No issues were detected.&lt;/i&gt;
+I've run a self-diagnostic test. No issues were detected.
 
 160
 00:10:15,552 --> 00:10:17,821
@@ -664,7 +664,7 @@ Guess I'll change the route to take the Metropolitan Expressway to Odaiba.
 
 167
 00:10:38,342 --> 00:10:40,044
-&lt;i&gt;The Metropolitan Expressway, sir?&lt;/i&gt;
+The Metropolitan Expressway, sir?
 
 168
 00:10:40,277 --> 00:10:41,478
@@ -672,7 +672,7 @@ Y-Yeah.
 
 169
 00:10:41,679 --> 00:10:42,813
-&lt;i&gt;Are you sure?&lt;/i&gt;
+Are you sure?
 
 170
 00:10:43,013 --> 00:10:44,348
@@ -680,15 +680,15 @@ W-What do you mean?
 
 171
 00:10:44,548 --> 00:10:47,584
-&lt;i&gt;Your user level is set to&lt;/i&gt; &lt;i&gt;beginner mode.&lt;/i&gt;
+Your user level is set to beginner mode.
 
 172
 00:10:47,818 --> 00:10:50,654
-&lt;i&gt;Use of highways is disabled.&lt;/i&gt;
+Use of highways is disabled.
 
 173
 00:10:50,854 --> 00:10:52,222
-&lt;i&gt;Would you like to change it?&lt;/i&gt;
+Would you like to change it?
 
 174
 00:10:52,456 --> 00:10:55,159
@@ -704,11 +704,11 @@ Getting tailgated by a learner's car, huh?
 
 177
 00:11:07,171 --> 00:11:10,474
-&lt;i&gt;In 200 meters, the entrance&lt;/i&gt; &lt;i&gt;to the Metropolitan Expressway.&lt;/i&gt;
+In 200 meters, the entrance to the Metropolitan Expressway.
 
 178
 00:11:12,309 --> 00:11:13,844
-&lt;i&gt;100 meters to go.&lt;/i&gt;
+100 meters to go.
 
 179
 00:11:14,411 --> 00:11:17,381
@@ -748,23 +748,23 @@ Really...
 
 188
 00:11:44,174 --> 00:11:46,977
-&lt;i&gt;We're 500 meters&lt;/i&gt; &lt;i&gt;from Shibaura Junction.&lt;/i&gt;
+We're 500 meters from Shibaura Junction.
 
 189
 00:11:47,211 --> 00:11:49,046
-&lt;i&gt;Turn left onto the Odaiba line.&lt;/i&gt;
+Turn left onto the Odaiba line.
 
 190
 00:11:49,246 --> 00:11:50,447
-&lt;i&gt;Please change lanes.&lt;/i&gt;
+Please change lanes.
 
 191
 00:11:51,081 --> 00:11:53,917
-&lt;i&gt;200 meters to Shibaura Junction.&lt;/i&gt;
+200 meters to Shibaura Junction.
 
 192
 00:11:54,118 --> 00:11:55,119
-&lt;i&gt;Please change lanes.&lt;/i&gt;
+Please change lanes.
 
 193
 00:11:55,352 --> 00:11:56,887
@@ -788,11 +788,11 @@ But a truck is coming up behind us...
 
 198
 00:12:05,395 --> 00:12:06,530
-&lt;i&gt;100 meters to the junction.&lt;/i&gt;
+100 meters to the junction.
 
 199
 00:12:06,730 --> 00:12:08,465
-&lt;i&gt;Please change lanes&lt;/i&gt; &lt;i&gt;immediately.&lt;/i&gt;
+Please change lanes immediately.
 
 200
 00:12:08,665 --> 00:12:10,200
@@ -800,7 +800,7 @@ Ugh, shut up! I know!
 
 201
 00:12:12,302 --> 00:12:14,071
-&lt;i&gt;Hurry, hurry, master!&lt;/i&gt;
+Hurry, hurry, master!
 
 202
 00:12:14,271 --> 00:12:16,607
@@ -812,7 +812,7 @@ You idiot!
 
 204
 00:12:18,308 --> 00:12:20,310
-&lt;i&gt;You passed the exit.&lt;/i&gt;
+You passed the exit.
 
 205
 00:12:21,645 --> 00:12:22,546
@@ -1444,11 +1444,11 @@ Okay, GPS on!
 
 362
 00:19:54,097 --> 00:19:56,132
-&lt;i&gt;Good morning, master.&lt;/i&gt;
+Good morning, master.
 
 363
 00:19:56,366 --> 00:19:58,101
-&lt;i&gt;Where would you like to go today?&lt;/i&gt;
+Where would you like to go today?
 
 364
 00:19:58,301 --> 00:19:59,402

@@ -8,11 +8,11 @@ GOOD GRIEF, GIRLS' DAY
 
 3
 00:01:38,242 --> 00:01:43,214
-&lt;i&gt;I want some more midnight snacks&lt;/i&gt;
+I want some more midnight snacks
 
 4
 00:01:43,414 --> 00:01:45,482
-&lt;i&gt;And some juice—&lt;/i&gt;
+And some juice—
 
 5
 00:01:45,683 --> 00:01:46,584
@@ -52,7 +52,7 @@ I hate March 3! Get out of the way!
 
 14
 00:02:24,088 --> 00:02:27,424
-&lt;i&gt;Let's light the candles in the lanterns&lt;/i&gt;
+Let's light the candles in the lanterns
 
 15
 00:02:27,625 --> 00:02:29,860
@@ -212,7 +212,7 @@ Oh, by the way, isn't it someone's birthday today?
 
 54
 00:04:22,206 --> 00:04:23,674
--&lt;i&gt;Gulp!&lt;/i&gt; -Um...
+-Gulp! -Um...
 
 55
 00:04:23,874 --> 00:04:26,010
@@ -308,47 +308,47 @@ It first started when I was in elementary school.
 
 78
 00:05:30,174 --> 00:05:32,943
-&lt;i&gt;I was making a set of cardboard dolls for a local girl,&lt;/i&gt;
+I was making a set of cardboard dolls for a local girl,
 
 79
 00:05:33,143 --> 00:05:35,946
-&lt;i&gt;and I was lining them up on some stairs.&lt;/i&gt;
+and I was lining them up on some stairs.
 
 80
 00:05:36,480 --> 00:05:40,317
-&lt;i&gt;I slipped and fell down the stairs in a really bad way.&lt;/i&gt;
+I slipped and fell down the stairs in a really bad way.
 
 81
 00:05:40,517 --> 00:05:41,251
-&lt;i&gt;Oh dear.&lt;/i&gt;
+Oh dear.
 
 82
 00:05:41,719 --> 00:05:44,788
-&lt;i&gt;Then in middle school, I drank some sake and got drunk,&lt;/i&gt;
+Then in middle school, I drank some sake and got drunk,
 
 83
 00:05:44,988 --> 00:05:48,492
-&lt;i&gt;and I fell into the Sumida River and got swept out to sea.&lt;/i&gt;
+and I fell into the Sumida River and got swept out to sea.
 
 84
 00:05:48,725 --> 00:05:53,163
-&lt;i&gt;In high school, a girl caught me looking at porn and hung me out to dry.&lt;/i&gt;
+In high school, a girl caught me looking at porn and hung me out to dry.
 
 85
 00:05:53,363 --> 00:05:58,168
-&lt;i&gt;Everyone threw me under the bus,&lt;/i&gt; &lt;i&gt;and I got left out of Girls' Day.&lt;/i&gt;
+Everyone threw me under the bus, and I got left out of Girls' Day.
 
 86
 00:05:58,635 --> 00:06:01,338
-&lt;i&gt;Whenever I gamble on this day,&lt;/i&gt; &lt;i&gt;I always lose big.&lt;/i&gt;
+Whenever I gamble on this day, I always lose big.
 
 87
 00:06:01,538 --> 00:06:04,007
-&lt;i&gt;I once lost my pay&lt;/i&gt; &lt;i&gt;while fleeing creditors.&lt;/i&gt;
+I once lost my pay while fleeing creditors.
 
 88
 00:06:04,208 --> 00:06:07,611
-&lt;i&gt;Then I got attacked by crows&lt;/i&gt; &lt;i&gt;and fell from high up.&lt;/i&gt;
+Then I got attacked by crows and fell from high up.
 
 89
 00:06:08,378 --> 00:06:12,149
@@ -520,7 +520,7 @@ A threat?
 
 131
 00:08:01,625 --> 00:08:05,429
-"I will take your &lt;i&gt;hina&lt;/i&gt; dolls. Better watch out.
+"I will take your hina dolls. Better watch out.
 
 132
 00:08:05,629 --> 00:08:08,198
@@ -568,7 +568,7 @@ It's the duty of the police to try to prevent any crime before it happens.
 
 143
 00:08:38,095 --> 00:08:41,999
-But stealing &lt;i&gt;hina&lt;/i&gt; dolls? Seems a bit silly for a "monster."
+But stealing hina dolls? Seems a bit silly for a "monster."
 
 144
 00:08:42,432 --> 00:08:45,269
@@ -576,7 +576,7 @@ But stealing &lt;i&gt;hina&lt;/i&gt; dolls? Seems a bit silly for a "monster."
 
 145
 00:08:45,669 --> 00:08:50,607
-Perhaps. But our &lt;i&gt;hina &lt;/i&gt;dolls aren't just any old dolls.
+Perhaps. But our hina dolls aren't just any old dolls.
 
 146
 00:08:50,807 --> 00:08:51,608
@@ -612,7 +612,7 @@ Hey! No touching!
 
 154
 00:09:16,700 --> 00:09:18,869
-And what about the &lt;i&gt;hina&lt;/i&gt; dolls?
+And what about the hina dolls?
 
 155
 00:09:19,569 --> 00:09:23,540
@@ -640,7 +640,7 @@ In you go.
 
 161
 00:09:42,159 --> 00:09:47,030
-It's a seven-tiered Heian Komachi &lt;i&gt;hina&lt;/i&gt; doll set made by the illustrious Tamagoro!
+It's a seven-tiered Heian Komachi hina doll set made by the illustrious Tamagoro!
 
 162
 00:09:47,230 --> 00:09:48,532
@@ -740,7 +740,7 @@ What a cheapskate.
 
 186
 00:11:02,239 --> 00:11:04,508
-&lt;i&gt;Oh, the party is about to start.&lt;/i&gt;
+Oh, the party is about to start.
 
 187
 00:11:04,808 --> 00:11:07,277
@@ -932,7 +932,7 @@ Y-Yes, this is Ryotsu.
 
 234
 00:13:55,545 --> 00:13:57,480
-&lt;i&gt;It's me. You still in the bathroom?&lt;/i&gt;
+It's me. You still in the bathroom?
 
 235
 00:13:57,681 --> 00:14:00,784
@@ -944,7 +944,7 @@ What are you doing, Kankichi Ryotsu?
 
 237
 00:14:03,787 --> 00:14:05,755
-&lt;i&gt;What was that? Is someone there?&lt;/i&gt;
+What was that? Is someone there?
 
 238
 00:14:05,956 --> 00:14:07,657
@@ -956,11 +956,11 @@ If you're on duty, get back to work.
 
 240
 00:14:10,293 --> 00:14:12,128
--&lt;i&gt;Who's there, Ryotsu?&lt;/i&gt; -Shut up!
+-Who's there, Ryotsu? -Shut up!
 
 241
 00:14:12,329 --> 00:14:14,598
-&lt;i&gt;What? Stay there. I'm coming for you.&lt;/i&gt;
+What? Stay there. I'm coming for you.
 
 242
 00:14:14,798 --> 00:14:17,400
@@ -1024,7 +1024,7 @@ Oh, well, that's...
 
 257
 00:15:05,649 --> 00:15:08,852
-Anyway, I'll go and guard the &lt;i&gt;hina&lt;/i&gt; dolls.
+Anyway, I'll go and guard the hina dolls.
 
 258
 00:15:09,486 --> 00:15:10,720
@@ -1048,7 +1048,7 @@ Hmph!
 
 263
 00:15:32,208 --> 00:15:34,177
-500-million-yen &lt;i&gt;hina&lt;/i&gt; dolls.
+500-million-yen hina dolls.
 
 264
 00:15:34,644 --> 00:15:37,914
@@ -1080,11 +1080,11 @@ No, no, no! This is bad!
 
 271
 00:16:08,511 --> 00:16:09,446
-&lt;i&gt;Uh-oh...&lt;/i&gt;
+Uh-oh...
 
 272
 00:16:09,679 --> 00:16:13,750
-&lt;i&gt;They cost 500 million all together,&lt;/i&gt; &lt;i&gt;so to lose one... to lose only one...&lt;/i&gt;
+They cost 500 million all together, so to lose one... to lose only one...
 
 273
 00:16:13,950 --> 00:16:18,455
@@ -1092,7 +1092,7 @@ Huh, what's that worth? One, two, three...
 
 274
 00:16:20,523 --> 00:16:21,958
-&lt;i&gt;Tens of millions of yen!&lt;/i&gt;
+Tens of millions of yen!
 
 275
 00:16:22,459 --> 00:16:24,594
@@ -1164,11 +1164,11 @@ Is everyone okay?
 
 292
 00:17:14,811 --> 00:17:15,945
-&lt;i&gt;The sushi!&lt;/i&gt;
+The sushi!
 
 293
 00:17:16,346 --> 00:17:19,349
-&lt;i&gt;Ugh, this is more important right now.&lt;/i&gt;
+Ugh, this is more important right now.
 
 294
 00:17:22,886 --> 00:17:23,853
@@ -1188,11 +1188,11 @@ Uh-oh, the head...
 
 298
 00:17:43,339 --> 00:17:45,375
-&lt;i&gt;I'm good so long as no one touches it.&lt;/i&gt;
+I'm good so long as no one touches it.
 
 299
 00:17:45,608 --> 00:17:48,445
-&lt;i&gt;And that cheapskate&lt;/i&gt; &lt;i&gt;won't let anyone touch it.&lt;/i&gt;
+And that cheapskate won't let anyone touch it.
 
 300
 00:17:48,778 --> 00:17:49,879
@@ -1236,7 +1236,7 @@ Y-Yes, sir.
 
 310
 00:18:21,077 --> 00:18:22,512
-&lt;i&gt;He won't notice, will he?&lt;/i&gt;
+He won't notice, will he?
 
 311
 00:18:24,848 --> 00:18:25,648
@@ -1248,7 +1248,7 @@ Up close, they're definitely top-notch. What superior craftsmanship.
 
 313
 00:18:29,953 --> 00:18:32,222
-&lt;i&gt;Ugh... Please don't let him notice.&lt;/i&gt;
+Ugh... Please don't let him notice.
 
 314
 00:18:32,589 --> 00:18:34,591
@@ -1260,7 +1260,7 @@ And this empress doll is gorgeous.
 
 316
 00:18:37,126 --> 00:18:40,096
-&lt;i&gt;No, please don't stare...&lt;/i&gt;
+No, please don't stare...
 
 317
 00:18:40,597 --> 00:18:41,397
@@ -1284,11 +1284,11 @@ I... What have I done?
 
 322
 00:19:06,122 --> 00:19:07,757
-&lt;i&gt;He thinks he broke it.&lt;/i&gt;
+He thinks he broke it.
 
 323
 00:19:07,957 --> 00:19:10,093
-&lt;i&gt;Hmm, this gives me an idea...&lt;/i&gt;
+Hmm, this gives me an idea...
 
 324
 00:19:12,795 --> 00:19:13,863
@@ -1464,7 +1464,7 @@ We were playing in this room...
 
 367
 00:21:44,547 --> 00:21:47,116
-&lt;i&gt;We broke the&lt;/i&gt; hina &lt;i&gt;doll.&lt;/i&gt;
+We broke the hina doll.
 
 368
 00:21:49,552 --> 00:21:51,320
@@ -1484,7 +1484,7 @@ I'm sorry!
 
 372
 00:21:59,629 --> 00:22:02,799
-We broke your beloved &lt;i&gt;hina&lt;/i&gt; doll!
+We broke your beloved hina doll!
 
 373
 00:22:03,032 --> 00:22:03,800
@@ -1500,7 +1500,7 @@ I'm glad you're not hurt.
 
 376
 00:22:25,988 --> 00:22:27,990
-Whose &lt;i&gt;hina&lt;/i&gt; doll is this, anyway?
+Whose hina doll is this, anyway?
 
 377
 00:22:28,191 --> 00:22:31,728
@@ -1512,7 +1512,7 @@ Never you fret.
 
 379
 00:22:33,663 --> 00:22:38,668
-Papa doesn't care for those &lt;i&gt;hina &lt;/i&gt;dolls. Papa only cares about you two.
+Papa doesn't care for those hina dolls. Papa only cares about you two.
 
 380
 00:22:39,268 --> 00:22:40,203
@@ -1552,7 +1552,7 @@ Yes...
 
 389
 00:23:00,757 --> 00:23:03,493
-But then where did this &lt;i&gt;hina&lt;/i&gt; doll come from?
+But then where did this hina doll come from?
 
 390
 00:23:03,693 --> 00:23:04,494

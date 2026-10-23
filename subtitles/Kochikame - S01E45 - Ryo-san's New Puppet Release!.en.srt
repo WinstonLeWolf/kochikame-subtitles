@@ -336,15 +336,15 @@ Page 572, Section 17 of the Service Regulations.
 
 85
 00:06:12,082 --> 00:06:13,550
-&lt;i&gt;Damn it.&lt;/i&gt;
+Damn it.
 
 86
 00:06:13,750 --> 00:06:17,854
-&lt;i&gt;Today's the day&lt;/i&gt; &lt;i&gt;Virtual Fantasy X arrives at the arcade.&lt;/i&gt;
+Today's the day Virtual Fantasy X arrives at the arcade.
 
 87
 00:06:18,054 --> 00:06:21,591
-&lt;i&gt;If I can just get rid of the trainee,&lt;/i&gt; &lt;i&gt;I can play it all I want.&lt;/i&gt;
+If I can just get rid of the trainee, I can play it all I want.
 
 88
 00:06:22,225 --> 00:06:24,928
@@ -388,11 +388,11 @@ Hmm?
 
 98
 00:06:57,627 --> 00:07:00,029
-&lt;i&gt;Ten minutes until the arcade opens.&lt;/i&gt;
+Ten minutes until the arcade opens.
 
 99
 00:07:02,265 --> 00:07:06,403
-&lt;i&gt;Mine is gonna be the first coin&lt;/i&gt; &lt;i&gt;in the new game machine!&lt;/i&gt;
+Mine is gonna be the first coin in the new game machine!
 
 100
 00:07:06,603 --> 00:07:07,604
@@ -468,7 +468,7 @@ Are you shirking your supervisor responsibilities?
 
 118
 00:07:56,453 --> 00:08:01,257
-&lt;i&gt;I'm gonna miss out on being the first&lt;/i&gt; &lt;i&gt;to play Virtual Fantasy X at this rate.&lt;/i&gt;
+I'm gonna miss out on being the first to play Virtual Fantasy X at this rate.
 
 119
 00:08:01,791 --> 00:08:02,959
@@ -484,7 +484,7 @@ Huh?
 
 122
 00:08:12,168 --> 00:08:14,137
-&lt;i&gt;I'll give him the slip when I can.&lt;/i&gt;
+I'll give him the slip when I can.
 
 123
 00:08:15,538 --> 00:08:17,874
@@ -696,11 +696,11 @@ Hmm?
 
 175
 00:11:36,239 --> 00:11:37,640
-&lt;i&gt;Attention all units.&lt;/i&gt;
+Attention all units.
 
 176
 00:11:37,840 --> 00:11:42,078
-&lt;i&gt;Vandal apprehended at the arcade&lt;/i&gt; &lt;i&gt;in the shopping district near the station.&lt;/i&gt;
+Vandal apprehended at the arcade in the shopping district near the station.
 
 177
 00:11:42,312 --> 00:11:43,246
@@ -740,7 +740,7 @@ Crime has a scent?
 
 186
 00:12:18,748 --> 00:12:21,718
-&lt;i&gt;He's buying it. Now's my chance!&lt;/i&gt;
+He's buying it. Now's my chance!
 
 187
 00:12:22,452 --> 00:12:27,590
@@ -996,11 +996,11 @@ Why not? He had the energy to choke you, so he'll be fine.
 
 250
 00:15:43,886 --> 00:15:48,357
-&lt;i&gt;He sensed a crime&lt;/i&gt; &lt;i&gt;and saved a life all within one hour.&lt;/i&gt;
+He sensed a crime and saved a life all within one hour.
 
 251
 00:15:49,125 --> 00:15:52,929
-&lt;i&gt;Maybe this man is one of those&lt;/i&gt; &lt;i&gt;rare, outstanding police officers.&lt;/i&gt;
+Maybe this man is one of those rare, outstanding police officers.
 
 252
 00:15:54,096 --> 00:15:57,633
@@ -1008,7 +1008,7 @@ He said he got "laid," yeah? Isn't that typically a good thing?
 
 253
 00:15:58,267 --> 00:15:59,835
-&lt;i&gt;Or maybe not.&lt;/i&gt;
+Or maybe not.
 
 254
 00:16:00,770 --> 00:16:03,839

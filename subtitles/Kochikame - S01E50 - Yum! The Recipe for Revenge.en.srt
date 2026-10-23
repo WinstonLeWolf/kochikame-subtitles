@@ -100,7 +100,7 @@ Thanks to Tabedaore, we can use our time more efficiently.
 
 26
 00:02:45,010 --> 00:02:48,580
-&lt;i&gt;Hard, hard, ZX-Hard...&lt;/i&gt;
+Hard, hard, ZX-Hard...
 
 27
 00:02:50,015 --> 00:02:51,116
@@ -320,7 +320,7 @@ Just like a communications command center!
 
 81
 00:05:26,104 --> 00:05:28,740
--Delivery ready for Kameari 4th district. -&lt;i&gt;Roger that!&lt;/i&gt;
+-Delivery ready for Kameari 4th district. -Roger that!
 
 82
 00:05:29,607 --> 00:05:31,643
@@ -376,7 +376,7 @@ It's so cramped.
 
 95
 00:05:57,202 --> 00:06:00,271
-&lt;i&gt;Please take your delivery slip.&lt;/i&gt;
+Please take your delivery slip.
 
 96
 00:06:00,538 --> 00:06:01,339
@@ -384,7 +384,7 @@ This thing?
 
 97
 00:06:01,539 --> 00:06:04,375
-&lt;i&gt;Delivery number 13,&lt;/i&gt; &lt;i&gt;standby for launch.&lt;/i&gt;
+Delivery number 13, standby for launch.
 
 98
 00:06:05,543 --> 00:06:06,478
@@ -400,7 +400,7 @@ Woah! This is like a secret base from a robot anime!
 
 101
 00:06:35,640 --> 00:06:38,009
-&lt;i&gt;Delivery number 13, launch!&lt;/i&gt;
+Delivery number 13, launch!
 
 102
 00:06:49,787 --> 00:06:51,189
@@ -856,7 +856,7 @@ Honestly, I wish he'd just stay a delivery boy.
 
 215
 00:11:20,224 --> 00:11:22,493
-&lt;i&gt;Damn, they're just saying&lt;/i&gt; &lt;i&gt;whatever they want.&lt;/i&gt;
+Damn, they're just saying whatever they want.
 
 216
 00:11:22,693 --> 00:11:23,528
@@ -1000,15 +1000,15 @@ Try being the one who has to collect them.
 
 251
 00:13:15,973 --> 00:13:19,577
-&lt;i&gt;I'm only here to collect the dishes.&lt;/i&gt;
+I'm only here to collect the dishes.
 
 252
 00:13:25,516 --> 00:13:28,553
-&lt;i&gt;You must clean up after yourself.&lt;/i&gt;
+You must clean up after yourself.
 
 253
 00:13:28,953 --> 00:13:32,523
-&lt;i&gt;Modern people need to learn&lt;/i&gt; &lt;i&gt;how valuable food is.&lt;/i&gt;
+Modern people need to learn how valuable food is.
 
 254
 00:13:32,790 --> 00:13:35,293
@@ -1256,11 +1256,11 @@ Oh, customers. Honda, go!
 
 315
 00:16:45,916 --> 00:16:49,553
-&lt;i&gt;Manager,&lt;/i&gt; &lt;i&gt;please come to the guest room.&lt;/i&gt;
+Manager, please come to the guest room.
 
 316
 00:16:49,754 --> 00:16:52,156
-&lt;i&gt;Chief Ohara from&lt;/i&gt; &lt;i&gt;Katsushika PD is here.&lt;/i&gt;
+Chief Ohara from Katsushika PD is here.
 
 317
 00:16:52,757 --> 00:16:53,824
@@ -1324,7 +1324,7 @@ Oh my God! The Katsushika PD's reception is today.
 
 332
 00:17:41,205 --> 00:17:46,143
-&lt;i&gt;Unsafe construction was found.&lt;/i&gt; &lt;i&gt;We'll be closed tomorrow.&lt;/i&gt;
+Unsafe construction was found. We'll be closed tomorrow.
 
 333
 00:17:47,178 --> 00:17:48,646

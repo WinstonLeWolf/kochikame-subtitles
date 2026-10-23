@@ -56,7 +56,7 @@ Ryo-san!
 
 15
 00:02:31,622 --> 00:02:33,157
-Today is &lt;i&gt;Dragon Tur&lt;/i&gt;....
+Today is Dragon Tur....
 
 16
 00:02:34,892 --> 00:02:35,893
@@ -180,11 +180,11 @@ Oops, it's about time.
 
 46
 00:04:10,955 --> 00:04:13,057
-&lt;i&gt;Let's start with the first race.&lt;/i&gt;
+Let's start with the first race.
 
 47
 00:04:13,257 --> 00:04:16,160
-&lt;i&gt;-Here are the horses.&lt;/i&gt; -Um, starting with the first race...
+-Here are the horses. -Um, starting with the first race...
 
 48
 00:04:16,360 --> 00:04:18,262
@@ -408,7 +408,7 @@ It wasn't me. I swear!
 
 103
 00:07:04,161 --> 00:07:07,965
-&lt;i&gt;Oh, that's right. Dragon Turtle VII comes out today.&lt;/i&gt;
+Oh, that's right. Dragon Turtle VII comes out today.
 
 104
 00:07:09,233 --> 00:07:11,001
@@ -452,11 +452,11 @@ I'm sorry.
 
 114
 00:07:38,829 --> 00:07:42,933
-&lt;i&gt;While I'm doing this, Dragon Turtle will sell out.&lt;/i&gt;
+While I'm doing this, Dragon Turtle will sell out.
 
 115
 00:07:48,706 --> 00:07:51,408
-&lt;i&gt;Dragon Turtle, Dragon Turtle...&lt;/i&gt;
+Dragon Turtle, Dragon Turtle...
 
 116
 00:07:57,181 --> 00:07:59,216
@@ -468,15 +468,15 @@ Uh, no reason.
 
 118
 00:08:02,553 --> 00:08:05,156
-&lt;i&gt;Dragon Turtle is gonna sell out!&lt;/i&gt;
+Dragon Turtle is gonna sell out!
 
 119
 00:08:05,356 --> 00:08:07,391
-&lt;i&gt;Ugh, this is bad for my health.&lt;/i&gt;
+Ugh, this is bad for my health.
 
 120
 00:08:07,591 --> 00:08:09,426
-&lt;i&gt;I don't care what happens next!&lt;/i&gt;
+I don't care what happens next!
 
 121
 00:08:11,295 --> 00:08:12,997
@@ -488,7 +488,7 @@ I won't let you get away!
 
 123
 00:08:19,236 --> 00:08:20,905
-&lt;i&gt;Dragon Turtle! Dragon Turtle!&lt;/i&gt;
+Dragon Turtle! Dragon Turtle!
 
 124
 00:08:21,705 --> 00:08:23,307
@@ -508,7 +508,7 @@ Ryotsu! You can't escape from me!
 
 128
 00:08:50,901 --> 00:08:54,939
-Argh! Let me go, Chief! &lt;i&gt;Dragon Turtle&lt;/i&gt; will sell out!
+Argh! Let me go, Chief! Dragon Turtle will sell out!
 
 129
 00:08:56,006 --> 00:08:57,441
@@ -728,7 +728,7 @@ Just a second.
 
 183
 00:13:26,743 --> 00:13:28,445
-Did you play &lt;i&gt;Dragon Turtle &lt;/i&gt;already?
+Did you play Dragon Turtle already?
 
 184
 00:13:28,645 --> 00:13:29,680
@@ -760,7 +760,7 @@ Well, I'm not sure. He seems to be staying quiet.
 
 191
 00:14:04,548 --> 00:14:08,685
-&lt;i&gt;I'll cut the power to the police station and slip out in the chaos!&lt;/i&gt;
+I'll cut the power to the police station and slip out in the chaos!
 
 192
 00:14:12,422 --> 00:14:13,257
@@ -780,7 +780,7 @@ Now's my chance.
 
 196
 00:14:25,035 --> 00:14:26,069
-&lt;i&gt;Oh no!&lt;/i&gt;
+Oh no!
 
 197
 00:14:28,272 --> 00:14:30,107
@@ -868,7 +868,7 @@ That crafty little...
 
 218
 00:15:36,573 --> 00:15:38,408
-So that &lt;i&gt;was&lt;/i&gt; him just now!
+So that was him just now!
 
 219
 00:15:39,743 --> 00:15:40,410
@@ -924,11 +924,11 @@ How about that, Ryotsu?
 
 232
 00:16:29,860 --> 00:16:31,728
-&lt;i&gt;I can't believe he's gone this far.&lt;/i&gt;
+I can't believe he's gone this far.
 
 233
 00:16:31,928 --> 00:16:34,331
-&lt;i&gt;It's time for the last resort!&lt;/i&gt;
+It's time for the last resort!
 
 234
 00:16:38,068 --> 00:16:39,669
@@ -972,7 +972,7 @@ That's strange. I could've sworn...
 
 244
 00:17:29,086 --> 00:17:31,288
-&lt;i&gt;Uh-oh! I'm still inside the station!&lt;/i&gt;
+Uh-oh! I'm still inside the station!
 
 245
 00:17:32,422 --> 00:17:35,425
@@ -1024,7 +1024,7 @@ Ryotsu, are you doing something?
 
 257
 00:18:14,564 --> 00:18:20,337
-&lt;i&gt;Namu Myoho Renge Kyo, Hannya Hara Miya Ho...&lt;/i&gt;
+Namu Myoho Renge Kyo, Hannya Hara Miya Ho...
 
 258
 00:18:21,571 --> 00:18:23,907
@@ -1116,11 +1116,11 @@ Ryotsu!
 
 280
 00:19:38,915 --> 00:19:44,354
-&lt;i&gt;Namu Myoho Renge Kyo, Hannya Hora Mata Ho...&lt;/i&gt;
+Namu Myoho Renge Kyo, Hannya Hora Mata Ho...
 
 281
 00:19:44,888 --> 00:19:46,990
-&lt;i&gt;With a mind free of all thought...&lt;/i&gt;
+With a mind free of all thought...
 
 282
 00:19:51,127 --> 00:19:52,562
